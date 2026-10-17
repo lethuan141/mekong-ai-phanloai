@@ -175,7 +175,7 @@ Các phần đã được bổ sung vào repository:
 
 Các phần cần kiểm tra hoặc hoàn thiện trước khi nộp:
 
-- [ ] Chạy lại chương trình EDA và xác nhận kết quả.
+- [x] Chạy lại chương trình EDA và xác nhận kết quả.
 - [ ] Tạo Jupyter Notebook `notebooks/01_eda.ipynb` có thống kê mô tả, biểu đồ và nhận xét.
 - [ ] Chạy huấn luyện mô hình và xác nhận báo cáo được sinh thành công.
 - [ ] Chạy `pytest -q` và ghi nhận kết quả.
