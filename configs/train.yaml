@@ -1,0 +1,29 @@
+# HAT GIONG NGAU NHIEN — dat tuong minh, KHONG de mac dinh.
+# Moi cho co ngau nhien deu nhan hat giong nay: chia du lieu, khoi tao mo hinh.
+# Doi hat giong se doi ket qua; do la binh thuong, mien la ket qua duoc GHI KEM
+# hat giong da dung.
+hat_giong: 42
+
+# Nguon du lieu
+duong_dan_du_lieu: data/mau/issue_descriptions.csv
+cot_van_ban: issue_desc
+cot_nhan: issue_category
+
+# Chia du lieu 70 / 15 / 15, PHAN TANG theo nhan (stratify) de moi tap deu co
+# du sau nhan. Chia thuong co the tao ra mot tap khong co mau nao cua nhan it gap.
+ti_le_test: 0.15
+ti_le_val: 0.15
+
+# Vector hoa van ban
+tfidf:
+  ngram_range: [1, 2]
+  min_df: 2
+  max_features: 20000
+
+# Nguong danh gia thien lech: chenh lech F1 macro giua nhom tot nhat va nhom
+# kem nhat. Tren nguong nay thi PHAI neu trong Model card kem bien phap giam thieu.
+nguong_thien_lech: 0.15
+
+# Duong dan dau ra
+duong_dan_mo_hinh: artifacts/model_v1.joblib
+duong_dan_bao_cao: reports/metrics.json

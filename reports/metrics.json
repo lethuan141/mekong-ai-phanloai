@@ -1,0 +1,204 @@
+{
+  "ba_ket_luan_tu_confusion_matrix": {
+    "cap_nham_nhieu_nhat": {
+      "cap": [
+        "PIN",
+        "SAC"
+      ],
+      "so_lan": 17
+    },
+    "nhan_hut_du_doan_sai_nhieu_nhat": {
+      "nhan": "MAN_HINH",
+      "so_du_doan_sai": 16
+    },
+    "nhan_recall_thap_nhat": {
+      "nhan": "PHAN_MEM",
+      "recall": 0.6667
+    }
+  },
+  "chi_so_tren_tap_test": {
+    "confusion_matrix": [
+      [
+        48,
+        0,
+        11,
+        4,
+        1,
+        0
+      ],
+      [
+        0,
+        77,
+        0,
+        0,
+        0,
+        1
+      ],
+      [
+        4,
+        0,
+        36,
+        0,
+        0,
+        0
+      ],
+      [
+        3,
+        15,
+        0,
+        38,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        52,
+        13
+      ],
+      [
+        0,
+        1,
+        0,
+        0,
+        4,
+        51
+      ]
+    ],
+    "f1_macro": 0.8318,
+    "f1_theo_nhan": {
+      "KHAC": 0.8067,
+      "MAN_HINH": 0.9006,
+      "NUOC_VAO": 0.8276,
+      "PHAN_MEM": 0.7677,
+      "PIN": 0.8525,
+      "SAC": 0.8361
+    },
+    "nhan_labels": [
+      "KHAC",
+      "MAN_HINH",
+      "NUOC_VAO",
+      "PHAN_MEM",
+      "PIN",
+      "SAC"
+    ],
+    "recall_theo_nhan": {
+      "KHAC": 0.75,
+      "MAN_HINH": 0.9872,
+      "NUOC_VAO": 0.9,
+      "PHAN_MEM": 0.6667,
+      "PIN": 0.8,
+      "SAC": 0.9107
+    }
+  },
+  "dieu_kien_do": {
+    "hat_giong": 42,
+    "nguon_du_lieu": "data/mau/issue_descriptions.csv",
+    "phan_bo_nhan": {
+      "KHAC": 428,
+      "MAN_HINH": 518,
+      "NUOC_VAO": 265,
+      "PHAN_MEM": 380,
+      "PIN": 434,
+      "SAC": 375
+    },
+    "so_dong_bi_bo_vi_thieu_nhan": 0,
+    "so_dong_du_lieu": 2400,
+    "so_mau_test": 360,
+    "so_mau_train": 1680,
+    "so_mau_val": 360,
+    "tfidf": {
+      "max_features": 20000,
+      "min_df": 2,
+      "ngram_range": [
+        1,
+        2
+      ]
+    }
+  },
+  "mo_hinh_co_so": {
+    "nhan_da_so": {
+      "f1_macro_val": 0.0587,
+      "ghi_chu": "MUC SAN — luon doan nhan xuat hien nhieu nhat"
+    },
+    "tfidf_logistic": {
+      "f1_macro_val": 0.8008,
+      "ghi_chu": "MUC CHUAN — TF-IDF + hoi quy logistic"
+    }
+  },
+  "mo_hinh_da_chon": "complement_nb",
+  "so_lan_do_tap_test": 1,
+  "so_sanh_tren_validation": {
+    "complement_nb": 0.8236,
+    "linear_svc": 0.8055,
+    "logistic": 0.8008
+  },
+  "thien_lech": {
+    "cac_cach_nhom": [
+      {
+        "chenh_lech": 0.0142,
+        "cot_nhom": "_nhom_do_dai",
+        "nhom_kem_nhat": {
+          "f1_macro": 0.8187,
+          "nhom": "ngan_duoi_10_tu"
+        },
+        "nhom_tot_nhat": {
+          "f1_macro": 0.8329,
+          "nhom": "dai_tu_10_tu"
+        },
+        "theo_nhom": {
+          "dai_tu_10_tu": {
+            "f1_macro": 0.8329,
+            "so_mau": 251
+          },
+          "ngan_duoi_10_tu": {
+            "f1_macro": 0.8187,
+            "so_mau": 109
+          }
+        }
+      },
+      {
+        "chenh_lech": 0.1602,
+        "cot_nhom": "center_id",
+        "nhom_kem_nhat": {
+          "f1_macro": 0.7658,
+          "nhom": "1"
+        },
+        "nhom_tot_nhat": {
+          "f1_macro": 0.926,
+          "nhom": "2"
+        },
+        "theo_nhom": {
+          "1": {
+            "f1_macro": 0.7658,
+            "so_mau": 72
+          },
+          "2": {
+            "f1_macro": 0.926,
+            "so_mau": 51
+          },
+          "3": {
+            "f1_macro": 0.8479,
+            "so_mau": 60
+          },
+          "4": {
+            "f1_macro": 0.8864,
+            "so_mau": 57
+          },
+          "5": {
+            "f1_macro": 0.7847,
+            "so_mau": 53
+          },
+          "6": {
+            "f1_macro": 0.8052,
+            "so_mau": 67
+          }
+        }
+      }
+    ],
+    "nguong_canh_bao": 0.15,
+    "so_cach_nhom_vuot_nguong": 1
+  }
+}

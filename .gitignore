@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+# KHONG commit tep mo hinh: tep nhi phan vai chuc MB, khong xem duoc khac biet
+# giua hai phien ban. Thay vao do commit script sinh ra no + hat giong + phien
+# ban thu vien chinh xac. Xem docs/thay-doi-thiet-ke.md muc 4.
+artifacts/*
+!artifacts/.gitkeep
+# Bao cao chi so LA tep van ban nho, doc duoc -> NEN commit
+!reports/metrics.json
+.DS_Store

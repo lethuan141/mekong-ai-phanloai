@@ -1,0 +1,2401 @@
+desc_id,issue_desc,issue_category,center_id
+1,kh nói máy có hơi nước trong camera khách chưa từng sửa ở đâu,NUOC_VAO,3
+2,kh nói khay sim bị móp xảy ra sau khi rơi,KHAC,6
+3,tinh trang: man hinh nhap nhay lien tuc,MAN_HINH,1
+4,tình trạng: ứng dụng tự thoát liên tục máy còn bảo hành,PHAN_MEM,6
+5,sạc không vào điện,SAC,1
+6,không đăng nhập được vào máy bị từ tuần trước,KHAC,6
+7,điểm chết giữa màn hình máy còn bảo hành,MAN_HINH,5
+8,"khách mang máy tới, hình bị nhoè khi mở ứng dụng máy còn bảo hành",MAN_HINH,5
+9,kh nói máy nóng bất thường khi dùng nhẹ đã mang đi sửa một lần,PIN,3
+10,kh nói máy ngâm nước biển khi đi tắm,NUOC_VAO,3
+11,khách hàng phản ánh cổng sạc bị lỏng phải giữ mới vào đã mang đi sửa một lần,SAC,3
+12,tình trạng: sạc đầy nhưng rút ra là tắt,PIN,5
+13,kinh man hinh vo nhung van hien thi,MAN_HINH,4
+14,máy chỉ lên khi cắm sạc,SAC,3
+15,tình trạng: màn hình đứng không bấm được mới bị 2 ngày nay,MAN_HINH,4
+16,khach hang phan anh may tu tat khi con ba muoi phan tram da mang di sua mot lan,PIN,4
+17,"khach mang may toi, do nuoc ngot vao ban phim bi tu tuan truoc",NUOC_VAO,1
+18,tình trạng: kính màn hình vỡ nhưng vẫn hiển thị bị từ tuần trước,MAN_HINH,1
+19,máy không nhận thẻ nhớ,KHAC,4
+20,tình trạng: màn hình bị chảy mực loang bị từ tuần trước,MAN_HINH,1
+21,khách báo kính màn hình vỡ nhưng vẫn hiển thị khách chưa từng sửa ở đâu,MAN_HINH,1
+22,loa ngoài rè không nghe rõ mới bị 2 ngày nay,KHAC,2
+23,"khách mang máy tới, màn hình đứng không bấm được bị từ tuần trước",MAN_HINH,3
+24,khách hàng phản ánh điểm chết giữa màn hình bị từ tuần trước,MAN_HINH,1
+25,khách báo điểm chết giữa màn hình máy còn bảo hành,MAN_HINH,1
+26,"khách mang máy tới, mất tiếng khi gọi nhưng loa ngoài vẫn tốt xảy ra sau khi rơi",KHAC,1
+27,máy treo không tắt được,MAN_HINH,4
+28,kh nói cổng sạc bị lỏng phải giữ mới vào máy còn bảo hành,SAC,2
+29,điểm chết giữa màn hình,MAN_HINH,1
+30,tinh trang: loa ngoai re khong nghe ro moi bi 2 ngay nay,KHAC,6
+31,rung không hoạt động khách chưa từng sửa ở đâu,KHAC,4
+32,khách báo màn hình bị nứt góc dưới đã mang đi sửa một lần,MAN_HINH,4
+33,không cài được ứng dụng báo lỗi,PHAN_MEM,4
+34,wifi tự ngắt liên tục,KHAC,2
+35,"khách mang máy tới, máy có hơi nước trong camera",KHAC,1
+36,khách báo wifi tự ngắt liên tục mới bị 2 ngày nay,KHAC,4
+37,tình trạng: cắm sạc không lên gì bị từ tuần trước,PIN,6
+38,rung không hoạt động,KHAC,3
+39,khách hàng phản ánh máy nóng bất thường khi dùng nhẹ đã thử khởi động lại không được,PIN,2
+40,khách báo không kết nối được tai nghe không dây bị từ tuần trước,KHAC,6
+41,quên mật khẩu tài khoản,PHAN_MEM,5
+42,kh nói rơi vào bồn cầu đã lau khô,NUOC_VAO,6
+43,khách báo máy nóng bất thường khi dùng nhẹ máy còn bảo hành,PIN,1
+44,cam ung khong nhan o nua tren may con bao hanh,MAN_HINH,3
+45,máy ngâm nước biển khi đi tắm,NUOC_VAO,2
+46,kính màn hình vỡ nhưng vẫn hiển thị,MAN_HINH,3
+47,hết pin rất nhanh và sạc lâu,PIN,5
+48,tình trạng: rung không hoạt động mới bị 2 ngày nay,KHAC,1
+49,khách báo điện thoại dính nước mưa cả buổi khách chưa từng sửa ở đâu,NUOC_VAO,4
+50,kh nói màn hình sọc dọc nhiều đường,MAN_HINH,2
+51,nước vào loa nghe ọc ọc,NUOC_VAO,3
+52,"khach mang may toi, khong cai duoc ung dung bao loi khach chua tung sua o dau",PHAN_MEM,1
+53,tình trạng: sạc vào rất chậm mất cả đêm,SAC,6
+54,cáp sạc chỉ vào khi cắm một chiều,SAC,1
+55,điểm chết giữa màn hình,MAN_HINH,2
+56,khách hàng phản ánh sạc không vào điện mới bị 2 ngày nay,SAC,5
+57,kh nói không đăng nhập được vào máy bị từ tuần trước,KHAC,3
+58,màn hình bị chảy mực loang,MAN_HINH,2
+59,"khách mang máy tới, máy không nhận sạc khách chưa từng sửa ở đâu",PIN,1
+60,"khách mang máy tới, máy treo không tắt được máy còn bảo hành",MAN_HINH,4
+61,cắm sạc không lên gì,SAC,1
+62,kh nói điểm chết giữa màn hình đã mang đi sửa một lần,MAN_HINH,2
+63,khách báo pin chai chỉ dùng được hai tiếng đã thử khởi động lại không được,SAC,2
+64,kh noi khong ket noi duoc tai nghe khong day khach chua tung sua o dau,KHAC,5
+65,khách hàng phản ánh không đăng nhập được vào máy bị từ tuần trước,KHAC,3
+66,rơi vào bồn cầu đã lau khô,NUOC_VAO,6
+67,"khách mang máy tới, máy có hơi nước trong camera đã mang đi sửa một lần",NUOC_VAO,5
+68,loa bị rè sau khi máy ẩm,KHAC,2
+69,khách hàng phản ánh hình bị nhoè khi mở ứng dụng,MAN_HINH,2
+70,tình trạng: camera mở lên bị đen máy còn bảo hành,PHAN_MEM,3
+71,cắm sạc vào không thấy báo gì,MAN_HINH,2
+72,khách báo chân cắm bị vênh mới bị 2 ngày nay,SAC,5
+73,khach bao may chay cham sau khi cap nhat,PHAN_MEM,5
+74,máy không lên nguồn,PIN,5
+75,khách báo quên mật khẩu tài khoản đã mang đi sửa một lần,PHAN_MEM,3
+76,kh noi chan cam bi venh,SAC,2
+77,tình trạng: sạc không vào điện xảy ra sau khi rơi,PIN,4
+78,máy không nhận thẻ nhớ bị từ tuần trước,PHAN_MEM,1
+79,"khách mang máy tới, ứng dụng tự thoát liên tục bị từ tuần trước",PHAN_MEM,3
+80,tình trạng: rung không hoạt động xảy ra sau khi rơi,KHAC,3
+81,pin chai chỉ dùng được hai tiếng,PIN,1
+82,KHÁCH HÀNG PHẢN ÁNH MÁY TREO LOGO KHI KHỞI ĐỘNG ĐÃ MANG ĐI SỬA MỘT LẦN,PHAN_MEM,1
+83,tình trạng: máy tự tắt khi còn ba mươi phần trăm xảy ra sau khi rơi,PIN,5
+84,KH NÓI MÀN HÌNH BỊ NỨT GÓC DƯỚI,MAN_HINH,3
+85,khách báo cắm sạc vào không thấy báo gì đã thử khởi động lại không được,PIN,6
+86,máy không nhận sạc,SAC,2
+87,pin tut tu tam muoi xuong hai muoi trong nua gio,PIN,3
+88,"khách mang máy tới, loa bị rè sau khi máy ẩm đã thử khởi động lại không được",KHAC,5
+89,tinh trang: khong cai duoc ung dung bao loi may con bao hanh,KHAC,3
+90,khách báo củ sạc nóng và có mùi khét máy còn bảo hành,SAC,4
+91,may co hoi nuoc trong camera,NUOC_VAO,6
+92,tình trạng: loa bị rè sau khi máy ẩm xảy ra sau khi rơi,KHAC,2
+93,kh nói máy treo không tắt được máy còn bảo hành,PHAN_MEM,6
+94,"khach mang may toi, pin chai chi dung duoc hai tieng moi bi 2 ngay nay",PIN,4
+95,khach hang phan anh man hinh bi nut goc duoi bi tu tuan truoc,MAN_HINH,1
+96,sac day nhung rut ra la tat,SAC,3
+97,tình trạng: cáp sạc chỉ vào khi cắm một chiều,SAC,2
+98,"khách mang máy tới, máy ngâm nước biển khi đi tắm",NUOC_VAO,3
+99,máy tự tắt khi còn ba mươi phần trăm máy còn bảo hành,PIN,1
+100,rơi vào bồn cầu đã lau khô máy còn bảo hành,NUOC_VAO,2
+101,kh nói rung không hoạt động,KHAC,6
+102,"khách mang máy tới, pin chai chỉ dùng được hai tiếng mới bị 2 ngày nay",PIN,1
+103,chân cắm bị vênh,SAC,3
+104,khach hang phan anh man hinh bi chay muc loang da thu khoi dong lai khong duoc,MAN_HINH,2
+105,"khách mang máy tới, loa bị rè sau khi máy ẩm xảy ra sau khi rơi",NUOC_VAO,6
+106,tình trạng: không kết nối được tai nghe không dây,KHAC,3
+107,camera mở lên bị đen,PHAN_MEM,3
+108,loa bị rè sau khi máy ẩm,NUOC_VAO,6
+109,máy chỉ lên khi cắm sạc đã mang đi sửa một lần,SAC,4
+110,TÌNH TRẠNG: WIFI TỰ NGẮT LIÊN TỤC,KHAC,1
+111,kh noi kinh man hinh vo nhung van hien thi,MAN_HINH,2
+112,may ngam nuoc bien khi di tam moi bi 2 ngay nay,NUOC_VAO,5
+113,"khách mang máy tới, máy tự tắt khi còn ba mươi phần trăm máy còn bảo hành",PIN,2
+114,"khách mang máy tới, điện thoại dính nước mưa cả buổi xảy ra sau khi rơi",NUOC_VAO,5
+115,wifi tự ngắt liên tục xảy ra sau khi rơi,KHAC,4
+116,khach bao may khong nhan the nho da mang di sua mot lan,KHAC,3
+117,kh nói điện thoại dính nước mưa cả buổi khách chưa từng sửa ở đâu,NUOC_VAO,3
+118,khách báo máy treo không tắt được,PHAN_MEM,2
+119,khay sim bị móp,KHAC,4
+120,khách báo loa ngoài rè không nghe rõ đã thử khởi động lại không được,KHAC,1
+121,khách hàng phản ánh hết pin rất nhanh và sạc lâu mới bị 2 ngày nay,SAC,5
+122,khách báo pin tụt từ tám mươi xuống hai mươi trong nửa giờ đã mang đi sửa một lần,PIN,2
+123,khách hàng phản ánh màn hình sọc dọc nhiều đường đã mang đi sửa một lần,PHAN_MEM,6
+124,không cài được ứng dụng báo lỗi,PHAN_MEM,6
+125,TÌNH TRẠNG: KHÔNG NHẬN SIM MÁY CÒN BẢO HÀNH,KHAC,6
+126,kh nói hết pin rất nhanh và sạc lâu máy còn bảo hành,PIN,4
+127,CẮM SẠC VÀO KHÔNG THẤY BÁO GÌ MỚI BỊ 2 NGÀY NAY,SAC,1
+128,"khách mang máy tới, bàn phím ảo không hiện lên máy còn bảo hành",PHAN_MEM,2
+129,KHÁCH BÁO MÁY TREO KHÔNG TẮT ĐƯỢC KHÁCH CHƯA TỪNG SỬA Ở ĐÂU,MAN_HINH,5
+130,"khách mang máy tới, máy tự tắt khi còn ba mươi phần trăm mới bị 2 ngày nay",PIN,2
+131,tinh trang: pin phong lam ho vien may da thu khoi dong lai khong duoc,PIN,3
+132,khách báo loa bị rè sau khi máy ẩm xảy ra sau khi rơi,KHAC,5
+133,tình trạng: sạc đầy nhưng rút ra là tắt,PIN,1
+134,MÀN HÌNH ĐEN KHÔNG THẤY GÌ,MAN_HINH,5
+135,màn hình bị nứt góc dưới,MAN_HINH,6
+136,"khách mang máy tới, không kết nối được tai nghe không dây",KHAC,1
+137,khách hàng phản ánh củ sạc nóng và có mùi khét,SAC,2
+138,may treo khong tat duoc da mang di sua mot lan,MAN_HINH,5
+139,tình trạng: hình bị nhoè khi mở ứng dụng mới bị 2 ngày nay,MAN_HINH,2
+140,tình trạng: pin phồng làm hở viền máy khách chưa từng sửa ở đâu,SAC,2
+141,khách hàng phản ánh cảm ứng không nhận ở nửa trên mới bị 2 ngày nay,MAN_HINH,4
+142,khách báo cắm sạc vào không thấy báo gì máy còn bảo hành,PIN,1
+143,khách báo pin chai chỉ dùng được hai tiếng máy còn bảo hành,PIN,3
+144,kh noi may treo khong tat duoc da mang di sua mot lan,PHAN_MEM,3
+145,kh noi kinh man hinh vo nhung van hien thi da mang di sua mot lan,MAN_HINH,6
+146,pin tụt từ tám mươi xuống hai mươi trong nửa giờ xảy ra sau khi rơi,PIN,2
+147,kh nói máy nóng bất thường khi dùng nhẹ mới bị 2 ngày nay,PIN,1
+148,khách hàng phản ánh pin chai chỉ dùng được hai tiếng xảy ra sau khi rơi,PIN,2
+149,kh nói không nhận sim xảy ra sau khi rơi,KHAC,4
+150,wifi tự ngắt liên tục khách chưa từng sửa ở đâu,KHAC,1
+151,kh nói sạc vào rất chậm mất cả đêm bị từ tuần trước,SAC,4
+152,tình trạng: máy có hơi nước trong camera bị từ tuần trước,NUOC_VAO,4
+153,khách hàng phản ánh ứng dụng tự thoát liên tục,PHAN_MEM,3
+154,"khách mang máy tới, nút nguồn bị kẹt đã thử khởi động lại không được",KHAC,3
+155,loa bị rè sau khi máy ẩm,KHAC,5
+156,khay sim bi mop,KHAC,1
+157,khách hàng phản ánh máy chạy chậm sau khi cập nhật xảy ra sau khi rơi,PHAN_MEM,6
+158,điện thoại dính nước mưa cả buổi,NUOC_VAO,1
+159,tình trạng: loa bị rè sau khi máy ẩm đã mang đi sửa một lần,NUOC_VAO,6
+160,"khách mang máy tới, điện thoại dính nước mưa cả buổi khách chưa từng sửa ở đâu",NUOC_VAO,1
+161,tình trạng: máy nóng bất thường khi dùng nhẹ đã mang đi sửa một lần,PIN,2
+162,máy không nhận sạc,SAC,3
+163,tình trạng: máy ngâm nước biển khi đi tắm,KHAC,3
+164,loa bị rè sau khi máy ẩm,KHAC,6
+165,khách báo camera mở lên bị đen mới bị 2 ngày nay,PHAN_MEM,1
+166,sạc vào rất chậm mất cả đêm,SAC,5
+167,khách báo rung không hoạt động mới bị 2 ngày nay,KHAC,1
+168,pin chai chỉ dùng được hai tiếng mới bị 2 ngày nay,PIN,2
+169,tình trạng: máy không nhận sạc xảy ra sau khi rơi,SAC,1
+170,màn hình bị chảy mực loang,MAN_HINH,1
+171,không đăng nhập được vào máy,KHAC,2
+172,máy tự tắt khi còn ba mươi phần trăm,PIN,3
+173,khách báo máy treo logo khi khởi động khách chưa từng sửa ở đâu,KHAC,3
+174,loa bị rè sau khi máy ẩm,KHAC,1
+175,khách hàng phản ánh cổng sạc bị lỏng phải giữ mới vào bị từ tuần trước,SAC,2
+176,khách hàng phản ánh bàn phím ảo không hiện lên đã thử khởi động lại không được,PHAN_MEM,1
+177,khách báo máy không nhận thẻ nhớ khách chưa từng sửa ở đâu,KHAC,5
+178,kh nói hết pin rất nhanh và sạc lâu xảy ra sau khi rơi,PIN,3
+179,kh nói pin sụt nhanh cả khi để không xảy ra sau khi rơi,PIN,4
+180,khách hàng phản ánh máy treo không tắt được xảy ra sau khi rơi,PHAN_MEM,1
+181,khách báo nút nguồn bị kẹt đã mang đi sửa một lần,KHAC,2
+182,tình trạng: pin sụt nhanh cả khi để không khách chưa từng sửa ở đâu,PIN,2
+183,máy không nhận thẻ nhớ,PHAN_MEM,1
+184,may chi len khi cam sac,PIN,5
+185,cáp sạc chỉ vào khi cắm một chiều xảy ra sau khi rơi,SAC,3
+186,máy không nhận thẻ nhớ,PHAN_MEM,6
+187,màn hình nhấp nháy liên tục,MAN_HINH,4
+188,"khách mang máy tới, máy không nhận thẻ nhớ đã mang đi sửa một lần",PHAN_MEM,3
+189,khách hàng phản ánh cắm sạc vào không thấy báo gì máy còn bảo hành,NUOC_VAO,1
+190,tình trạng: kính màn hình vỡ nhưng vẫn hiển thị xảy ra sau khi rơi,MAN_HINH,6
+191,tình trạng: máy không nhận thẻ nhớ khách chưa từng sửa ở đâu,KHAC,4
+192,kh nói loa ngoài rè không nghe rõ khách chưa từng sửa ở đâu,KHAC,3
+193,loa ngoài rè không nghe rõ,KHAC,6
+194,pin phồng làm hở viền máy,PIN,2
+195,man hinh bi nut goc duoi da thu khoi dong lai khong duoc,MAN_HINH,3
+196,"khách mang máy tới, máy ngâm nước biển khi đi tắm khách chưa từng sửa ở đâu",NUOC_VAO,3
+197,không cài được ứng dụng báo lỗi mới bị 2 ngày nay,PHAN_MEM,2
+198,"khach mang may toi, may nong bat thuong khi dung nhe xay ra sau khi roi",PIN,6
+199,khách báo mất tiếng khi gọi nhưng loa ngoài vẫn tốt đã mang đi sửa một lần,KHAC,3
+200,khách báo không cài được ứng dụng báo lỗi đã thử khởi động lại không được,PHAN_MEM,3
+201,máy có hơi nước trong camera,NUOC_VAO,2
+202,tinh trang: may treo logo khi khoi dong da mang di sua mot lan,PHAN_MEM,6
+203,"khách mang máy tới, máy ngâm nước biển khi đi tắm mới bị 2 ngày nay",NUOC_VAO,6
+204,máy không lên nguồn mới bị 2 ngày nay,SAC,2
+205,kh nói rơi vào bồn cầu đã lau khô mới bị 2 ngày nay,NUOC_VAO,6
+206,khách báo nước vào loa nghe ọc ọc đã mang đi sửa một lần,NUOC_VAO,4
+207,máy ngâm nước biển khi đi tắm khách chưa từng sửa ở đâu,NUOC_VAO,5
+208,màn hình sọc dọc nhiều đường,MAN_HINH,2
+209,khách hàng phản ánh cáp sạc chỉ vào khi cắm một chiều bị từ tuần trước,SAC,5
+210,máy không nhận thẻ nhớ,KHAC,1
+211,"khách mang máy tới, máy tự tắt khi còn ba mươi phần trăm bị từ tuần trước",PIN,4
+212,pin sụt nhanh cả khi để không,PIN,2
+213,"KHÁCH MANG MÁY TỚI, HÌNH BỊ NHOÈ KHI MỞ ỨNG DỤNG ĐÃ MANG ĐI SỬA MỘT LẦN",MAN_HINH,1
+214,khách hàng phản ánh không nhận sim khách chưa từng sửa ở đâu,KHAC,2
+215,tình trạng: màn hình nhấp nháy liên tục mới bị 2 ngày nay,MAN_HINH,3
+216,nước vào loa nghe ọc ọc khách chưa từng sửa ở đâu,NUOC_VAO,4
+217,loa bị rè sau khi máy ẩm,PHAN_MEM,6
+218,máy treo không tắt được,MAN_HINH,2
+219,khách báo đổ nước ngọt vào bàn phím đã thử khởi động lại không được,NUOC_VAO,5
+220,máy có hơi nước trong camera bị từ tuần trước,KHAC,1
+221,"khách mang máy tới, máy rơi vào bồn rửa máy còn bảo hành",NUOC_VAO,3
+222,tình trạng: máy chạy chậm sau khi cập nhật máy còn bảo hành,PHAN_MEM,6
+223,quên mật khẩu tài khoản,PHAN_MEM,1
+224,khách hàng phản ánh wifi tự ngắt liên tục khách chưa từng sửa ở đâu,KHAC,5
+225,tình trạng: màn hình bị nứt góc dưới mới bị 2 ngày nay,MAN_HINH,6
+226,hình bị nhoè khi mở ứng dụng khách chưa từng sửa ở đâu,MAN_HINH,4
+227,khách báo kính màn hình vỡ nhưng vẫn hiển thị bị từ tuần trước,MAN_HINH,2
+228,"khách mang máy tới, không đăng nhập được vào máy xảy ra sau khi rơi",KHAC,4
+229,không cài được ứng dụng báo lỗi máy còn bảo hành,PHAN_MEM,2
+230,kh noi man hinh bi chay muc loang moi bi 2 ngay nay,MAN_HINH,3
+231,khách hàng phản ánh sạc đầy nhưng rút ra là tắt bị từ tuần trước,SAC,3
+232,kh nói pin phồng làm hở viền máy xảy ra sau khi rơi,PIN,6
+233,"khách mang máy tới, màn hình đứng không bấm được xảy ra sau khi rơi",MAN_HINH,1
+234,khach bao man hinh den khong thay gi moi bi 2 ngay nay,MAN_HINH,1
+235,khach hang phan anh khong dang nhap duoc vao may,PHAN_MEM,2
+236,sạc đầy nhưng rút ra là tắt đã thử khởi động lại không được,PIN,2
+237,khách hàng phản ánh máy có hơi nước trong camera đã thử khởi động lại không được,KHAC,5
+238,kh nói điểm chết giữa màn hình mới bị 2 ngày nay,MAN_HINH,5
+239,khách hàng phản ánh củ sạc nóng và có mùi khét bị từ tuần trước,SAC,2
+240,kh nói không cài được ứng dụng báo lỗi đã mang đi sửa một lần,PHAN_MEM,6
+241,pin chai chỉ dùng được hai tiếng máy còn bảo hành,PIN,4
+242,sạc đầy nhưng rút ra là tắt,PIN,3
+243,kính màn hình vỡ nhưng vẫn hiển thị khách chưa từng sửa ở đâu,MAN_HINH,1
+244,tình trạng: chân cắm bị vênh xảy ra sau khi rơi,PIN,2
+245,kh nói nước vào loa nghe ọc ọc xảy ra sau khi rơi,NUOC_VAO,3
+246,sạc vào rất chậm mất cả đêm,SAC,5
+247,"khách mang máy tới, sạc đầy nhưng rút ra là tắt bị từ tuần trước",SAC,4
+248,khay sim bị móp đã mang đi sửa một lần,KHAC,5
+249,khách hàng phản ánh cổng sạc bị lỏng phải giữ mới vào đã thử khởi động lại không được,SAC,6
+250,khay sim bị móp,KHAC,5
+251,tình trạng: máy treo không tắt được mới bị 2 ngày nay,PHAN_MEM,3
+252,"khách mang máy tới, máy treo không tắt được mới bị 2 ngày nay",MAN_HINH,6
+253,KHÁCH BÁO KHAY SIM BỊ MÓP BỊ TỪ TUẦN TRƯỚC,KHAC,1
+254,kính màn hình vỡ nhưng vẫn hiển thị,MAN_HINH,1
+255,khach bao loa ngoai re khong nghe ro khach chua tung sua o dau,KHAC,4
+256,khách báo không kết nối được tai nghe không dây đã thử khởi động lại không được,KHAC,6
+257,"khách mang máy tới, màn hình đứng không bấm được đã mang đi sửa một lần",MAN_HINH,3
+258,khách hàng phản ánh không đăng nhập được vào máy máy còn bảo hành,PHAN_MEM,6
+259,camera mở lên bị đen khách chưa từng sửa ở đâu,PHAN_MEM,3
+260,tình trạng: pin tụt từ tám mươi xuống hai mươi trong nửa giờ đã thử khởi động lại không được,PIN,2
+261,"khách mang máy tới, máy có hơi nước trong camera mới bị 2 ngày nay",KHAC,3
+262,sạc vào rất chậm mất cả đêm,SAC,5
+263,củ sạc nóng và có mùi khét,SAC,3
+264,sạc vào rất chậm mất cả đêm khách chưa từng sửa ở đâu,SAC,3
+265,pin chai chỉ dùng được hai tiếng,PIN,5
+266,điểm chết giữa màn hình,PIN,6
+267,tình trạng: máy treo không tắt được khách chưa từng sửa ở đâu,MAN_HINH,6
+268,kh nói không nhận sim đã thử khởi động lại không được,KHAC,5
+269,"khách mang máy tới, pin chai chỉ dùng được hai tiếng đã mang đi sửa một lần",PIN,1
+270,"khach mang may toi, man hinh den khong thay gi bi tu tuan truoc",MAN_HINH,4
+271,KHÁCH BÁO PIN PHỒNG LÀM HỞ VIỀN MÁY XẢY RA SAU KHI RƠI,PIN,3
+272,kh nói máy chỉ lên khi cắm sạc đã thử khởi động lại không được,SAC,3
+273,pin tụt từ tám mươi xuống hai mươi trong nửa giờ,PIN,2
+274,hình bị nhoè khi mở ứng dụng,PHAN_MEM,1
+275,tình trạng: chân sạc gỉ xanh đã thử khởi động lại không được,PIN,3
+276,khách báo cổng sạc bị lỏng phải giữ mới vào,SAC,3
+277,máy treo không tắt được khách chưa từng sửa ở đâu,PHAN_MEM,4
+278,"khách mang máy tới, cảm ứng không nhận ở nửa trên mới bị 2 ngày nay",MAN_HINH,6
+279,khách hàng phản ánh máy tự tắt khi còn ba mươi phần trăm khách chưa từng sửa ở đâu,PIN,3
+280,khong dang nhap duoc vao may moi bi 2 ngay nay,PHAN_MEM,4
+281,không kết nối được tai nghe không dây,KHAC,1
+282,KHÁCH BÁO PIN CHAI CHỈ DÙNG ĐƯỢC HAI TIẾNG ĐÃ THỬ KHỞI ĐỘNG LẠI KHÔNG ĐƯỢC,PIN,1
+283,kh nói cảm ứng không nhận ở nửa trên bị từ tuần trước,MAN_HINH,6
+284,"khách mang máy tới, kính màn hình vỡ nhưng vẫn hiển thị máy còn bảo hành",MAN_HINH,1
+285,"khách mang máy tới, rơi vào bồn cầu đã lau khô xảy ra sau khi rơi",NUOC_VAO,3
+286,tình trạng: máy không nhận thẻ nhớ xảy ra sau khi rơi,PHAN_MEM,6
+287,máy nóng bất thường khi dùng nhẹ,PIN,2
+288,"KHÁCH MANG MÁY TỚI, MÁY KHÔNG NHẬN THẺ NHỚ",KHAC,1
+289,kính màn hình vỡ nhưng vẫn hiển thị,KHAC,4
+290,khách hàng phản ánh máy nóng bất thường khi dùng nhẹ khách chưa từng sửa ở đâu,PIN,2
+291,WIFI TỰ NGẮT LIÊN TỤC,KHAC,2
+292,kính màn hình vỡ nhưng vẫn hiển thị,MAN_HINH,3
+293,kh nói điểm chết giữa màn hình đã thử khởi động lại không được,MAN_HINH,4
+294,"khách mang máy tới, màn hình nhấp nháy liên tục bị từ tuần trước",MAN_HINH,3
+295,wifi tu ngat lien tuc,KHAC,6
+296,khách báo bàn phím ảo không hiện lên đã thử khởi động lại không được,PHAN_MEM,1
+297,"khách mang máy tới, màn hình sọc dọc nhiều đường bị từ tuần trước",MAN_HINH,2
+298,kh nói điện thoại dính nước mưa cả buổi mới bị 2 ngày nay,NUOC_VAO,6
+299,"KHÁCH MANG MÁY TỚI, NƯỚC VÀO LOA NGHE ỌC ỌC",NUOC_VAO,4
+300,máy nóng bất thường khi dùng nhẹ,PIN,3
+301,khách báo wifi tự ngắt liên tục xảy ra sau khi rơi,KHAC,2
+302,tinh trang: het pin rat nhanh va sac lau may con bao hanh,SAC,5
+303,máy không nhận sạc,PIN,1
+304,khách hàng phản ánh sạc vào rất chậm mất cả đêm xảy ra sau khi rơi,SAC,3
+305,tình trạng: màn hình đen không thấy gì mới bị 2 ngày nay,MAN_HINH,4
+306,khách hàng phản ánh loa ngoài rè không nghe rõ khách chưa từng sửa ở đâu,KHAC,1
+307,khách hàng phản ánh máy không nhận thẻ nhớ mới bị 2 ngày nay,KHAC,1
+308,khách hàng phản ánh sạc không vào điện xảy ra sau khi rơi,PIN,5
+309,TÌNH TRẠNG: CẢM ỨNG KHÔNG NHẬN Ở NỬA TRÊN KHÁCH CHƯA TỪNG SỬA Ở ĐÂU,MAN_HINH,3
+310,kh nói máy rơi vào bồn rửa khách chưa từng sửa ở đâu,NUOC_VAO,1
+311,củ sạc nóng và có mùi khét đã mang đi sửa một lần,SAC,3
+312,tình trạng: máy treo không tắt được đã thử khởi động lại không được,PHAN_MEM,5
+313,màn hình đen không thấy gì mới bị 2 ngày nay,MAN_HINH,4
+314,khách hàng phản ánh quên mật khẩu tài khoản đã thử khởi động lại không được,PHAN_MEM,6
+315,khách báo pin phồng làm hở viền máy bị từ tuần trước,PIN,3
+316,khach bao man hinh nhap nhay lien tuc bi tu tuan truoc,MAN_HINH,3
+317,hình bị nhoè khi mở ứng dụng,MAN_HINH,2
+318,màn hình nhấp nháy liên tục,MAN_HINH,4
+319,"khách mang máy tới, máy không nhận thẻ nhớ xảy ra sau khi rơi",PHAN_MEM,6
+320,khách hàng phản ánh điểm chết giữa màn hình,MAN_HINH,4
+321,wifi tự ngắt liên tục đã mang đi sửa một lần,KHAC,5
+322,khách báo pin sụt nhanh cả khi để không khách chưa từng sửa ở đâu,PIN,1
+323,không kết nối được tai nghe không dây đã thử khởi động lại không được,KHAC,6
+324,"khách mang máy tới, loa bị rè sau khi máy ẩm bị từ tuần trước",KHAC,6
+325,kh nói sạc vào rất chậm mất cả đêm,SAC,6
+326,khách hàng phản ánh đổ nước ngọt vào bàn phím đã thử khởi động lại không được,NUOC_VAO,1
+327,"khach mang may toi, kinh man hinh vo nhung van hien thi da mang di sua mot lan",MAN_HINH,2
+328,màn hình sọc dọc nhiều đường đã mang đi sửa một lần,MAN_HINH,5
+329,chân sạc gỉ xanh,PIN,5
+330,khách hàng phản ánh màn hình nhấp nháy liên tục khách chưa từng sửa ở đâu,MAN_HINH,6
+331,"khach mang may toi, pin sut nhanh ca khi de khong bi tu tuan truoc",PIN,5
+332,chân sạc gỉ xanh,SAC,1
+333,khách báo cáp sạc chỉ vào khi cắm một chiều đã thử khởi động lại không được,SAC,4
+334,khách hàng phản ánh sạc đầy nhưng rút ra là tắt máy còn bảo hành,PIN,3
+335,kh nói cắm sạc không lên gì bị từ tuần trước,SAC,4
+336,"khách mang máy tới, chân cắm bị vênh mới bị 2 ngày nay",SAC,6
+337,khách hàng phản ánh máy rơi vào bồn rửa đã mang đi sửa một lần,NUOC_VAO,5
+338,khách hàng phản ánh không đăng nhập được vào máy mới bị 2 ngày nay,MAN_HINH,1
+339,chân cắm bị vênh xảy ra sau khi rơi,SAC,2
+340,cảm ứng không nhận ở nửa trên,PHAN_MEM,2
+341,khách hàng phản ánh pin phồng làm hở viền máy đã mang đi sửa một lần,PIN,6
+342,"khách mang máy tới, không đăng nhập được vào máy đã thử khởi động lại không được",PHAN_MEM,2
+343,tình trạng: pin chai chỉ dùng được hai tiếng máy còn bảo hành,PIN,4
+344,không đăng nhập được vào máy,KHAC,2
+345,pin tụt từ tám mươi xuống hai mươi trong nửa giờ mới bị 2 ngày nay,PIN,5
+346,kh nói mất tiếng khi gọi nhưng loa ngoài vẫn tốt xảy ra sau khi rơi,KHAC,3
+347,máy không nhận thẻ nhớ,KHAC,1
+348,máy ngâm nước biển khi đi tắm,NUOC_VAO,3
+349,tình trạng: màn hình bị chảy mực loang,MAN_HINH,1
+350,kh nói máy treo logo khi khởi động đã thử khởi động lại không được,KHAC,4
+351,khách hàng phản ánh bàn phím ảo không hiện lên máy còn bảo hành,KHAC,2
+352,"khách mang máy tới, quên mật khẩu tài khoản đã thử khởi động lại không được",PHAN_MEM,5
+353,kh nói pin sụt nhanh cả khi để không bị từ tuần trước,KHAC,2
+354,kh noi may co hoi nuoc trong camera bi tu tuan truoc,KHAC,6
+355,không nhận sim,KHAC,5
+356,khách hàng phản ánh rung không hoạt động,KHAC,5
+357,kh nói hình bị nhoè khi mở ứng dụng,MAN_HINH,2
+358,man hinh nhap nhay lien tuc da thu khoi dong lai khong duoc,MAN_HINH,1
+359,TÌNH TRẠNG: NÚT NGUỒN BỊ KẸT MÁY CÒN BẢO HÀNH,KHAC,2
+360,không đăng nhập được vào máy,PHAN_MEM,2
+361,hình bị nhoè khi mở ứng dụng xảy ra sau khi rơi,MAN_HINH,2
+362,loa bi re sau khi may am,KHAC,1
+363,khách báo cổng sạc bị lỏng phải giữ mới vào,SAC,3
+364,khách báo nút nguồn bị kẹt máy còn bảo hành,KHAC,4
+365,khách hàng phản ánh wifi tự ngắt liên tục đã mang đi sửa một lần,KHAC,2
+366,"khách mang máy tới, mất tiếng khi gọi nhưng loa ngoài vẫn tốt mới bị 2 ngày nay",KHAC,5
+367,tình trạng: không kết nối được tai nghe không dây bị từ tuần trước,KHAC,2
+368,máy có hơi nước trong camera,KHAC,1
+369,kh noi ung dung tu thoat lien tuc moi bi 2 ngay nay,PHAN_MEM,4
+370,"khách mang máy tới, kính màn hình vỡ nhưng vẫn hiển thị máy còn bảo hành",MAN_HINH,1
+371,rơi vào bồn cầu đã lau khô khách chưa từng sửa ở đâu,NUOC_VAO,3
+372,kh nói máy nóng bất thường khi dùng nhẹ bị từ tuần trước,PIN,6
+373,pin phồng làm hở viền máy,PIN,5
+374,chân sạc gỉ xanh xảy ra sau khi rơi,SAC,6
+375,máy treo logo khi khởi động khách chưa từng sửa ở đâu,PHAN_MEM,6
+376,máy chạy chậm sau khi cập nhật khách chưa từng sửa ở đâu,KHAC,6
+377,khach bao pin sut nhanh ca khi de khong may con bao hanh,PIN,1
+378,kh nói wifi tự ngắt liên tục bị từ tuần trước,KHAC,2
+379,"khách mang máy tới, ứng dụng tự thoát liên tục máy còn bảo hành",PHAN_MEM,4
+380,điểm chết giữa màn hình,MAN_HINH,6
+381,cắm sạc vào không thấy báo gì,SAC,4
+382,"khách mang máy tới, chân cắm bị vênh mới bị 2 ngày nay",SAC,3
+383,kh nói chân cắm bị vênh đã mang đi sửa một lần,SAC,3
+384,"khách mang máy tới, hình bị nhoè khi mở ứng dụng bị từ tuần trước",MAN_HINH,3
+385,không đăng nhập được vào máy bị từ tuần trước,KHAC,1
+386,khách hàng phản ánh loa ngoài rè không nghe rõ mới bị 2 ngày nay,NUOC_VAO,2
+387,khách hàng phản ánh máy treo không tắt được đã thử khởi động lại không được,MAN_HINH,4
+388,không nhận sim,KHAC,6
+389,chân sạc gỉ xanh,SAC,2
+390,kính màn hình vỡ nhưng vẫn hiển thị,PHAN_MEM,3
+391,máy ngâm nước biển khi đi tắm,NUOC_VAO,1
+392,tình trạng: máy treo không tắt được bị từ tuần trước,MAN_HINH,1
+393,nút nguồn bị kẹt,KHAC,1
+394,sạc vào rất chậm mất cả đêm,SAC,5
+395,khách báo loa bị rè sau khi máy ẩm máy còn bảo hành,NUOC_VAO,1
+396,tình trạng: màn hình sọc dọc nhiều đường đã thử khởi động lại không được,MAN_HINH,3
+397,may nong bat thuong khi dung nhe,PIN,2
+398,"khách mang máy tới, màn hình bị chảy mực loang khách chưa từng sửa ở đâu",MAN_HINH,3
+399,"khách mang máy tới, bàn phím ảo không hiện lên bị từ tuần trước",PHAN_MEM,4
+400,kh nói màn hình bị nứt góc dưới máy còn bảo hành,MAN_HINH,6
+401,màn hình đứng không bấm được đã mang đi sửa một lần,PHAN_MEM,1
+402,kh nói chân cắm bị vênh xảy ra sau khi rơi,SAC,4
+403,tình trạng: máy treo không tắt được khách chưa từng sửa ở đâu,MAN_HINH,3
+404,khách hàng phản ánh không đăng nhập được vào máy khách chưa từng sửa ở đâu,MAN_HINH,6
+405,máy không nhận thẻ nhớ,KHAC,2
+406,"KHÁCH MANG MÁY TỚI, CẢM ỨNG KHÔNG NHẬN Ở NỬA TRÊN XẢY RA SAU KHI RƠI",MAN_HINH,6
+407,khách hàng phản ánh máy không nhận thẻ nhớ bị từ tuần trước,PHAN_MEM,5
+408,màn hình đứng không bấm được,PHAN_MEM,1
+409,"khách mang máy tới, pin sụt nhanh cả khi để không mới bị 2 ngày nay",PIN,1
+410,"khách mang máy tới, màn hình đen không thấy gì máy còn bảo hành",MAN_HINH,5
+411,khách báo hình bị nhoè khi mở ứng dụng mới bị 2 ngày nay,MAN_HINH,6
+412,khách hàng phản ánh pin chai chỉ dùng được hai tiếng,PIN,6
+413,khách báo mất tiếng khi gọi nhưng loa ngoài vẫn tốt đã mang đi sửa một lần,KHAC,2
+414,khách hàng phản ánh màn hình bị nứt góc dưới,MAN_HINH,6
+415,tình trạng: cáp sạc chỉ vào khi cắm một chiều máy còn bảo hành,SAC,1
+416,khách báo chân cắm bị vênh máy còn bảo hành,SAC,4
+417,"khách mang máy tới, máy treo không tắt được mới bị 2 ngày nay",MAN_HINH,6
+418,khách hàng phản ánh chân cắm bị vênh khách chưa từng sửa ở đâu,SAC,3
+419,kh noi pin phong lam ho vien may da thu khoi dong lai khong duoc,PIN,6
+420,màn hình đứng không bấm được bị từ tuần trước,MAN_HINH,6
+421,cảm ứng không nhận ở nửa trên,MAN_HINH,1
+422,"khách mang máy tới, màn hình bị nứt góc dưới",SAC,4
+423,khách báo mất tiếng khi gọi nhưng loa ngoài vẫn tốt mới bị 2 ngày nay,KHAC,3
+424,rung không hoạt động khách chưa từng sửa ở đâu,KHAC,5
+425,tình trạng: pin chai chỉ dùng được hai tiếng máy còn bảo hành,PIN,1
+426,chân cắm bị vênh,SAC,3
+427,cổng sạc bị lỏng phải giữ mới vào,SAC,6
+428,khach bao khong cai duoc ung dung bao loi moi bi 2 ngay nay,PHAN_MEM,4
+429,khách hàng phản ánh nút nguồn bị kẹt khách chưa từng sửa ở đâu,KHAC,3
+430,kh nói ứng dụng tự thoát liên tục mới bị 2 ngày nay,PHAN_MEM,6
+431,tình trạng: kính màn hình vỡ nhưng vẫn hiển thị khách chưa từng sửa ở đâu,MAN_HINH,1
+432,tình trạng: pin phồng làm hở viền máy bị từ tuần trước,PIN,5
+433,may khong nhan sac,PIN,4
+434,khach hang phan anh may treo khong tat duoc khach chua tung sua o dau,MAN_HINH,2
+435,cảm ứng không nhận ở nửa trên,MAN_HINH,2
+436,tình trạng: cảm ứng không nhận ở nửa trên mới bị 2 ngày nay,MAN_HINH,3
+437,cảm ứng không nhận ở nửa trên,MAN_HINH,4
+438,khách hàng phản ánh rơi vào bồn cầu đã lau khô mới bị 2 ngày nay,PIN,2
+439,khách hàng phản ánh loa bị rè sau khi máy ẩm đã mang đi sửa một lần,KHAC,5
+440,khách báo cảm ứng không nhận ở nửa trên xảy ra sau khi rơi,MAN_HINH,6
+441,khách hàng phản ánh máy nóng bất thường khi dùng nhẹ khách chưa từng sửa ở đâu,PIN,6
+442,nút nguồn bị kẹt,KHAC,5
+443,chân sạc gỉ xanh,SAC,2
+444,KH NÓI MÀN HÌNH NHẤP NHÁY LIÊN TỤC MỚI BỊ 2 NGÀY NAY,MAN_HINH,3
+445,máy không lên nguồn,PIN,2
+446,kh nói máy nóng bất thường khi dùng nhẹ đã mang đi sửa một lần,PIN,5
+447,"khách mang máy tới, sạc vào rất chậm mất cả đêm máy còn bảo hành",SAC,3
+448,khách hàng phản ánh màn hình sọc dọc nhiều đường đã thử khởi động lại không được,MAN_HINH,2
+449,kh nói không nhận sim bị từ tuần trước,KHAC,2
+450,khong cai duoc ung dung bao loi,PHAN_MEM,4
+451,khách báo rung không hoạt động đã thử khởi động lại không được,KHAC,1
+452,tình trạng: rung không hoạt động bị từ tuần trước,KHAC,2
+453,khách hàng phản ánh màn hình bị nứt góc dưới,MAN_HINH,3
+454,kh nói màn hình đen không thấy gì bị từ tuần trước,MAN_HINH,3
+455,tình trạng: pin chai chỉ dùng được hai tiếng đã thử khởi động lại không được,PIN,1
+456,máy chỉ lên khi cắm sạc máy còn bảo hành,PIN,1
+457,máy có hơi nước trong camera,KHAC,4
+458,khách hàng phản ánh cảm ứng không nhận ở nửa trên bị từ tuần trước,MAN_HINH,5
+459,khách hàng phản ánh máy chỉ lên khi cắm sạc máy còn bảo hành,SAC,4
+460,khách hàng phản ánh màn hình bị nứt góc dưới xảy ra sau khi rơi,MAN_HINH,3
+461,kh nói máy tự tắt khi còn ba mươi phần trăm xảy ra sau khi rơi,PIN,5
+462,khách hàng phản ánh pin chai chỉ dùng được hai tiếng,PIN,1
+463,khách báo điểm chết giữa màn hình xảy ra sau khi rơi,MAN_HINH,1
+464,màn hình đứng không bấm được,PHAN_MEM,3
+465,loa ngoài rè không nghe rõ,KHAC,3
+466,khách hàng phản ánh chân sạc gỉ xanh xảy ra sau khi rơi,SAC,1
+467,ung dung tu thoat lien tuc moi bi 2 ngay nay,PHAN_MEM,2
+468,TÌNH TRẠNG: LOA BỊ RÈ SAU KHI MÁY ẨM MÁY CÒN BẢO HÀNH,KHAC,2
+469,khách hàng phản ánh cáp sạc chỉ vào khi cắm một chiều khách chưa từng sửa ở đâu,SAC,1
+470,màn hình sọc dọc nhiều đường,MAN_HINH,3
+471,"khách mang máy tới, màn hình sọc dọc nhiều đường xảy ra sau khi rơi",MAN_HINH,5
+472,KHÁCH HÀNG PHẢN ÁNH CỔNG SẠC BỊ LỎNG PHẢI GIỮ MỚI VÀO XẢY RA SAU KHI RƠI,SAC,5
+473,kh nói máy chạy chậm sau khi cập nhật khách chưa từng sửa ở đâu,PHAN_MEM,5
+474,máy không nhận thẻ nhớ,PHAN_MEM,3
+475,tình trạng: kính màn hình vỡ nhưng vẫn hiển thị,PHAN_MEM,6
+476,"khách mang máy tới, sạc vào rất chậm mất cả đêm máy còn bảo hành",SAC,6
+477,cam sac khong len gi,SAC,4
+478,kh noi khay sim bi mop,KHAC,6
+479,tình trạng: điện thoại dính nước mưa cả buổi xảy ra sau khi rơi,NUOC_VAO,5
+480,"khách mang máy tới, mất tiếng khi gọi nhưng loa ngoài vẫn tốt khách chưa từng sửa ở đâu",KHAC,3
+481,tình trạng: loa ngoài rè không nghe rõ máy còn bảo hành,KHAC,5
+482,nút nguồn bị kẹt,KHAC,6
+483,điểm chết giữa màn hình,MAN_HINH,3
+484,"KHÁCH MANG MÁY TỚI, HÌNH BỊ NHOÈ KHI MỞ ỨNG DỤNG MÁY CÒN BẢO HÀNH",MAN_HINH,6
+485,tình trạng: hết pin rất nhanh và sạc lâu đã mang đi sửa một lần,SAC,4
+486,khách báo máy không nhận sạc xảy ra sau khi rơi,SAC,3
+487,tinh trang: may nong bat thuong khi dung nhe may con bao hanh,PIN,1
+488,sac khong vao dien,SAC,3
+489,"khách mang máy tới, điểm chết giữa màn hình bị từ tuần trước",MAN_HINH,4
+490,máy treo không tắt được,PHAN_MEM,5
+491,khách báo máy không nhận sạc khách chưa từng sửa ở đâu,SAC,6
+492,khách hàng phản ánh quên mật khẩu tài khoản đã thử khởi động lại không được,PHAN_MEM,1
+493,kh nói loa bị rè sau khi máy ẩm khách chưa từng sửa ở đâu,NUOC_VAO,3
+494,pin tụt từ tám mươi xuống hai mươi trong nửa giờ đã thử khởi động lại không được,PIN,6
+495,khách báo điểm chết giữa màn hình đã thử khởi động lại không được,MAN_HINH,2
+496,khách báo quên mật khẩu tài khoản,PHAN_MEM,1
+497,kh nói máy chỉ lên khi cắm sạc xảy ra sau khi rơi,SAC,5
+498,khách báo máy treo logo khi khởi động đã thử khởi động lại không được,PHAN_MEM,5
+499,"KHÁCH MANG MÁY TỚI, MÁY KHÔNG LÊN NGUỒN",PIN,3
+500,kh nói máy không nhận thẻ nhớ khách chưa từng sửa ở đâu,KHAC,2
+501,kh nói màn hình bị chảy mực loang máy còn bảo hành,PHAN_MEM,1
+502,cam ung khong nhan o nua tren da thu khoi dong lai khong duoc,MAN_HINH,6
+503,mất tiếng khi gọi nhưng loa ngoài vẫn tốt,KHAC,3
+504,khách báo máy ngâm nước biển khi đi tắm đã mang đi sửa một lần,NUOC_VAO,3
+505,khách báo không cài được ứng dụng báo lỗi khách chưa từng sửa ở đâu,PHAN_MEM,3
+506,loa bị rè sau khi máy ẩm,KHAC,6
+507,rơi vào bồn cầu đã lau khô mới bị 2 ngày nay,NUOC_VAO,2
+508,máy tự tắt khi còn ba mươi phần trăm,PIN,5
+509,man hinh den khong thay gi,MAN_HINH,1
+510,khách báo chân sạc gỉ xanh đã thử khởi động lại không được,SAC,2
+511,kh noi loa bi re sau khi may am xay ra sau khi roi,NUOC_VAO,5
+512,kh nói màn hình đen không thấy gì đã thử khởi động lại không được,MAN_HINH,6
+513,kh noi diem chet giua man hinh bi tu tuan truoc,MAN_HINH,4
+514,tình trạng: hết pin rất nhanh và sạc lâu đã mang đi sửa một lần,PIN,2
+515,khách hàng phản ánh nút nguồn bị kẹt bị từ tuần trước,KHAC,1
+516,wifi tu ngat lien tuc,PHAN_MEM,4
+517,kh nói màn hình đứng không bấm được khách chưa từng sửa ở đâu,KHAC,4
+518,khay sim bị móp,KHAC,4
+519,khách báo màn hình nhấp nháy liên tục máy còn bảo hành,MAN_HINH,4
+520,cắm sạc vào không thấy báo gì,PIN,4
+521,khách hàng phản ánh cáp sạc chỉ vào khi cắm một chiều khách chưa từng sửa ở đâu,SAC,1
+522,khách báo không đăng nhập được vào máy máy còn bảo hành,KHAC,4
+523,khách báo màn hình nhấp nháy liên tục đã mang đi sửa một lần,MAN_HINH,3
+524,tình trạng: chân sạc gỉ xanh bị từ tuần trước,SAC,1
+525,khách báo hình bị nhoè khi mở ứng dụng khách chưa từng sửa ở đâu,MAN_HINH,1
+526,khách hàng phản ánh loa ngoài rè không nghe rõ mới bị 2 ngày nay,KHAC,1
+527,khách hàng phản ánh hết pin rất nhanh và sạc lâu,SAC,1
+528,"khách mang máy tới, màn hình đứng không bấm được bị từ tuần trước",PIN,1
+529,khách báo rung không hoạt động xảy ra sau khi rơi,KHAC,3
+530,kh nói máy không nhận thẻ nhớ máy còn bảo hành,PHAN_MEM,6
+531,khách báo màn hình đứng không bấm được xảy ra sau khi rơi,MAN_HINH,3
+532,kh noi man hinh dung khong bam duoc bi tu tuan truoc,MAN_HINH,5
+533,màn hình đen không thấy gì,MAN_HINH,5
+534,kh nói loa bị rè sau khi máy ẩm máy còn bảo hành,KHAC,3
+535,khách báo bàn phím ảo không hiện lên đã thử khởi động lại không được,PHAN_MEM,3
+536,khach hang phan anh nuoc vao loa nghe oc oc da mang di sua mot lan,NUOC_VAO,1
+537,khách hàng phản ánh đổ nước ngọt vào bàn phím đã mang đi sửa một lần,NUOC_VAO,3
+538,tình trạng: mất tiếng khi gọi nhưng loa ngoài vẫn tốt mới bị 2 ngày nay,KHAC,6
+539,pin sụt nhanh cả khi để không,KHAC,2
+540,khach hang phan anh pin tut tu tam muoi xuong hai muoi trong nua gio da thu khoi dong lai khong duoc,PIN,6
+541,khách báo chân sạc gỉ xanh máy còn bảo hành,SAC,5
+542,kh nói màn hình nhấp nháy liên tục,PHAN_MEM,3
+543,tình trạng: cáp sạc chỉ vào khi cắm một chiều,SAC,2
+544,khách báo loa ngoài rè không nghe rõ đã thử khởi động lại không được,KHAC,5
+545,tình trạng: máy treo không tắt được máy còn bảo hành,PHAN_MEM,1
+546,tình trạng: củ sạc nóng và có mùi khét đã mang đi sửa một lần,SAC,3
+547,cổng sạc bị lỏng phải giữ mới vào,SAC,4
+548,cong sac bi long phai giu moi vao bi tu tuan truoc,SAC,1
+549,pin tụt từ tám mươi xuống hai mươi trong nửa giờ,PIN,2
+550,kh nói cảm ứng không nhận ở nửa trên bị từ tuần trước,MAN_HINH,3
+551,sạc không vào điện,SAC,2
+552,"khách mang máy tới, hình bị nhoè khi mở ứng dụng khách chưa từng sửa ở đâu",PHAN_MEM,3
+553,tinh trang: cap sac chi vao khi cam mot chieu,SAC,1
+554,loa bi re sau khi may am,KHAC,2
+555,khách báo màn hình đứng không bấm được đã mang đi sửa một lần,MAN_HINH,5
+556,máy treo logo khi khởi động xảy ra sau khi rơi,PHAN_MEM,6
+557,cáp sạc chỉ vào khi cắm một chiều,SAC,5
+558,khong dang nhap duoc vao may,KHAC,5
+559,khách báo máy chạy chậm sau khi cập nhật đã thử khởi động lại không được,PHAN_MEM,5
+560,kh nói sạc không vào điện mới bị 2 ngày nay,SAC,4
+561,kính màn hình vỡ nhưng vẫn hiển thị,MAN_HINH,1
+562,khách báo điểm chết giữa màn hình xảy ra sau khi rơi,MAN_HINH,4
+563,"khach mang may toi, man hinh soc doc nhieu duong may con bao hanh",MAN_HINH,6
+564,nước vào loa nghe ọc ọc,NUOC_VAO,1
+565,tinh trang: kinh man hinh vo nhung van hien thi da thu khoi dong lai khong duoc,MAN_HINH,3
+566,khách báo máy treo không tắt được khách chưa từng sửa ở đâu,MAN_HINH,1
+567,máy không nhận thẻ nhớ,KHAC,3
+568,kh noi ban phim ao khong hien len moi bi 2 ngay nay,PHAN_MEM,3
+569,khách hàng phản ánh cảm ứng không nhận ở nửa trên bị từ tuần trước,PHAN_MEM,5
+570,khách hàng phản ánh củ sạc nóng và có mùi khét khách chưa từng sửa ở đâu,SAC,3
+571,kh nói máy rơi vào bồn rửa máy còn bảo hành,NUOC_VAO,4
+572,máy tự tắt khi còn ba mươi phần trăm,PIN,1
+573,khách hàng phản ánh điện thoại dính nước mưa cả buổi bị từ tuần trước,NUOC_VAO,6
+574,khách báo rung không hoạt động máy còn bảo hành,KHAC,5
+575,tình trạng: loa bị rè sau khi máy ẩm bị từ tuần trước,KHAC,3
+576,kh nói màn hình đứng không bấm được,MAN_HINH,6
+577,kh nói mất tiếng khi gọi nhưng loa ngoài vẫn tốt bị từ tuần trước,KHAC,2
+578,củ sạc nóng và có mùi khét,PHAN_MEM,5
+579,tình trạng: màn hình sọc dọc nhiều đường,MAN_HINH,2
+580,khách hàng phản ánh hết pin rất nhanh và sạc lâu xảy ra sau khi rơi,SAC,6
+581,khách hàng phản ánh rung không hoạt động đã thử khởi động lại không được,KHAC,4
+582,pin sụt nhanh cả khi để không,PIN,6
+583,man hinh den khong thay gi,MAN_HINH,3
+584,khach hang phan anh may khong nhan sac xay ra sau khi roi,SAC,6
+585,roi vao bon cau da lau kho moi bi 2 ngay nay,NUOC_VAO,3
+586,kh nói cổng sạc bị lỏng phải giữ mới vào đã mang đi sửa một lần,PIN,3
+587,khách báo loa bị rè sau khi máy ẩm xảy ra sau khi rơi,NUOC_VAO,3
+588,kh noi khong nhan sim,KHAC,2
+589,kh nói wifi tự ngắt liên tục đã thử khởi động lại không được,NUOC_VAO,2
+590,khách báo sạc vào rất chậm mất cả đêm khách chưa từng sửa ở đâu,PIN,3
+591,rung khong hoat dong khach chua tung sua o dau,KHAC,5
+592,pin phong lam ho vien may bi tu tuan truoc,PIN,3
+593,kh nói pin tụt từ tám mươi xuống hai mươi trong nửa giờ máy còn bảo hành,PIN,5
+594,kh nói cảm ứng không nhận ở nửa trên đã thử khởi động lại không được,MAN_HINH,1
+595,camera mở lên bị đen xảy ra sau khi rơi,SAC,2
+596,nut nguon bi ket,KHAC,3
+597,"khách mang máy tới, máy treo logo khi khởi động mới bị 2 ngày nay",PHAN_MEM,3
+598,màn hình đen không thấy gì mới bị 2 ngày nay,MAN_HINH,2
+599,ứng dụng tự thoát liên tục bị từ tuần trước,PHAN_MEM,1
+600,KHÁCH HÀNG PHẢN ÁNH MÁY RƠI VÀO BỒN RỬA KHÁCH CHƯA TỪNG SỬA Ở ĐÂU,NUOC_VAO,5
+601,đổ nước ngọt vào bàn phím đã mang đi sửa một lần,NUOC_VAO,5
+602,diem chet giua man hinh may con bao hanh,MAN_HINH,2
+603,kh nói không cài được ứng dụng báo lỗi máy còn bảo hành,PHAN_MEM,6
+604,loa ngoài rè không nghe rõ xảy ra sau khi rơi,PHAN_MEM,5
+605,khach bao loa ngoai re khong nghe ro da thu khoi dong lai khong duoc,KHAC,2
+606,tinh trang: man hinh den khong thay gi moi bi 2 ngay nay,MAN_HINH,5
+607,"khách mang máy tới, máy treo không tắt được khách chưa từng sửa ở đâu",MAN_HINH,2
+608,điểm chết giữa màn hình mới bị 2 ngày nay,MAN_HINH,6
+609,tình trạng: ứng dụng tự thoát liên tục đã thử khởi động lại không được,PHAN_MEM,2
+610,cáp sạc chỉ vào khi cắm một chiều đã mang đi sửa một lần,SAC,3
+611,"khách mang máy tới, máy tự tắt khi còn ba mươi phần trăm xảy ra sau khi rơi",PIN,5
+612,kh nói máy không nhận sạc xảy ra sau khi rơi,SAC,1
+613,khách báo máy không lên nguồn đã mang đi sửa một lần,PIN,3
+614,kh nói chân cắm bị vênh bị từ tuần trước,SAC,5
+615,"khách mang máy tới, không đăng nhập được vào máy khách chưa từng sửa ở đâu",PHAN_MEM,6
+616,cảm ứng không nhận ở nửa trên,MAN_HINH,6
+617,kh nói màn hình sọc dọc nhiều đường đã thử khởi động lại không được,MAN_HINH,4
+618,tinh trang: khong ket noi duoc tai nghe khong day moi bi 2 ngay nay,KHAC,4
+619,máy treo không tắt được máy còn bảo hành,MAN_HINH,4
+620,khach hang phan anh chan sac gi xanh da thu khoi dong lai khong duoc,SAC,2
+621,khách báo cáp sạc chỉ vào khi cắm một chiều bị từ tuần trước,SAC,3
+622,"khách mang máy tới, sạc vào rất chậm mất cả đêm",SAC,3
+623,"khách mang máy tới, máy tự tắt khi còn ba mươi phần trăm xảy ra sau khi rơi",PIN,3
+624,màn hình bị nứt góc dưới,MAN_HINH,5
+625,camera mở lên bị đen,PHAN_MEM,5
+626,không kết nối được tai nghe không dây,KHAC,6
+627,"khách mang máy tới, hình bị nhoè khi mở ứng dụng máy còn bảo hành",MAN_HINH,4
+628,mất tiếng khi gọi nhưng loa ngoài vẫn tốt,KHAC,2
+629,khách hàng phản ánh màn hình đứng không bấm được đã mang đi sửa một lần,MAN_HINH,2
+630,màn hình bị chảy mực loang đã thử khởi động lại không được,MAN_HINH,6
+631,kh nói máy chỉ lên khi cắm sạc đã thử khởi động lại không được,PIN,3
+632,tình trạng: cáp sạc chỉ vào khi cắm một chiều khách chưa từng sửa ở đâu,SAC,5
+633,khách báo pin phồng làm hở viền máy đã thử khởi động lại không được,PIN,2
+634,"khách mang máy tới, máy có hơi nước trong camera",NUOC_VAO,2
+635,rơi vào bồn cầu đã lau khô,NUOC_VAO,6
+636,khách hàng phản ánh cảm ứng không nhận ở nửa trên,MAN_HINH,1
+637,máy không nhận thẻ nhớ,PHAN_MEM,6
+638,khách hàng phản ánh loa bị rè sau khi máy ẩm máy còn bảo hành,NUOC_VAO,3
+639,"khách mang máy tới, máy nóng bất thường khi dùng nhẹ xảy ra sau khi rơi",PIN,1
+640,kh noi cam sac khong len gi xay ra sau khi roi,PIN,2
+641,khach hang phan anh cap sac chi vao khi cam mot chieu may con bao hanh,SAC,3
+642,kh nói màn hình bị chảy mực loang đã thử khởi động lại không được,MAN_HINH,3
+643,pin phồng làm hở viền máy bị từ tuần trước,PIN,6
+644,khách báo không nhận sim đã thử khởi động lại không được,KHAC,1
+645,màn hình bị nứt góc dưới,MAN_HINH,1
+646,màn hình nhấp nháy liên tục,MAN_HINH,2
+647,"khách mang máy tới, màn hình đứng không bấm được",MAN_HINH,5
+648,khách hàng phản ánh màn hình sọc dọc nhiều đường máy còn bảo hành,MAN_HINH,2
+649,tinh trang: may treo khong tat duoc moi bi 2 ngay nay,MAN_HINH,1
+650,khách hàng phản ánh không cài được ứng dụng báo lỗi,PHAN_MEM,3
+651,cổng sạc bị lỏng phải giữ mới vào,SAC,3
+652,tình trạng: máy nóng bất thường khi dùng nhẹ máy còn bảo hành,PIN,5
+653,"khách mang máy tới, rung không hoạt động",KHAC,3
+654,máy chạy chậm sau khi cập nhật máy còn bảo hành,PHAN_MEM,6
+655,không kết nối được tai nghe không dây,KHAC,3
+656,"khách mang máy tới, nút nguồn bị kẹt mới bị 2 ngày nay",KHAC,5
+657,"khách mang máy tới, máy chỉ lên khi cắm sạc đã thử khởi động lại không được",SAC,2
+658,khách báo pin sụt nhanh cả khi để không máy còn bảo hành,PIN,4
+659,kh nói máy có hơi nước trong camera,NUOC_VAO,1
+660,khách báo không kết nối được tai nghe không dây mới bị 2 ngày nay,KHAC,1
+661,khách báo máy nóng bất thường khi dùng nhẹ khách chưa từng sửa ở đâu,PIN,4
+662,máy nóng bất thường khi dùng nhẹ,PIN,1
+663,khách báo pin chai chỉ dùng được hai tiếng máy còn bảo hành,PIN,4
+664,"khách mang máy tới, bàn phím ảo không hiện lên",PHAN_MEM,1
+665,khách báo máy tự tắt khi còn ba mươi phần trăm đã mang đi sửa một lần,SAC,6
+666,pin tụt từ tám mươi xuống hai mươi trong nửa giờ,PIN,4
+667,khách hàng phản ánh kính màn hình vỡ nhưng vẫn hiển thị xảy ra sau khi rơi,MAN_HINH,3
+668,kh noi nuoc vao loa nghe oc oc da mang di sua mot lan,NUOC_VAO,5
+669,khách hàng phản ánh nước vào loa nghe ọc ọc đã mang đi sửa một lần,NUOC_VAO,4
+670,khach bao man hinh soc doc nhieu duong may con bao hanh,MAN_HINH,3
+671,khách báo màn hình bị nứt góc dưới mới bị 2 ngày nay,MAN_HINH,6
+672,cắm sạc không lên gì,PIN,2
+673,điện thoại dính nước mưa cả buổi,NUOC_VAO,3
+674,tình trạng: điểm chết giữa màn hình đã mang đi sửa một lần,MAN_HINH,6
+675,khách báo loa bị rè sau khi máy ẩm máy còn bảo hành,NUOC_VAO,6
+676,tình trạng: chân sạc gỉ xanh bị từ tuần trước,SAC,4
+677,khach hang phan anh pin chai chi dung duoc hai tieng khach chua tung sua o dau,PIN,5
+678,cổng sạc bị lỏng phải giữ mới vào,SAC,5
+679,điểm chết giữa màn hình,MAN_HINH,6
+680,tình trạng: sạc đầy nhưng rút ra là tắt đã thử khởi động lại không được,SAC,5
+681,khách hàng phản ánh củ sạc nóng và có mùi khét đã thử khởi động lại không được,SAC,2
+682,khách hàng phản ánh cổng sạc bị lỏng phải giữ mới vào đã thử khởi động lại không được,MAN_HINH,6
+683,máy treo logo khi khởi động,PHAN_MEM,6
+684,tình trạng: mất tiếng khi gọi nhưng loa ngoài vẫn tốt bị từ tuần trước,KHAC,4
+685,tình trạng: cảm ứng không nhận ở nửa trên khách chưa từng sửa ở đâu,MAN_HINH,3
+686,kh nói cảm ứng không nhận ở nửa trên khách chưa từng sửa ở đâu,MAN_HINH,1
+687,tình trạng: không nhận sim đã mang đi sửa một lần,KHAC,6
+688,máy không nhận thẻ nhớ mới bị 2 ngày nay,KHAC,2
+689,tình trạng: chân cắm bị vênh khách chưa từng sửa ở đâu,SAC,5
+690,khách báo cổng sạc bị lỏng phải giữ mới vào khách chưa từng sửa ở đâu,PIN,3
+691,"khách mang máy tới, không cài được ứng dụng báo lỗi",PHAN_MEM,2
+692,sac day nhung rut ra la tat,PIN,4
+693,khách hàng phản ánh điểm chết giữa màn hình đã mang đi sửa một lần,MAN_HINH,3
+694,kh nói pin tụt từ tám mươi xuống hai mươi trong nửa giờ khách chưa từng sửa ở đâu,PIN,3
+695,khách hàng phản ánh máy treo logo khi khởi động đã mang đi sửa một lần,PHAN_MEM,1
+696,hình bị nhoè khi mở ứng dụng,MAN_HINH,1
+697,tình trạng: loa bị rè sau khi máy ẩm,NUOC_VAO,2
+698,kh nói nút nguồn bị kẹt bị từ tuần trước,KHAC,2
+699,sac vao rat cham mat ca dem,SAC,6
+700,điện thoại dính nước mưa cả buổi bị từ tuần trước,NUOC_VAO,2
+701,may treo khong tat duoc da thu khoi dong lai khong duoc,PHAN_MEM,6
+702,khách báo màn hình đứng không bấm được đã mang đi sửa một lần,PHAN_MEM,1
+703,"khach mang may toi, camera mo len bi den",PHAN_MEM,3
+704,khách báo pin sụt nhanh cả khi để không xảy ra sau khi rơi,PIN,6
+705,pin phồng làm hở viền máy mới bị 2 ngày nay,PIN,4
+706,đổ nước ngọt vào bàn phím,NUOC_VAO,3
+707,khách báo máy có hơi nước trong camera khách chưa từng sửa ở đâu,NUOC_VAO,1
+708,hình bị nhoè khi mở ứng dụng,MAN_HINH,6
+709,"khách mang máy tới, pin chai chỉ dùng được hai tiếng",PIN,1
+710,tình trạng: pin chai chỉ dùng được hai tiếng máy còn bảo hành,PIN,6
+711,"khách mang máy tới, wifi tự ngắt liên tục đã thử khởi động lại không được",KHAC,2
+712,sạc không vào điện mới bị 2 ngày nay,SAC,5
+713,khách báo máy nóng bất thường khi dùng nhẹ bị từ tuần trước,PIN,1
+714,khách báo pin chai chỉ dùng được hai tiếng,PIN,2
+715,sạc đầy nhưng rút ra là tắt,KHAC,1
+716,kh nói loa bị rè sau khi máy ẩm xảy ra sau khi rơi,KHAC,6
+717,tình trạng: máy có hơi nước trong camera đã thử khởi động lại không được,NUOC_VAO,2
+718,khách hàng phản ánh màn hình bị chảy mực loang đã mang đi sửa một lần,MAN_HINH,5
+719,cáp sạc chỉ vào khi cắm một chiều,SAC,6
+720,kh nói máy có hơi nước trong camera máy còn bảo hành,KHAC,2
+721,nước vào loa nghe ọc ọc đã mang đi sửa một lần,NUOC_VAO,1
+722,khách báo sạc không vào điện khách chưa từng sửa ở đâu,PIN,3
+723,kh nói cáp sạc chỉ vào khi cắm một chiều mới bị 2 ngày nay,SAC,3
+724,máy không nhận thẻ nhớ,KHAC,2
+725,kh noi loa bi re sau khi may am moi bi 2 ngay nay,NUOC_VAO,6
+726,màn hình sọc dọc nhiều đường,MAN_HINH,1
+727,PIN CHAI CHỈ DÙNG ĐƯỢC HAI TIẾNG ĐÃ MANG ĐI SỬA MỘT LẦN,PIN,4
+728,wifi tự ngắt liên tục,KHAC,5
+729,tình trạng: loa bị rè sau khi máy ẩm bị từ tuần trước,NUOC_VAO,1
+730,"khách mang máy tới, màn hình sọc dọc nhiều đường đã mang đi sửa một lần",MAN_HINH,3
+731,khách hàng phản ánh cắm sạc không lên gì,SAC,6
+732,"khách mang máy tới, máy ngâm nước biển khi đi tắm",NUOC_VAO,2
+733,kh noi loa bi re sau khi may am moi bi 2 ngay nay,NUOC_VAO,6
+734,tình trạng: không cài được ứng dụng báo lỗi khách chưa từng sửa ở đâu,PHAN_MEM,2
+735,khách báo không đăng nhập được vào máy khách chưa từng sửa ở đâu,KHAC,2
+736,tình trạng: cắm sạc vào không thấy báo gì bị từ tuần trước,PIN,6
+737,tình trạng: rung không hoạt động mới bị 2 ngày nay,KHAC,6
+738,máy không nhận sạc,PIN,1
+739,kh noi loa ngoai re khong nghe ro da thu khoi dong lai khong duoc,NUOC_VAO,1
+740,máy chạy chậm sau khi cập nhật đã thử khởi động lại không được,PHAN_MEM,3
+741,khách báo màn hình sọc dọc nhiều đường máy còn bảo hành,MAN_HINH,6
+742,kh nói sạc không vào điện xảy ra sau khi rơi,SAC,2
+743,cong sac bi long phai giu moi vao may con bao hanh,SAC,3
+744,nút nguồn bị kẹt,KHAC,2
+745,màn hình đứng không bấm được,MAN_HINH,2
+746,sac khong vao dien,PIN,5
+747,khách báo máy treo logo khi khởi động,PHAN_MEM,5
+748,khách hàng phản ánh không nhận sim xảy ra sau khi rơi,KHAC,6
+749,man hinh den khong thay gi,MAN_HINH,5
+750,tinh trang: may chi len khi cam sac may con bao hanh,SAC,3
+751,loa bị rè sau khi máy ẩm máy còn bảo hành,NUOC_VAO,2
+752,khách báo màn hình bị nứt góc dưới đã thử khởi động lại không được,MAN_HINH,5
+753,kh nói màn hình bị chảy mực loang mới bị 2 ngày nay,MAN_HINH,1
+754,khách báo điện thoại dính nước mưa cả buổi máy còn bảo hành,NUOC_VAO,3
+755,tinh trang: cu sac nong va co mui khet bi tu tuan truoc,SAC,3
+756,không kết nối được tai nghe không dây,KHAC,6
+757,tình trạng: pin phồng làm hở viền máy xảy ra sau khi rơi,MAN_HINH,3
+758,khách hàng phản ánh pin tụt từ tám mươi xuống hai mươi trong nửa giờ bị từ tuần trước,PIN,2
+759,tình trạng: máy có hơi nước trong camera đã thử khởi động lại không được,KHAC,4
+760,khách báo pin tụt từ tám mươi xuống hai mươi trong nửa giờ khách chưa từng sửa ở đâu,PIN,2
+761,khách hàng phản ánh máy có hơi nước trong camera khách chưa từng sửa ở đâu,KHAC,2
+762,kh nói cắm sạc không lên gì đã thử khởi động lại không được,SAC,4
+763,màn hình bị chảy mực loang đã thử khởi động lại không được,MAN_HINH,1
+764,hình bị nhoè khi mở ứng dụng,MAN_HINH,6
+765,màn hình sọc dọc nhiều đường,MAN_HINH,5
+766,khách hàng phản ánh pin tụt từ tám mươi xuống hai mươi trong nửa giờ đã thử khởi động lại không được,PIN,4
+767,tình trạng: chân cắm bị vênh máy còn bảo hành,PIN,1
+768,tình trạng: máy nóng bất thường khi dùng nhẹ xảy ra sau khi rơi,PIN,6
+769,khách báo cảm ứng không nhận ở nửa trên đã thử khởi động lại không được,MAN_HINH,4
+770,"khach mang may toi, man hinh soc doc nhieu duong da mang di sua mot lan",MAN_HINH,4
+771,khách báo hết pin rất nhanh và sạc lâu máy còn bảo hành,PIN,3
+772,điểm chết giữa màn hình,MAN_HINH,1
+773,màn hình bị chảy mực loang,MAN_HINH,4
+774,loa ngoài rè không nghe rõ,KHAC,4
+775,khách báo màn hình bị nứt góc dưới mới bị 2 ngày nay,MAN_HINH,6
+776,"khách mang máy tới, pin chai chỉ dùng được hai tiếng xảy ra sau khi rơi",PIN,1
+777,tình trạng: cắm sạc không lên gì đã thử khởi động lại không được,SAC,2
+778,sạc đầy nhưng rút ra là tắt,SAC,1
+779,kh nói máy chỉ lên khi cắm sạc khách chưa từng sửa ở đâu,SAC,3
+780,tình trạng: nút nguồn bị kẹt xảy ra sau khi rơi,KHAC,1
+781,khách hàng phản ánh pin phồng làm hở viền máy đã mang đi sửa một lần,PIN,3
+782,rung không hoạt động,KHAC,6
+783,kh nói ứng dụng tự thoát liên tục đã mang đi sửa một lần,PHAN_MEM,1
+784,khách báo máy chạy chậm sau khi cập nhật đã thử khởi động lại không được,PHAN_MEM,4
+785,khách báo cắm sạc không lên gì xảy ra sau khi rơi,SAC,4
+786,mất tiếng khi gọi nhưng loa ngoài vẫn tốt,KHAC,1
+787,máy rơi vào bồn rửa xảy ra sau khi rơi,NUOC_VAO,3
+788,củ sạc nóng và có mùi khét,SAC,2
+789,khách hàng phản ánh cáp sạc chỉ vào khi cắm một chiều mới bị 2 ngày nay,SAC,2
+790,"khách mang máy tới, không kết nối được tai nghe không dây máy còn bảo hành",KHAC,2
+791,máy không lên nguồn,SAC,5
+792,"khách mang máy tới, máy có hơi nước trong camera xảy ra sau khi rơi",NUOC_VAO,2
+793,tinh trang: chan sac gi xanh da mang di sua mot lan,SAC,2
+794,hết pin rất nhanh và sạc lâu,PIN,1
+795,khách báo nút nguồn bị kẹt bị từ tuần trước,KHAC,6
+796,kh nói pin chai chỉ dùng được hai tiếng bị từ tuần trước,PIN,1
+797,PIN TỤT TỪ TÁM MƯƠI XUỐNG HAI MƯƠI TRONG NỬA GIỜ,PIN,2
+798,MÁY KHÔNG LÊN NGUỒN KHÁCH CHƯA TỪNG SỬA Ở ĐÂU,SAC,4
+799,khách báo màn hình bị chảy mực loang,MAN_HINH,3
+800,"khách mang máy tới, quên mật khẩu tài khoản đã thử khởi động lại không được",PHAN_MEM,2
+801,khách báo nước vào loa nghe ọc ọc,NUOC_VAO,5
+802,cảm ứng không nhận ở nửa trên máy còn bảo hành,MAN_HINH,4
+803,tinh trang: cam ung khong nhan o nua tren khach chua tung sua o dau,MAN_HINH,3
+804,điểm chết giữa màn hình,MAN_HINH,1
+805,cáp sạc chỉ vào khi cắm một chiều,SAC,5
+806,không cài được ứng dụng báo lỗi máy còn bảo hành,PHAN_MEM,2
+807,"khách mang máy tới, máy nóng bất thường khi dùng nhẹ máy còn bảo hành",PIN,3
+808,máy nóng bất thường khi dùng nhẹ máy còn bảo hành,PIN,4
+809,khay sim bị móp xảy ra sau khi rơi,KHAC,6
+810,khách báo cắm sạc không lên gì,SAC,4
+811,"khách mang máy tới, nút nguồn bị kẹt máy còn bảo hành",KHAC,3
+812,khách hàng phản ánh cổng sạc bị lỏng phải giữ mới vào máy còn bảo hành,SAC,4
+813,chân sạc gỉ xanh,SAC,1
+814,kh nói không kết nối được tai nghe không dây máy còn bảo hành,KHAC,2
+815,khách báo ứng dụng tự thoát liên tục đã thử khởi động lại không được,PHAN_MEM,6
+816,máy không lên nguồn,PIN,4
+817,khách báo màn hình nhấp nháy liên tục khách chưa từng sửa ở đâu,MAN_HINH,1
+818,"khách mang máy tới, điểm chết giữa màn hình đã thử khởi động lại không được",MAN_HINH,6
+819,sạc đầy nhưng rút ra là tắt,PIN,4
+820,tình trạng: pin sụt nhanh cả khi để không đã mang đi sửa một lần,PIN,4
+821,khách hàng phản ánh quên mật khẩu tài khoản đã thử khởi động lại không được,PHAN_MEM,4
+822,nút nguồn bị kẹt,KHAC,1
+823,bàn phím ảo không hiện lên,PHAN_MEM,6
+824,"khách mang máy tới, bàn phím ảo không hiện lên xảy ra sau khi rơi",PHAN_MEM,3
+825,màn hình đen không thấy gì,MAN_HINH,4
+826,máy có hơi nước trong camera,NUOC_VAO,3
+827,"khach mang may toi, pin chai chi dung duoc hai tieng",PIN,3
+828,khách hàng phản ánh chân cắm bị vênh xảy ra sau khi rơi,SAC,5
+829,loa bị rè sau khi máy ẩm,KHAC,3
+830,"khách mang máy tới, cắm sạc vào không thấy báo gì đã thử khởi động lại không được",SAC,5
+831,kh nói màn hình bị chảy mực loang đã thử khởi động lại không được,MAN_HINH,2
+832,tình trạng: màn hình nhấp nháy liên tục đã mang đi sửa một lần,MAN_HINH,6
+833,khach bao man hinh nhap nhay lien tuc may con bao hanh,MAN_HINH,3
+834,MẤT TIẾNG KHI GỌI NHƯNG LOA NGOÀI VẪN TỐT BỊ TỪ TUẦN TRƯỚC,KHAC,1
+835,không đăng nhập được vào máy,PHAN_MEM,5
+836,máy ngâm nước biển khi đi tắm,NUOC_VAO,3
+837,KH NÓI CHÂN CẮM BỊ VÊNH MỚI BỊ 2 NGÀY NAY,SAC,2
+838,máy có hơi nước trong camera,NUOC_VAO,2
+839,tình trạng: màn hình đứng không bấm được,PHAN_MEM,1
+840,kh nói cắm sạc vào không thấy báo gì máy còn bảo hành,SAC,6
+841,sạc vào rất chậm mất cả đêm bị từ tuần trước,SAC,5
+842,khách báo ứng dụng tự thoát liên tục khách chưa từng sửa ở đâu,PHAN_MEM,5
+843,kh nói pin tụt từ tám mươi xuống hai mươi trong nửa giờ bị từ tuần trước,PIN,2
+844,khách hàng phản ánh loa bị rè sau khi máy ẩm máy còn bảo hành,KHAC,3
+845,máy treo không tắt được đã mang đi sửa một lần,MAN_HINH,4
+846,pin phong lam ho vien may da thu khoi dong lai khong duoc,PIN,4
+847,màn hình nhấp nháy liên tục xảy ra sau khi rơi,MAN_HINH,4
+848,"khach mang may toi, man hinh dung khong bam duoc bi tu tuan truoc",MAN_HINH,5
+849,không kết nối được tai nghe không dây,KHAC,5
+850,khách hàng phản ánh máy nóng bất thường khi dùng nhẹ máy còn bảo hành,PIN,6
+851,khách hàng phản ánh pin chai chỉ dùng được hai tiếng máy còn bảo hành,PIN,2
+852,khách báo sạc đầy nhưng rút ra là tắt xảy ra sau khi rơi,PIN,1
+853,tinh trang: loa bi re sau khi may am moi bi 2 ngay nay,NUOC_VAO,6
+854,khach bao nuoc vao loa nghe oc oc da thu khoi dong lai khong duoc,NUOC_VAO,1
+855,kh nói máy chạy chậm sau khi cập nhật,PHAN_MEM,3
+856,camera mở lên bị đen,PHAN_MEM,6
+857,"khách mang máy tới, pin tụt từ tám mươi xuống hai mươi trong nửa giờ đã thử khởi động lại không được",PIN,6
+858,màn hình đứng không bấm được,PHAN_MEM,6
+859,máy chạy chậm sau khi cập nhật,PHAN_MEM,6
+860,tình trạng: ứng dụng tự thoát liên tục máy còn bảo hành,PHAN_MEM,6
+861,màn hình đứng không bấm được,MAN_HINH,5
+862,loa ngoai re khong nghe ro may con bao hanh,KHAC,1
+863,khách hàng phản ánh ứng dụng tự thoát liên tục đã thử khởi động lại không được,PHAN_MEM,6
+864,nút nguồn bị kẹt,KHAC,2
+865,khách hàng phản ánh hình bị nhoè khi mở ứng dụng máy còn bảo hành,MAN_HINH,2
+866,khach bao may khong nhan the nho khach chua tung sua o dau,PHAN_MEM,4
+867,khách hàng phản ánh pin sụt nhanh cả khi để không bị từ tuần trước,SAC,6
+868,tinh trang: may treo logo khi khoi dong,PHAN_MEM,2
+869,kh noi may treo logo khi khoi dong may con bao hanh,PHAN_MEM,1
+870,kh nói hết pin rất nhanh và sạc lâu đã mang đi sửa một lần,SAC,5
+871,loa ngoài rè không nghe rõ mới bị 2 ngày nay,KHAC,3
+872,pin sụt nhanh cả khi để không,PIN,6
+873,MÁY CHẠY CHẬM SAU KHI CẬP NHẬT,PHAN_MEM,2
+874,kh nói máy không nhận thẻ nhớ mới bị 2 ngày nay,PHAN_MEM,3
+875,kh nói máy có hơi nước trong camera đã mang đi sửa một lần,KHAC,3
+876,tinh trang: may roi vao bon rua,NUOC_VAO,1
+877,tình trạng: máy chạy chậm sau khi cập nhật xảy ra sau khi rơi,PHAN_MEM,5
+878,CAMERA MỞ LÊN BỊ ĐEN ĐÃ MANG ĐI SỬA MỘT LẦN,PHAN_MEM,1
+879,khách báo rơi vào bồn cầu đã lau khô bị từ tuần trước,NUOC_VAO,6
+880,màn hình sọc dọc nhiều đường,MAN_HINH,2
+881,khách hàng phản ánh máy treo không tắt được mới bị 2 ngày nay,MAN_HINH,3
+882,"khách mang máy tới, màn hình bị chảy mực loang",MAN_HINH,2
+883,kh nói không cài được ứng dụng báo lỗi đã thử khởi động lại không được,PHAN_MEM,3
+884,khách hàng phản ánh không nhận sim bị từ tuần trước,KHAC,1
+885,"KHÁCH MANG MÁY TỚI, MÀN HÌNH BỊ CHẢY MỰC LOANG KHÁCH CHƯA TỪNG SỬA Ở ĐÂU",MAN_HINH,5
+886,man hinh dung khong bam duoc,PHAN_MEM,1
+887,kh nói khay sim bị móp xảy ra sau khi rơi,NUOC_VAO,4
+888,tình trạng: wifi tự ngắt liên tục đã mang đi sửa một lần,KHAC,6
+889,khách hàng phản ánh wifi tự ngắt liên tục bị từ tuần trước,KHAC,2
+890,pin phồng làm hở viền máy,PIN,6
+891,điện thoại dính nước mưa cả buổi,NUOC_VAO,1
+892,tinh trang: may khong len nguon da thu khoi dong lai khong duoc,SAC,4
+893,kh nói máy có hơi nước trong camera đã mang đi sửa một lần,KHAC,3
+894,khách báo quên mật khẩu tài khoản,PHAN_MEM,1
+895,khách hàng phản ánh chân sạc gỉ xanh đã mang đi sửa một lần,SAC,3
+896,kh noi may treo khong tat duoc khach chua tung sua o dau,MAN_HINH,1
+897,MÀN HÌNH BỊ NỨT GÓC DƯỚI MỚI BỊ 2 NGÀY NAY,MAN_HINH,6
+898,màn hình bị chảy mực loang bị từ tuần trước,MAN_HINH,5
+899,khách hàng phản ánh máy chạy chậm sau khi cập nhật bị từ tuần trước,PHAN_MEM,5
+900,màn hình nhấp nháy liên tục,MAN_HINH,2
+901,máy chỉ lên khi cắm sạc,SAC,6
+902,"khách mang máy tới, pin sụt nhanh cả khi để không máy còn bảo hành",PIN,6
+903,khách báo điểm chết giữa màn hình đã thử khởi động lại không được,MAN_HINH,2
+904,kh nói máy nóng bất thường khi dùng nhẹ,PIN,5
+905,màn hình đứng không bấm được máy còn bảo hành,MAN_HINH,6
+906,hình bị nhoè khi mở ứng dụng,PHAN_MEM,4
+907,may roi vao bon rua,NUOC_VAO,2
+908,tình trạng: màn hình đứng không bấm được bị từ tuần trước,MAN_HINH,6
+909,chân cắm bị vênh khách chưa từng sửa ở đâu,SAC,1
+910,cảm ứng không nhận ở nửa trên,MAN_HINH,3
+911,loa bị rè sau khi máy ẩm máy còn bảo hành,NUOC_VAO,4
+912,màn hình đứng không bấm được máy còn bảo hành,MAN_HINH,3
+913,KHÁCH BÁO RƠI VÀO BỒN CẦU ĐÃ LAU KHÔ XẢY RA SAU KHI RƠI,KHAC,1
+914,kh nói khay sim bị móp đã mang đi sửa một lần,KHAC,1
+915,"khách mang máy tới, không cài được ứng dụng báo lỗi máy còn bảo hành",PHAN_MEM,6
+916,"khách mang máy tới, rơi vào bồn cầu đã lau khô bị từ tuần trước",NUOC_VAO,1
+917,máy có hơi nước trong camera,KHAC,3
+918,không kết nối được tai nghe không dây máy còn bảo hành,KHAC,3
+919,CỦ SẠC NÓNG VÀ CÓ MÙI KHÉT,SAC,1
+920,"khách mang máy tới, đổ nước ngọt vào bàn phím xảy ra sau khi rơi",NUOC_VAO,3
+921,ban phim ao khong hien len bi tu tuan truoc,PHAN_MEM,4
+922,khách báo quên mật khẩu tài khoản bị từ tuần trước,PHAN_MEM,4
+923,khách báo pin sụt nhanh cả khi để không khách chưa từng sửa ở đâu,PIN,3
+924,khay sim bị móp máy còn bảo hành,KHAC,1
+925,man hinh bi nut goc duoi,MAN_HINH,1
+926,màn hình nhấp nháy liên tục máy còn bảo hành,MAN_HINH,2
+927,khách hàng phản ánh đổ nước ngọt vào bàn phím xảy ra sau khi rơi,NUOC_VAO,5
+928,pin tụt từ tám mươi xuống hai mươi trong nửa giờ,PIN,4
+929,tình trạng: quên mật khẩu tài khoản đã mang đi sửa một lần,PHAN_MEM,5
+930,khách hàng phản ánh máy không nhận sạc,PIN,6
+931,kh nói màn hình sọc dọc nhiều đường máy còn bảo hành,MAN_HINH,2
+932,máy nóng bất thường khi dùng nhẹ bị từ tuần trước,PIN,3
+933,màn hình nhấp nháy liên tục bị từ tuần trước,MAN_HINH,5
+934,kh nói máy rơi vào bồn rửa mới bị 2 ngày nay,NUOC_VAO,4
+935,khách báo máy treo không tắt được,PHAN_MEM,4
+936,kh nói loa ngoài rè không nghe rõ mới bị 2 ngày nay,PHAN_MEM,6
+937,may ngam nuoc bien khi di tam,NUOC_VAO,4
+938,"KHÁCH MANG MÁY TỚI, MÀN HÌNH BỊ CHẢY MỰC LOANG",MAN_HINH,1
+939,tình trạng: màn hình đứng không bấm được đã mang đi sửa một lần,MAN_HINH,5
+940,khách hàng phản ánh loa bị rè sau khi máy ẩm bị từ tuần trước,NUOC_VAO,3
+941,khách hàng phản ánh hình bị nhoè khi mở ứng dụng đã thử khởi động lại không được,KHAC,2
+942,"khách mang máy tới, máy không nhận thẻ nhớ đã thử khởi động lại không được",PHAN_MEM,5
+943,kh nói máy nóng bất thường khi dùng nhẹ,PIN,6
+944,máy tự tắt khi còn ba mươi phần trăm,PIN,6
+945,tình trạng: hình bị nhoè khi mở ứng dụng khách chưa từng sửa ở đâu,PHAN_MEM,5
+946,tình trạng: mất tiếng khi gọi nhưng loa ngoài vẫn tốt khách chưa từng sửa ở đâu,KHAC,3
+947,kh nói cổng sạc bị lỏng phải giữ mới vào bị từ tuần trước,SAC,3
+948,máy rơi vào bồn rửa đã mang đi sửa một lần,NUOC_VAO,1
+949,pin tụt từ tám mươi xuống hai mươi trong nửa giờ,PIN,5
+950,kh noi loa bi re sau khi may am khach chua tung sua o dau,KHAC,1
+951,khach bao loa bi re sau khi may am khach chua tung sua o dau,KHAC,5
+952,máy tự tắt khi còn ba mươi phần trăm,PIN,5
+953,tình trạng: màn hình đứng không bấm được,MAN_HINH,2
+954,khách hàng phản ánh màn hình đứng không bấm được đã mang đi sửa một lần,MAN_HINH,2
+955,"khách mang máy tới, không đăng nhập được vào máy",KHAC,6
+956,"khách mang máy tới, khay sim bị móp máy còn bảo hành",KHAC,4
+957,khách báo wifi tự ngắt liên tục máy còn bảo hành,KHAC,2
+958,điện thoại dính nước mưa cả buổi,NUOC_VAO,4
+959,màn hình nhấp nháy liên tục,MAN_HINH,1
+960,khách báo không đăng nhập được vào máy xảy ra sau khi rơi,MAN_HINH,4
+961,"khách mang máy tới, kính màn hình vỡ nhưng vẫn hiển thị mới bị 2 ngày nay",MAN_HINH,2
+962,kh nói cổng sạc bị lỏng phải giữ mới vào,SAC,3
+963,"khách mang máy tới, quên mật khẩu tài khoản máy còn bảo hành",PHAN_MEM,4
+964,pin chai chỉ dùng được hai tiếng,PIN,6
+965,khách hàng phản ánh pin chai chỉ dùng được hai tiếng máy còn bảo hành,PIN,6
+966,khách hàng phản ánh điện thoại dính nước mưa cả buổi đã mang đi sửa một lần,NUOC_VAO,5
+967,kh nói nút nguồn bị kẹt xảy ra sau khi rơi,KHAC,6
+968,kh nói sạc vào rất chậm mất cả đêm bị từ tuần trước,SAC,2
+969,khách báo máy nóng bất thường khi dùng nhẹ bị từ tuần trước,PIN,6
+970,màn hình bị nứt góc dưới,MAN_HINH,3
+971,pin tụt từ tám mươi xuống hai mươi trong nửa giờ bị từ tuần trước,PIN,5
+972,tinh trang: man hinh nhap nhay lien tuc da thu khoi dong lai khong duoc,PHAN_MEM,3
+973,KHÁCH BÁO KÍNH MÀN HÌNH VỠ NHƯNG VẪN HIỂN THỊ MỚI BỊ 2 NGÀY NAY,MAN_HINH,3
+974,khach hang phan anh chan sac gi xanh xay ra sau khi roi,SAC,5
+975,kính màn hình vỡ nhưng vẫn hiển thị mới bị 2 ngày nay,MAN_HINH,2
+976,kh nói máy treo không tắt được,MAN_HINH,5
+977,máy có hơi nước trong camera,NUOC_VAO,2
+978,"khách mang máy tới, chân cắm bị vênh",SAC,3
+979,khách hàng phản ánh củ sạc nóng và có mùi khét,SAC,2
+980,chân sạc gỉ xanh,SAC,5
+981,"khách mang máy tới, cổng sạc bị lỏng phải giữ mới vào khách chưa từng sửa ở đâu",SAC,4
+982,tình trạng: cắm sạc vào không thấy báo gì máy còn bảo hành,PIN,1
+983,tình trạng: chân cắm bị vênh mới bị 2 ngày nay,SAC,6
+984,màn hình đứng không bấm được,MAN_HINH,6
+985,máy có hơi nước trong camera,NUOC_VAO,6
+986,tình trạng: nút nguồn bị kẹt máy còn bảo hành,KHAC,6
+987,"khách mang máy tới, rung không hoạt động xảy ra sau khi rơi",KHAC,5
+988,khách báo loa bị rè sau khi máy ẩm đã mang đi sửa một lần,NUOC_VAO,3
+989,máy không nhận sạc,SAC,4
+990,kh nói máy không nhận thẻ nhớ,KHAC,2
+991,tinh trang: pin sut nhanh ca khi de khong khach chua tung sua o dau,PIN,3
+992,"khách mang máy tới, cổng sạc bị lỏng phải giữ mới vào máy còn bảo hành",SAC,2
+993,khách báo cắm sạc không lên gì đã thử khởi động lại không được,SAC,2
+994,tình trạng: máy nóng bất thường khi dùng nhẹ đã mang đi sửa một lần,PIN,5
+995,"khách mang máy tới, không nhận sim",KHAC,3
+996,củ sạc nóng và có mùi khét,SAC,1
+997,khach bao may tu tat khi con ba muoi phan tram xay ra sau khi roi,PIN,3
+998,tình trạng: không cài được ứng dụng báo lỗi,PHAN_MEM,6
+999,tình trạng: pin sụt nhanh cả khi để không khách chưa từng sửa ở đâu,PIN,3
+1000,khách báo pin phồng làm hở viền máy mới bị 2 ngày nay,SAC,3
+1001,bàn phím ảo không hiện lên,PHAN_MEM,3
+1002,"khách mang máy tới, pin phồng làm hở viền máy khách chưa từng sửa ở đâu",PIN,3
+1003,kh noi cam ung khong nhan o nua tren da mang di sua mot lan,MAN_HINH,2
+1004,khách báo hình bị nhoè khi mở ứng dụng bị từ tuần trước,MAN_HINH,1
+1005,"khách mang máy tới, rung không hoạt động máy còn bảo hành",PHAN_MEM,5
+1006,khách hàng phản ánh pin phồng làm hở viền máy,PIN,2
+1007,màn hình bị chảy mực loang,MAN_HINH,3
+1008,kh nói camera mở lên bị đen bị từ tuần trước,PHAN_MEM,6
+1009,khách hàng phản ánh ứng dụng tự thoát liên tục,PHAN_MEM,1
+1010,máy chỉ lên khi cắm sạc bị từ tuần trước,SAC,2
+1011,kh nói loa bị rè sau khi máy ẩm mới bị 2 ngày nay,KHAC,1
+1012,tinh trang: sac khong vao dien xay ra sau khi roi,SAC,4
+1013,tình trạng: nước vào loa nghe ọc ọc xảy ra sau khi rơi,NUOC_VAO,2
+1014,máy tự tắt khi còn ba mươi phần trăm mới bị 2 ngày nay,PIN,5
+1015,"khách mang máy tới, máy nóng bất thường khi dùng nhẹ khách chưa từng sửa ở đâu",PIN,4
+1016,"khách mang máy tới, rơi vào bồn cầu đã lau khô mới bị 2 ngày nay",NUOC_VAO,1
+1017,kh nói cắm sạc không lên gì đã thử khởi động lại không được,PIN,5
+1018,kh nói loa bị rè sau khi máy ẩm đã thử khởi động lại không được,NUOC_VAO,1
+1019,kh nói màn hình bị nứt góc dưới đã thử khởi động lại không được,MAN_HINH,6
+1020,"khách mang máy tới, cắm sạc vào không thấy báo gì",PIN,1
+1021,"khách mang máy tới, máy treo không tắt được khách chưa từng sửa ở đâu",PHAN_MEM,5
+1022,tình trạng: sạc đầy nhưng rút ra là tắt khách chưa từng sửa ở đâu,SAC,6
+1023,WIFI TỰ NGẮT LIÊN TỤC,KHAC,6
+1024,kh nói máy chỉ lên khi cắm sạc khách chưa từng sửa ở đâu,PIN,5
+1025,khách hàng phản ánh pin phồng làm hở viền máy,PIN,5
+1026,"khách mang máy tới, màn hình bị chảy mực loang",MAN_HINH,3
+1027,MÁY TỰ TẮT KHI CÒN BA MƯƠI PHẦN TRĂM MỚI BỊ 2 NGÀY NAY,PIN,4
+1028,khách báo cắm sạc vào không thấy báo gì khách chưa từng sửa ở đâu,SAC,2
+1029,"khách mang máy tới, pin tụt từ tám mươi xuống hai mươi trong nửa giờ máy còn bảo hành",PIN,3
+1030,tình trạng: máy chỉ lên khi cắm sạc,PIN,2
+1031,kh nói rung không hoạt động mới bị 2 ngày nay,KHAC,4
+1032,tình trạng: bàn phím ảo không hiện lên,PHAN_MEM,5
+1033,không nhận sim,KHAC,2
+1034,khách báo máy có hơi nước trong camera đã thử khởi động lại không được,NUOC_VAO,1
+1035,kh nói điểm chết giữa màn hình mới bị 2 ngày nay,MAN_HINH,4
+1036,chân sạc gỉ xanh,SAC,2
+1037,tình trạng: cổng sạc bị lỏng phải giữ mới vào xảy ra sau khi rơi,SAC,3
+1038,khách báo hình bị nhoè khi mở ứng dụng bị từ tuần trước,MAN_HINH,6
+1039,máy nóng bất thường khi dùng nhẹ mới bị 2 ngày nay,PIN,5
+1040,khách hàng phản ánh loa bị rè sau khi máy ẩm máy còn bảo hành,NUOC_VAO,1
+1041,cap sac chi vao khi cam mot chieu,SAC,5
+1042,khách báo loa bị rè sau khi máy ẩm xảy ra sau khi rơi,KHAC,1
+1043,máy không nhận sạc,SAC,4
+1044,khách hàng phản ánh pin sụt nhanh cả khi để không khách chưa từng sửa ở đâu,PIN,1
+1045,kh nói máy chỉ lên khi cắm sạc mới bị 2 ngày nay,PIN,2
+1046,kh nói máy không lên nguồn đã mang đi sửa một lần,PIN,6
+1047,"khách mang máy tới, mất tiếng khi gọi nhưng loa ngoài vẫn tốt",KHAC,4
+1048,khách báo sạc không vào điện máy còn bảo hành,SAC,3
+1049,máy treo không tắt được bị từ tuần trước,MAN_HINH,3
+1050,"khách mang máy tới, máy treo logo khi khởi động mới bị 2 ngày nay",PHAN_MEM,6
+1051,màn hình sọc dọc nhiều đường xảy ra sau khi rơi,MAN_HINH,3
+1052,máy nóng bất thường khi dùng nhẹ,PIN,5
+1053,khách hàng phản ánh máy treo logo khi khởi động đã thử khởi động lại không được,PHAN_MEM,5
+1054,khách báo máy không nhận thẻ nhớ máy còn bảo hành,PHAN_MEM,4
+1055,máy tự tắt khi còn ba mươi phần trăm,PIN,2
+1056,khách hàng phản ánh chân cắm bị vênh xảy ra sau khi rơi,SAC,1
+1057,khach bao khong nhan sim moi bi 2 ngay nay,PHAN_MEM,6
+1058,KH NÓI ỨNG DỤNG TỰ THOÁT LIÊN TỤC MỚI BỊ 2 NGÀY NAY,PHAN_MEM,2
+1059,kinh man hinh vo nhung van hien thi,MAN_HINH,3
+1060,"khách mang máy tới, chân cắm bị vênh đã thử khởi động lại không được",SAC,6
+1061,khách hàng phản ánh màn hình sọc dọc nhiều đường đã thử khởi động lại không được,MAN_HINH,2
+1062,máy treo không tắt được,MAN_HINH,1
+1063,"khách mang máy tới, nút nguồn bị kẹt mới bị 2 ngày nay",KHAC,2
+1064,"khách mang máy tới, hình bị nhoè khi mở ứng dụng đã mang đi sửa một lần",MAN_HINH,6
+1065,"khách mang máy tới, màn hình nhấp nháy liên tục",MAN_HINH,2
+1066,tình trạng: máy treo logo khi khởi động mới bị 2 ngày nay,PHAN_MEM,4
+1067,khách báo máy treo logo khi khởi động bị từ tuần trước,PHAN_MEM,1
+1068,loa ngoài rè không nghe rõ,KHAC,3
+1069,khách hàng phản ánh máy treo không tắt được,MAN_HINH,4
+1070,khách hàng phản ánh máy treo không tắt được khách chưa từng sửa ở đâu,PHAN_MEM,4
+1071,khách báo hình bị nhoè khi mở ứng dụng,MAN_HINH,3
+1072,máy treo không tắt được xảy ra sau khi rơi,MAN_HINH,4
+1073,pin tụt từ tám mươi xuống hai mươi trong nửa giờ đã mang đi sửa một lần,PIN,5
+1074,khách hàng phản ánh màn hình đứng không bấm được bị từ tuần trước,MAN_HINH,2
+1075,quên mật khẩu tài khoản,PHAN_MEM,5
+1076,"khách mang máy tới, màn hình bị nứt góc dưới máy còn bảo hành",MAN_HINH,6
+1077,khách hàng phản ánh sạc vào rất chậm mất cả đêm xảy ra sau khi rơi,PIN,6
+1078,máy không nhận thẻ nhớ,PHAN_MEM,4
+1079,máy ngâm nước biển khi đi tắm đã mang đi sửa một lần,NUOC_VAO,5
+1080,cắm sạc vào không thấy báo gì,SAC,1
+1081,chân cắm bị vênh,SAC,2
+1082,khách hàng phản ánh không đăng nhập được vào máy mới bị 2 ngày nay,PHAN_MEM,3
+1083,khách báo điện thoại dính nước mưa cả buổi xảy ra sau khi rơi,NUOC_VAO,2
+1084,khách báo máy không nhận sạc đã thử khởi động lại không được,PIN,1
+1085,bàn phím ảo không hiện lên đã mang đi sửa một lần,PHAN_MEM,6
+1086,khách hàng phản ánh màn hình bị chảy mực loang mới bị 2 ngày nay,MAN_HINH,2
+1087,kh nói màn hình bị chảy mực loang đã mang đi sửa một lần,MAN_HINH,3
+1088,tình trạng: máy có hơi nước trong camera xảy ra sau khi rơi,KHAC,1
+1089,tình trạng: ứng dụng tự thoát liên tục khách chưa từng sửa ở đâu,KHAC,5
+1090,khách hàng phản ánh máy treo không tắt được đã mang đi sửa một lần,MAN_HINH,2
+1091,"khách mang máy tới, máy treo không tắt được đã thử khởi động lại không được",MAN_HINH,4
+1092,tình trạng: màn hình bị chảy mực loang đã mang đi sửa một lần,MAN_HINH,4
+1093,khách báo khay sim bị móp khách chưa từng sửa ở đâu,KHAC,3
+1094,điện thoại dính nước mưa cả buổi,NUOC_VAO,3
+1095,pin phồng làm hở viền máy,PIN,4
+1096,khách báo máy có hơi nước trong camera đã mang đi sửa một lần,KHAC,2
+1097,"khách mang máy tới, máy có hơi nước trong camera",NUOC_VAO,6
+1098,"KHÁCH MANG MÁY TỚI, MÁY CHỈ LÊN KHI CẮM SẠC XẢY RA SAU KHI RƠI",PIN,1
+1099,điện thoại dính nước mưa cả buổi xảy ra sau khi rơi,NUOC_VAO,5
+1100,khách báo cắm sạc không lên gì đã mang đi sửa một lần,SAC,4
+1101,khay sim bị móp,KHAC,5
+1102,"khách mang máy tới, loa bị rè sau khi máy ẩm",NUOC_VAO,3
+1103,tình trạng: ứng dụng tự thoát liên tục mới bị 2 ngày nay,PHAN_MEM,2
+1104,tình trạng: pin phồng làm hở viền máy đã thử khởi động lại không được,PIN,3
+1105,màn hình đứng không bấm được mới bị 2 ngày nay,PHAN_MEM,5
+1106,"khách mang máy tới, pin tụt từ tám mươi xuống hai mươi trong nửa giờ khách chưa từng sửa ở đâu",PIN,4
+1107,kh nói máy không nhận thẻ nhớ,PHAN_MEM,1
+1108,tình trạng: điện thoại dính nước mưa cả buổi khách chưa từng sửa ở đâu,NUOC_VAO,5
+1109,camera mở lên bị đen,PHAN_MEM,2
+1110,khách hàng phản ánh màn hình đứng không bấm được,MAN_HINH,5
+1111,khách báo màn hình nhấp nháy liên tục đã thử khởi động lại không được,PHAN_MEM,5
+1112,tình trạng: máy có hơi nước trong camera đã thử khởi động lại không được,KHAC,6
+1113,"khách mang máy tới, màn hình bị nứt góc dưới bị từ tuần trước",MAN_HINH,4
+1114,pin chai chỉ dùng được hai tiếng,PIN,4
+1115,"khách mang máy tới, đổ nước ngọt vào bàn phím đã thử khởi động lại không được",NUOC_VAO,1
+1116,"khách mang máy tới, wifi tự ngắt liên tục đã thử khởi động lại không được",KHAC,1
+1117,khách hàng phản ánh màn hình đứng không bấm được bị từ tuần trước,PHAN_MEM,5
+1118,kh nói bàn phím ảo không hiện lên,PHAN_MEM,2
+1119,"khách mang máy tới, màn hình sọc dọc nhiều đường bị từ tuần trước",MAN_HINH,5
+1120,sạc đầy nhưng rút ra là tắt,SAC,3
+1121,không kết nối được tai nghe không dây máy còn bảo hành,KHAC,4
+1122,kh nói cổng sạc bị lỏng phải giữ mới vào khách chưa từng sửa ở đâu,SAC,3
+1123,khách hàng phản ánh máy nóng bất thường khi dùng nhẹ máy còn bảo hành,PIN,4
+1124,khách hàng phản ánh chân sạc gỉ xanh khách chưa từng sửa ở đâu,SAC,5
+1125,điểm chết giữa màn hình máy còn bảo hành,MAN_HINH,4
+1126,pin sụt nhanh cả khi để không,PIN,5
+1127,"khách mang máy tới, chân sạc gỉ xanh",SAC,1
+1128,tình trạng: máy nóng bất thường khi dùng nhẹ khách chưa từng sửa ở đâu,PIN,6
+1129,khach bao khong ket noi duoc tai nghe khong day da mang di sua mot lan,KHAC,3
+1130,khách báo chân cắm bị vênh khách chưa từng sửa ở đâu,SAC,1
+1131,cắm sạc không lên gì xảy ra sau khi rơi,PIN,4
+1132,kh nói màn hình bị nứt góc dưới mới bị 2 ngày nay,MAN_HINH,2
+1133,quen mat khau tai khoan,PHAN_MEM,6
+1134,khách báo pin chai chỉ dùng được hai tiếng,PIN,2
+1135,"khách mang máy tới, cắm sạc không lên gì máy còn bảo hành",SAC,6
+1136,khách báo pin phồng làm hở viền máy mới bị 2 ngày nay,PIN,1
+1137,khách báo hình bị nhoè khi mở ứng dụng máy còn bảo hành,MAN_HINH,2
+1138,man hinh nhap nhay lien tuc xay ra sau khi roi,MAN_HINH,1
+1139,bàn phím ảo không hiện lên,PHAN_MEM,6
+1140,máy có hơi nước trong camera máy còn bảo hành,KHAC,6
+1141,kh nói máy tự tắt khi còn ba mươi phần trăm xảy ra sau khi rơi,PIN,2
+1142,màn hình bị chảy mực loang,MAN_HINH,5
+1143,"khách mang máy tới, máy có hơi nước trong camera đã mang đi sửa một lần",NUOC_VAO,2
+1144,wifi tự ngắt liên tục,KHAC,4
+1145,tình trạng: loa ngoài rè không nghe rõ xảy ra sau khi rơi,KHAC,4
+1146,khách báo máy tự tắt khi còn ba mươi phần trăm đã thử khởi động lại không được,PIN,6
+1147,màn hình sọc dọc nhiều đường,MAN_HINH,6
+1148,khách báo nước vào loa nghe ọc ọc máy còn bảo hành,NUOC_VAO,6
+1149,kh nói máy chạy chậm sau khi cập nhật,MAN_HINH,6
+1150,"KHÁCH MANG MÁY TỚI, CỦ SẠC NÓNG VÀ CÓ MÙI KHÉT",SAC,5
+1151,"khach mang may toi, man hinh dung khong bam duoc khach chua tung sua o dau",MAN_HINH,3
+1152,khach bao khong dang nhap duoc vao may,KHAC,4
+1153,khách báo không kết nối được tai nghe không dây,KHAC,4
+1154,máy treo không tắt được bị từ tuần trước,PHAN_MEM,2
+1155,pin sụt nhanh cả khi để không,PIN,5
+1156,khách hàng phản ánh máy không nhận thẻ nhớ xảy ra sau khi rơi,KHAC,5
+1157,tình trạng: khay sim bị móp đã mang đi sửa một lần,KHAC,1
+1158,khách báo khay sim bị móp đã mang đi sửa một lần,KHAC,6
+1159,MẤT TIẾNG KHI GỌI NHƯNG LOA NGOÀI VẪN TỐT,KHAC,5
+1160,máy có hơi nước trong camera bị từ tuần trước,NUOC_VAO,3
+1161,kh nói cắm sạc không lên gì máy còn bảo hành,PIN,2
+1162,kh noi sac day nhung rut ra la tat bi tu tuan truoc,PIN,3
+1163,khách báo chân sạc gỉ xanh máy còn bảo hành,SAC,6
+1164,không đăng nhập được vào máy mới bị 2 ngày nay,PHAN_MEM,4
+1165,máy tự tắt khi còn ba mươi phần trăm,SAC,3
+1166,"khách mang máy tới, màn hình đen không thấy gì đã mang đi sửa một lần",MAN_HINH,2
+1167,khach hang phan anh cu sac nong va co mui khet xay ra sau khi roi,SAC,6
+1168,khách hàng phản ánh điểm chết giữa màn hình đã thử khởi động lại không được,MAN_HINH,5
+1169,"KHÁCH MANG MÁY TỚI, MÁY KHÔNG NHẬN SẠC ĐÃ THỬ KHỞI ĐỘNG LẠI KHÔNG ĐƯỢC",SAC,4
+1170,tình trạng: không nhận sim máy còn bảo hành,KHAC,5
+1171,kh nói ứng dụng tự thoát liên tục xảy ra sau khi rơi,PHAN_MEM,3
+1172,pin chai chỉ dùng được hai tiếng,PIN,5
+1173,kh nói màn hình đứng không bấm được bị từ tuần trước,MAN_HINH,1
+1174,kh nói máy chạy chậm sau khi cập nhật đã thử khởi động lại không được,PHAN_MEM,1
+1175,mất tiếng khi gọi nhưng loa ngoài vẫn tốt máy còn bảo hành,KHAC,5
+1176,tình trạng: sạc vào rất chậm mất cả đêm xảy ra sau khi rơi,SAC,1
+1177,màn hình nhấp nháy liên tục,MAN_HINH,6
+1178,máy tự tắt khi còn ba mươi phần trăm,PIN,3
+1179,KHÁCH BÁO MÀN HÌNH ĐEN KHÔNG THẤY GÌ,MAN_HINH,6
+1180,tình trạng: cáp sạc chỉ vào khi cắm một chiều khách chưa từng sửa ở đâu,SAC,2
+1181,kh nói chân sạc gỉ xanh đã mang đi sửa một lần,SAC,1
+1182,máy không nhận thẻ nhớ bị từ tuần trước,KHAC,1
+1183,"khách mang máy tới, máy không nhận thẻ nhớ mới bị 2 ngày nay",PHAN_MEM,5
+1184,tình trạng: màn hình sọc dọc nhiều đường bị từ tuần trước,MAN_HINH,6
+1185,tinh trang: may treo khong tat duoc,MAN_HINH,4
+1186,kh nói máy ngâm nước biển khi đi tắm,NUOC_VAO,5
+1187,màn hình bị chảy mực loang máy còn bảo hành,MAN_HINH,6
+1188,KH NÓI CHÂN SẠC GỈ XANH,SAC,5
+1189,"khach mang may toi, cong sac bi long phai giu moi vao moi bi 2 ngay nay",SAC,3
+1190,nút nguồn bị kẹt,KHAC,5
+1191,máy rơi vào bồn rửa,NUOC_VAO,5
+1192,"khách mang máy tới, củ sạc nóng và có mùi khét",SAC,6
+1193,khách hàng phản ánh máy không nhận sạc,SAC,5
+1194,"khách mang máy tới, màn hình bị nứt góc dưới máy còn bảo hành",MAN_HINH,1
+1195,pin tụt từ tám mươi xuống hai mươi trong nửa giờ đã mang đi sửa một lần,PIN,2
+1196,màn hình bị nứt góc dưới,MAN_HINH,5
+1197,"khách mang máy tới, pin phồng làm hở viền máy",PIN,3
+1198,tình trạng: wifi tự ngắt liên tục máy còn bảo hành,KHAC,5
+1199,bàn phím ảo không hiện lên,PHAN_MEM,4
+1200,tình trạng: máy không nhận thẻ nhớ đã mang đi sửa một lần,KHAC,3
+1201,màn hình đứng không bấm được bị từ tuần trước,MAN_HINH,2
+1202,"khách mang máy tới, nút nguồn bị kẹt mới bị 2 ngày nay",KHAC,3
+1203,tình trạng: hình bị nhoè khi mở ứng dụng khách chưa từng sửa ở đâu,MAN_HINH,5
+1204,"khách mang máy tới, máy không nhận thẻ nhớ đã thử khởi động lại không được",KHAC,6
+1205,loa bị rè sau khi máy ẩm,KHAC,4
+1206,"khách mang máy tới, máy tự tắt khi còn ba mươi phần trăm khách chưa từng sửa ở đâu",PIN,4
+1207,điện thoại dính nước mưa cả buổi xảy ra sau khi rơi,NUOC_VAO,3
+1208,tình trạng: màn hình bị nứt góc dưới đã mang đi sửa một lần,MAN_HINH,5
+1209,khách hàng phản ánh pin sụt nhanh cả khi để không đã mang đi sửa một lần,PIN,6
+1210,khách báo máy chạy chậm sau khi cập nhật,PHAN_MEM,3
+1211,tinh trang: may nong bat thuong khi dung nhe may con bao hanh,PIN,3
+1212,khách hàng phản ánh chân sạc gỉ xanh khách chưa từng sửa ở đâu,SAC,2
+1213,kh nói loa bị rè sau khi máy ẩm máy còn bảo hành,NUOC_VAO,2
+1214,pin chai chỉ dùng được hai tiếng,PIN,1
+1215,kh nói máy có hơi nước trong camera mới bị 2 ngày nay,KHAC,4
+1216,khách báo cắm sạc không lên gì đã thử khởi động lại không được,SAC,5
+1217,khách hàng phản ánh củ sạc nóng và có mùi khét bị từ tuần trước,PIN,4
+1218,khách báo sạc vào rất chậm mất cả đêm đã thử khởi động lại không được,SAC,2
+1219,máy rơi vào bồn rửa,NUOC_VAO,3
+1220,"khach mang may toi, khong nhan sim moi bi 2 ngay nay",NUOC_VAO,2
+1221,"khách mang máy tới, ứng dụng tự thoát liên tục mới bị 2 ngày nay",PHAN_MEM,3
+1222,máy có hơi nước trong camera khách chưa từng sửa ở đâu,NUOC_VAO,3
+1223,sạc đầy nhưng rút ra là tắt,SAC,1
+1224,kh nói nút nguồn bị kẹt khách chưa từng sửa ở đâu,MAN_HINH,1
+1225,tinh trang: khong cai duoc ung dung bao loi xay ra sau khi roi,PHAN_MEM,6
+1226,man hinh bi nut goc duoi da mang di sua mot lan,MAN_HINH,1
+1227,tình trạng: ứng dụng tự thoát liên tục đã thử khởi động lại không được,PHAN_MEM,5
+1228,khách báo không kết nối được tai nghe không dây xảy ra sau khi rơi,KHAC,6
+1229,kh nói hình bị nhoè khi mở ứng dụng đã thử khởi động lại không được,PHAN_MEM,5
+1230,tinh trang: loa bi re sau khi may am may con bao hanh,KHAC,4
+1231,màn hình bị chảy mực loang,MAN_HINH,4
+1232,tình trạng: pin phồng làm hở viền máy đã thử khởi động lại không được,PIN,3
+1233,khách báo pin sụt nhanh cả khi để không bị từ tuần trước,PIN,3
+1234,máy treo không tắt được,MAN_HINH,2
+1235,"khach mang may toi, man hinh dung khong bam duoc da mang di sua mot lan",MAN_HINH,3
+1236,tình trạng: sạc không vào điện mới bị 2 ngày nay,PIN,2
+1237,loa bị rè sau khi máy ẩm,NUOC_VAO,1
+1238,"khách mang máy tới, máy tự tắt khi còn ba mươi phần trăm đã thử khởi động lại không được",PIN,6
+1239,cam sac khong len gi,PIN,1
+1240,pin tụt từ tám mươi xuống hai mươi trong nửa giờ,PIN,3
+1241,đổ nước ngọt vào bàn phím bị từ tuần trước,NUOC_VAO,1
+1242,máy treo không tắt được,PHAN_MEM,5
+1243,màn hình đứng không bấm được,PHAN_MEM,4
+1244,tình trạng: cáp sạc chỉ vào khi cắm một chiều mới bị 2 ngày nay,SAC,3
+1245,máy có hơi nước trong camera,KHAC,4
+1246,tình trạng: cắm sạc vào không thấy báo gì mới bị 2 ngày nay,SAC,4
+1247,"khách mang máy tới, chân sạc gỉ xanh khách chưa từng sửa ở đâu",SAC,1
+1248,kh nói hình bị nhoè khi mở ứng dụng đã mang đi sửa một lần,MAN_HINH,4
+1249,cắm sạc không lên gì,PIN,5
+1250,máy treo không tắt được,PHAN_MEM,1
+1251,khach hang phan anh mat tieng khi goi nhung loa ngoai van tot da mang di sua mot lan,KHAC,6
+1252,khách báo sạc vào rất chậm mất cả đêm,SAC,5
+1253,kh nói không nhận sim,KHAC,2
+1254,tình trạng: máy có hơi nước trong camera máy còn bảo hành,NUOC_VAO,1
+1255,khách báo hình bị nhoè khi mở ứng dụng khách chưa từng sửa ở đâu,MAN_HINH,4
+1256,máy rơi vào bồn rửa,NUOC_VAO,3
+1257,kh nói máy có hơi nước trong camera mới bị 2 ngày nay,KHAC,2
+1258,loa ngoài rè không nghe rõ,KHAC,6
+1259,kh nói máy tự tắt khi còn ba mươi phần trăm bị từ tuần trước,PIN,4
+1260,khách báo máy không nhận sạc đã thử khởi động lại không được,SAC,5
+1261,"khách mang máy tới, máy rơi vào bồn rửa",KHAC,5
+1262,hết pin rất nhanh và sạc lâu,SAC,2
+1263,"khách mang máy tới, loa bị rè sau khi máy ẩm xảy ra sau khi rơi",KHAC,3
+1264,khach bao dien thoai dinh nuoc mua ca buoi moi bi 2 ngay nay,NUOC_VAO,1
+1265,tình trạng: ứng dụng tự thoát liên tục mới bị 2 ngày nay,MAN_HINH,5
+1266,khách hàng phản ánh máy nóng bất thường khi dùng nhẹ bị từ tuần trước,PIN,2
+1267,khách báo chân sạc gỉ xanh,SAC,2
+1268,bàn phím ảo không hiện lên,PHAN_MEM,6
+1269,quên mật khẩu tài khoản,PHAN_MEM,4
+1270,máy nóng bất thường khi dùng nhẹ,PIN,2
+1271,"khách mang máy tới, pin sụt nhanh cả khi để không đã mang đi sửa một lần",PIN,3
+1272,khách báo cảm ứng không nhận ở nửa trên xảy ra sau khi rơi,MAN_HINH,4
+1273,tình trạng: máy nóng bất thường khi dùng nhẹ đã thử khởi động lại không được,PIN,3
+1274,nước vào loa nghe ọc ọc máy còn bảo hành,NUOC_VAO,3
+1275,loa bị rè sau khi máy ẩm,NUOC_VAO,5
+1276,cam ung khong nhan o nua tren,MAN_HINH,2
+1277,chân sạc gỉ xanh,SAC,6
+1278,kh noi man hinh bi nut goc duoi da thu khoi dong lai khong duoc,MAN_HINH,5
+1279,sạc đầy nhưng rút ra là tắt,PIN,2
+1280,kh nói pin chai chỉ dùng được hai tiếng khách chưa từng sửa ở đâu,PIN,3
+1281,khách hàng phản ánh máy có hơi nước trong camera,NUOC_VAO,6
+1282,cắm sạc vào không thấy báo gì bị từ tuần trước,SAC,2
+1283,wifi tự ngắt liên tục,KHAC,4
+1284,tình trạng: cắm sạc không lên gì mới bị 2 ngày nay,SAC,5
+1285,khách hàng phản ánh máy có hơi nước trong camera bị từ tuần trước,KHAC,5
+1286,KHÁCH HÀNG PHẢN ÁNH MÀN HÌNH SỌC DỌC NHIỀU ĐƯỜNG ĐÃ MANG ĐI SỬA MỘT LẦN,MAN_HINH,5
+1287,tình trạng: điện thoại dính nước mưa cả buổi bị từ tuần trước,NUOC_VAO,1
+1288,"khách mang máy tới, mất tiếng khi gọi nhưng loa ngoài vẫn tốt bị từ tuần trước",KHAC,5
+1289,khách hàng phản ánh sạc không vào điện máy còn bảo hành,PIN,3
+1290,khách báo pin sụt nhanh cả khi để không mới bị 2 ngày nay,PIN,1
+1291,MÁY TỰ TẮT KHI CÒN BA MƯƠI PHẦN TRĂM XẢY RA SAU KHI RƠI,PIN,5
+1292,pin chai chỉ dùng được hai tiếng,PIN,2
+1293,khách báo rơi vào bồn cầu đã lau khô xảy ra sau khi rơi,NUOC_VAO,6
+1294,loa bị rè sau khi máy ẩm,KHAC,2
+1295,khách hàng phản ánh màn hình đứng không bấm được máy còn bảo hành,PHAN_MEM,2
+1296,khách hàng phản ánh mất tiếng khi gọi nhưng loa ngoài vẫn tốt đã thử khởi động lại không được,KHAC,6
+1297,rơi vào bồn cầu đã lau khô khách chưa từng sửa ở đâu,NUOC_VAO,5
+1298,pin chai chỉ dùng được hai tiếng,PIN,6
+1299,"khách mang máy tới, pin tụt từ tám mươi xuống hai mươi trong nửa giờ bị từ tuần trước",PIN,6
+1300,"khách mang máy tới, chân cắm bị vênh bị từ tuần trước",SAC,6
+1301,tình trạng: máy chỉ lên khi cắm sạc khách chưa từng sửa ở đâu,PIN,6
+1302,"khách mang máy tới, loa ngoài rè không nghe rõ",KHAC,5
+1303,"khách mang máy tới, máy treo logo khi khởi động máy còn bảo hành",PHAN_MEM,1
+1304,máy có hơi nước trong camera máy còn bảo hành,NUOC_VAO,4
+1305,tình trạng: máy không lên nguồn xảy ra sau khi rơi,SAC,2
+1306,đổ nước ngọt vào bàn phím đã thử khởi động lại không được,NUOC_VAO,3
+1307,khách báo nước vào loa nghe ọc ọc xảy ra sau khi rơi,NUOC_VAO,1
+1308,"khach mang may toi, pin phong lam ho vien may may con bao hanh",PIN,6
+1309,màn hình đứng không bấm được,MAN_HINH,2
+1310,tình trạng: mất tiếng khi gọi nhưng loa ngoài vẫn tốt đã mang đi sửa một lần,KHAC,6
+1311,"khách mang máy tới, điểm chết giữa màn hình khách chưa từng sửa ở đâu",MAN_HINH,3
+1312,củ sạc nóng và có mùi khét khách chưa từng sửa ở đâu,SAC,4
+1313,khách báo ứng dụng tự thoát liên tục xảy ra sau khi rơi,PHAN_MEM,1
+1314,"khach mang may toi, loa ngoai re khong nghe ro bi tu tuan truoc",KHAC,3
+1315,camera mở lên bị đen,PHAN_MEM,6
+1316,tình trạng: cắm sạc vào không thấy báo gì đã thử khởi động lại không được,SAC,2
+1317,khách hàng phản ánh máy tự tắt khi còn ba mươi phần trăm bị từ tuần trước,PIN,2
+1318,khách báo nước vào loa nghe ọc ọc máy còn bảo hành,NUOC_VAO,5
+1319,quen mat khau tai khoan bi tu tuan truoc,PHAN_MEM,6
+1320,khách hàng phản ánh cảm ứng không nhận ở nửa trên xảy ra sau khi rơi,MAN_HINH,5
+1321,khách hàng phản ánh màn hình nhấp nháy liên tục,MAN_HINH,5
+1322,khách báo màn hình đứng không bấm được đã mang đi sửa một lần,PHAN_MEM,3
+1323,khách báo màn hình đứng không bấm được,MAN_HINH,2
+1324,sạc đầy nhưng rút ra là tắt,SAC,3
+1325,loa bị rè sau khi máy ẩm đã thử khởi động lại không được,NUOC_VAO,2
+1326,cáp sạc chỉ vào khi cắm một chiều khách chưa từng sửa ở đâu,SAC,3
+1327,tình trạng: máy rơi vào bồn rửa,NUOC_VAO,3
+1328,máy treo không tắt được máy còn bảo hành,MAN_HINH,6
+1329,khách báo pin phồng làm hở viền máy,PIN,3
+1330,tinh trang: man hinh soc doc nhieu duong bi tu tuan truoc,MAN_HINH,6
+1331,khach bao pin phong lam ho vien may,PIN,5
+1332,khách hàng phản ánh wifi tự ngắt liên tục khách chưa từng sửa ở đâu,KHAC,5
+1333,kh noi pin tut tu tam muoi xuong hai muoi trong nua gio,PIN,1
+1334,khách hàng phản ánh kính màn hình vỡ nhưng vẫn hiển thị máy còn bảo hành,MAN_HINH,5
+1335,kh nói mất tiếng khi gọi nhưng loa ngoài vẫn tốt xảy ra sau khi rơi,KHAC,3
+1336,khách báo rơi vào bồn cầu đã lau khô máy còn bảo hành,NUOC_VAO,3
+1337,khach hang phan anh may treo khong tat duoc,MAN_HINH,2
+1338,kh nói máy rơi vào bồn rửa xảy ra sau khi rơi,NUOC_VAO,2
+1339,khach bao sac khong vao dien bi tu tuan truoc,SAC,6
+1340,"khach mang may toi, pin tut tu tam muoi xuong hai muoi trong nua gio",PIN,2
+1341,cảm ứng không nhận ở nửa trên,MAN_HINH,5
+1342,khách hàng phản ánh pin sụt nhanh cả khi để không mới bị 2 ngày nay,PIN,3
+1343,khach bao kinh man hinh vo nhung van hien thi,MAN_HINH,2
+1344,tình trạng: đổ nước ngọt vào bàn phím mới bị 2 ngày nay,NUOC_VAO,6
+1345,khách báo cổng sạc bị lỏng phải giữ mới vào,SAC,1
+1346,sạc vào rất chậm mất cả đêm,SAC,5
+1347,"khách mang máy tới, cổng sạc bị lỏng phải giữ mới vào bị từ tuần trước",SAC,3
+1348,"khách mang máy tới, rung không hoạt động mới bị 2 ngày nay",KHAC,1
+1349,MÀN HÌNH SỌC DỌC NHIỀU ĐƯỜNG BỊ TỪ TUẦN TRƯỚC,MAN_HINH,1
+1350,khách báo nước vào loa nghe ọc ọc đã thử khởi động lại không được,NUOC_VAO,4
+1351,camera mở lên bị đen máy còn bảo hành,PHAN_MEM,2
+1352,khách báo cắm sạc không lên gì mới bị 2 ngày nay,PIN,3
+1353,kh nói máy treo không tắt được mới bị 2 ngày nay,MAN_HINH,6
+1354,màn hình bị chảy mực loang đã thử khởi động lại không được,MAN_HINH,2
+1355,tình trạng: cổng sạc bị lỏng phải giữ mới vào,SAC,3
+1356,khách báo wifi tự ngắt liên tục đã mang đi sửa một lần,KHAC,4
+1357,khách hàng phản ánh máy ngâm nước biển khi đi tắm bị từ tuần trước,NUOC_VAO,3
+1358,màn hình bị chảy mực loang,MAN_HINH,6
+1359,kh nói không đăng nhập được vào máy,KHAC,4
+1360,khách hàng phản ánh không kết nối được tai nghe không dây đã mang đi sửa một lần,KHAC,5
+1361,"khach mang may toi, may treo khong tat duoc da mang di sua mot lan",MAN_HINH,6
+1362,pin chai chỉ dùng được hai tiếng,PIN,2
+1363,nước vào loa nghe ọc ọc,NUOC_VAO,2
+1364,khách báo rơi vào bồn cầu đã lau khô khách chưa từng sửa ở đâu,NUOC_VAO,2
+1365,tinh trang: may khong nhan sac may con bao hanh,SAC,3
+1366,màn hình sọc dọc nhiều đường đã mang đi sửa một lần,MAN_HINH,6
+1367,sạc vào rất chậm mất cả đêm khách chưa từng sửa ở đâu,SAC,4
+1368,tình trạng: pin chai chỉ dùng được hai tiếng xảy ra sau khi rơi,PIN,5
+1369,khách hàng phản ánh pin chai chỉ dùng được hai tiếng khách chưa từng sửa ở đâu,PIN,6
+1370,không cài được ứng dụng báo lỗi,PHAN_MEM,6
+1371,tình trạng: cảm ứng không nhận ở nửa trên đã thử khởi động lại không được,MAN_HINH,6
+1372,khách báo không kết nối được tai nghe không dây mới bị 2 ngày nay,KHAC,6
+1373,TÌNH TRẠNG: NÚT NGUỒN BỊ KẸT BỊ TỪ TUẦN TRƯỚC,KHAC,4
+1374,khách báo nút nguồn bị kẹt máy còn bảo hành,KHAC,6
+1375,tình trạng: chân cắm bị vênh đã thử khởi động lại không được,SAC,2
+1376,kh noi may tu tat khi con ba muoi phan tram may con bao hanh,PIN,5
+1377,kh nói nút nguồn bị kẹt máy còn bảo hành,KHAC,1
+1378,tình trạng: sạc không vào điện khách chưa từng sửa ở đâu,PIN,5
+1379,kh nói loa bị rè sau khi máy ẩm đã mang đi sửa một lần,KHAC,6
+1380,không cài được ứng dụng báo lỗi bị từ tuần trước,PHAN_MEM,2
+1381,khách hàng phản ánh máy treo không tắt được máy còn bảo hành,MAN_HINH,1
+1382,khách hàng phản ánh cổng sạc bị lỏng phải giữ mới vào đã mang đi sửa một lần,SAC,3
+1383,khách hàng phản ánh không đăng nhập được vào máy đã thử khởi động lại không được,PHAN_MEM,6
+1384,khách báo loa ngoài rè không nghe rõ xảy ra sau khi rơi,PHAN_MEM,5
+1385,"khách mang máy tới, cắm sạc vào không thấy báo gì khách chưa từng sửa ở đâu",PIN,1
+1386,CAMERA MỞ LÊN BỊ ĐEN MÁY CÒN BẢO HÀNH,PHAN_MEM,4
+1387,máy rơi vào bồn rửa,NUOC_VAO,5
+1388,kính màn hình vỡ nhưng vẫn hiển thị,MAN_HINH,5
+1389,kh nói kính màn hình vỡ nhưng vẫn hiển thị mới bị 2 ngày nay,MAN_HINH,4
+1390,KHÁCH HÀNG PHẢN ÁNH PIN SỤT NHANH CẢ KHI ĐỂ KHÔNG MỚI BỊ 2 NGÀY NAY,PIN,4
+1391,kh nói nước vào loa nghe ọc ọc đã mang đi sửa một lần,NUOC_VAO,3
+1392,kh nói loa ngoài rè không nghe rõ đã thử khởi động lại không được,PHAN_MEM,4
+1393,không đăng nhập được vào máy,PHAN_MEM,1
+1394,tình trạng: rơi vào bồn cầu đã lau khô bị từ tuần trước,NUOC_VAO,6
+1395,"khách mang máy tới, ứng dụng tự thoát liên tục",PHAN_MEM,2
+1396,"khách mang máy tới, máy có hơi nước trong camera máy còn bảo hành",NUOC_VAO,6
+1397,tình trạng: quên mật khẩu tài khoản đã mang đi sửa một lần,PHAN_MEM,6
+1398,"khách mang máy tới, máy không nhận thẻ nhớ khách chưa từng sửa ở đâu",KHAC,2
+1399,"khách mang máy tới, không kết nối được tai nghe không dây máy còn bảo hành",KHAC,3
+1400,MÁY KHÔNG LÊN NGUỒN MỚI BỊ 2 NGÀY NAY,PIN,4
+1401,máy không nhận sạc,PIN,3
+1402,khach hang phan anh roi vao bon cau da lau kho xay ra sau khi roi,NUOC_VAO,1
+1403,wifi tự ngắt liên tục khách chưa từng sửa ở đâu,KHAC,4
+1404,kh nói máy không nhận thẻ nhớ đã thử khởi động lại không được,PHAN_MEM,5
+1405,khách báo máy treo không tắt được xảy ra sau khi rơi,MAN_HINH,5
+1406,khách báo máy có hơi nước trong camera,NUOC_VAO,2
+1407,rơi vào bồn cầu đã lau khô,NUOC_VAO,3
+1408,"khách mang máy tới, chân sạc gỉ xanh",SAC,5
+1409,loa ngoài rè không nghe rõ,KHAC,5
+1410,tình trạng: máy có hơi nước trong camera đã mang đi sửa một lần,NUOC_VAO,4
+1411,chân sạc gỉ xanh,SAC,1
+1412,không cài được ứng dụng báo lỗi,PHAN_MEM,1
+1413,cap sac chi vao khi cam mot chieu moi bi 2 ngay nay,SAC,4
+1414,màn hình bị nứt góc dưới đã mang đi sửa một lần,MAN_HINH,6
+1415,bàn phím ảo không hiện lên mới bị 2 ngày nay,PHAN_MEM,2
+1416,khach hang phan anh may treo khong tat duoc moi bi 2 ngay nay,MAN_HINH,5
+1417,camera mở lên bị đen bị từ tuần trước,PHAN_MEM,4
+1418,khách báo máy không nhận thẻ nhớ,PHAN_MEM,6
+1419,hình bị nhoè khi mở ứng dụng đã thử khởi động lại không được,MAN_HINH,6
+1420,khách báo màn hình nhấp nháy liên tục bị từ tuần trước,MAN_HINH,6
+1421,không cài được ứng dụng báo lỗi,PHAN_MEM,3
+1422,kh nói rơi vào bồn cầu đã lau khô đã thử khởi động lại không được,NUOC_VAO,1
+1423,kh noi may treo khong tat duoc bi tu tuan truoc,PHAN_MEM,2
+1424,khách báo máy treo không tắt được đã mang đi sửa một lần,MAN_HINH,6
+1425,khách hàng phản ánh không đăng nhập được vào máy đã thử khởi động lại không được,KHAC,5
+1426,sạc đầy nhưng rút ra là tắt,PIN,2
+1427,khách báo quên mật khẩu tài khoản xảy ra sau khi rơi,KHAC,4
+1428,pin phồng làm hở viền máy bị từ tuần trước,PIN,1
+1429,kh nói loa bị rè sau khi máy ẩm máy còn bảo hành,KHAC,6
+1430,kh nói cáp sạc chỉ vào khi cắm một chiều xảy ra sau khi rơi,SAC,2
+1431,khách báo màn hình sọc dọc nhiều đường máy còn bảo hành,MAN_HINH,1
+1432,cắm sạc không lên gì,SAC,3
+1433,KHÁCH BÁO CẢM ỨNG KHÔNG NHẬN Ở NỬA TRÊN XẢY RA SAU KHI RƠI,MAN_HINH,4
+1434,quên mật khẩu tài khoản máy còn bảo hành,PHAN_MEM,4
+1435,bàn phím ảo không hiện lên khách chưa từng sửa ở đâu,PHAN_MEM,2
+1436,cổng sạc bị lỏng phải giữ mới vào,SAC,4
+1437,RƠI VÀO BỒN CẦU ĐÃ LAU KHÔ ĐÃ THỬ KHỞI ĐỘNG LẠI KHÔNG ĐƯỢC,NUOC_VAO,4
+1438,kh nói màn hình bị nứt góc dưới đã thử khởi động lại không được,MAN_HINH,2
+1439,máy rơi vào bồn rửa,NUOC_VAO,1
+1440,"khach mang may toi, pin sut nhanh ca khi de khong bi tu tuan truoc",PIN,3
+1441,củ sạc nóng và có mùi khét,SAC,1
+1442,cảm ứng không nhận ở nửa trên bị từ tuần trước,MAN_HINH,6
+1443,"khach mang may toi, loa ngoai re khong nghe ro bi tu tuan truoc",KHAC,5
+1444,hinh bi nhoe khi mo ung dung,MAN_HINH,3
+1445,khách báo máy có hơi nước trong camera khách chưa từng sửa ở đâu,NUOC_VAO,2
+1446,kh nói khay sim bị móp mới bị 2 ngày nay,KHAC,4
+1447,pin phồng làm hở viền máy,PIN,2
+1448,kh nói pin tụt từ tám mươi xuống hai mươi trong nửa giờ đã mang đi sửa một lần,PIN,3
+1449,kh nói máy tự tắt khi còn ba mươi phần trăm máy còn bảo hành,PIN,2
+1450,kh nói loa bị rè sau khi máy ẩm,KHAC,1
+1451,may co hoi nuoc trong camera khach chua tung sua o dau,NUOC_VAO,1
+1452,kh nói cảm ứng không nhận ở nửa trên khách chưa từng sửa ở đâu,PHAN_MEM,3
+1453,màn hình bị chảy mực loang,MAN_HINH,1
+1454,khách hàng phản ánh pin chai chỉ dùng được hai tiếng xảy ra sau khi rơi,PIN,6
+1455,"khach mang may toi, man hinh den khong thay gi moi bi 2 ngay nay",PHAN_MEM,3
+1456,cắm sạc không lên gì,SAC,5
+1457,khách hàng phản ánh máy treo không tắt được xảy ra sau khi rơi,PHAN_MEM,6
+1458,pin chai chỉ dùng được hai tiếng xảy ra sau khi rơi,PIN,3
+1459,khách báo camera mở lên bị đen máy còn bảo hành,PHAN_MEM,4
+1460,tình trạng: hình bị nhoè khi mở ứng dụng mới bị 2 ngày nay,PHAN_MEM,2
+1461,khách hàng phản ánh quên mật khẩu tài khoản mới bị 2 ngày nay,PHAN_MEM,4
+1462,màn hình nhấp nháy liên tục,MAN_HINH,2
+1463,"khách mang máy tới, sạc vào rất chậm mất cả đêm máy còn bảo hành",SAC,1
+1464,kh nói máy tự tắt khi còn ba mươi phần trăm đã mang đi sửa một lần,PIN,5
+1465,kh nói loa bị rè sau khi máy ẩm bị từ tuần trước,KHAC,1
+1466,màn hình nhấp nháy liên tục xảy ra sau khi rơi,MAN_HINH,2
+1467,bàn phím ảo không hiện lên đã thử khởi động lại không được,PHAN_MEM,2
+1468,tinh trang: may treo khong tat duoc bi tu tuan truoc,MAN_HINH,4
+1469,pin sụt nhanh cả khi để không,PIN,2
+1470,khach hang phan anh man hinh den khong thay gi xay ra sau khi roi,MAN_HINH,4
+1471,wifi tự ngắt liên tục đã thử khởi động lại không được,KHAC,4
+1472,chân sạc gỉ xanh,SAC,2
+1473,tình trạng: máy chỉ lên khi cắm sạc khách chưa từng sửa ở đâu,PHAN_MEM,6
+1474,không đăng nhập được vào máy đã mang đi sửa một lần,KHAC,5
+1475,tình trạng: pin phồng làm hở viền máy,PIN,5
+1476,tình trạng: máy treo không tắt được khách chưa từng sửa ở đâu,MAN_HINH,4
+1477,tình trạng: không đăng nhập được vào máy mới bị 2 ngày nay,MAN_HINH,1
+1478,pin tụt từ tám mươi xuống hai mươi trong nửa giờ,PIN,5
+1479,máy treo không tắt được,PHAN_MEM,6
+1480,kh nói máy treo không tắt được khách chưa từng sửa ở đâu,PHAN_MEM,3
+1481,không nhận sim đã mang đi sửa một lần,KHAC,5
+1482,chân sạc gỉ xanh bị từ tuần trước,SAC,1
+1483,máy treo không tắt được,MAN_HINH,2
+1484,khách báo máy không nhận thẻ nhớ đã mang đi sửa một lần,PHAN_MEM,5
+1485,cổng sạc bị lỏng phải giữ mới vào,SAC,6
+1486,"khach mang may toi, man hinh bi chay muc loang da mang di sua mot lan",MAN_HINH,5
+1487,màn hình bị nứt góc dưới,MAN_HINH,3
+1488,khach hang phan anh loa ngoai re khong nghe ro,KHAC,4
+1489,khách hàng phản ánh chân sạc gỉ xanh khách chưa từng sửa ở đâu,PIN,1
+1490,"khách mang máy tới, bàn phím ảo không hiện lên",PHAN_MEM,5
+1491,"khách mang máy tới, quên mật khẩu tài khoản máy còn bảo hành",PHAN_MEM,3
+1492,tình trạng: hình bị nhoè khi mở ứng dụng máy còn bảo hành,PHAN_MEM,6
+1493,cáp sạc chỉ vào khi cắm một chiều bị từ tuần trước,SAC,5
+1494,khach bao loa bi re sau khi may am khach chua tung sua o dau,KHAC,4
+1495,màn hình đứng không bấm được,MAN_HINH,4
+1496,kh nói kính màn hình vỡ nhưng vẫn hiển thị bị từ tuần trước,MAN_HINH,6
+1497,kh nói ứng dụng tự thoát liên tục máy còn bảo hành,PHAN_MEM,5
+1498,kh nói màn hình bị chảy mực loang bị từ tuần trước,MAN_HINH,3
+1499,tinh trang: quen mat khau tai khoan may con bao hanh,PHAN_MEM,5
+1500,"khách mang máy tới, điểm chết giữa màn hình đã mang đi sửa một lần",MAN_HINH,6
+1501,khách báo máy không nhận sạc mới bị 2 ngày nay,SAC,1
+1502,"khach mang may toi, may khong len nguon moi bi 2 ngay nay",SAC,6
+1503,"khách mang máy tới, quên mật khẩu tài khoản bị từ tuần trước",PHAN_MEM,4
+1504,tình trạng: cắm sạc vào không thấy báo gì đã mang đi sửa một lần,PIN,3
+1505,kh nói máy có hơi nước trong camera mới bị 2 ngày nay,NUOC_VAO,5
+1506,PIN TỤT TỪ TÁM MƯƠI XUỐNG HAI MƯƠI TRONG NỬA GIỜ,PIN,3
+1507,tình trạng: điểm chết giữa màn hình,PHAN_MEM,1
+1508,kh nói cáp sạc chỉ vào khi cắm một chiều đã mang đi sửa một lần,SAC,5
+1509,khách hàng phản ánh camera mở lên bị đen đã thử khởi động lại không được,PHAN_MEM,5
+1510,quên mật khẩu tài khoản,PHAN_MEM,6
+1511,kh nói không nhận sim đã mang đi sửa một lần,KHAC,6
+1512,cổng sạc bị lỏng phải giữ mới vào,SAC,1
+1513,khách hàng phản ánh chân cắm bị vênh máy còn bảo hành,SAC,3
+1514,SẠC KHÔNG VÀO ĐIỆN,PIN,1
+1515,không kết nối được tai nghe không dây,KHAC,4
+1516,kh nói đổ nước ngọt vào bàn phím mới bị 2 ngày nay,NUOC_VAO,4
+1517,cáp sạc chỉ vào khi cắm một chiều khách chưa từng sửa ở đâu,SAC,2
+1518,khách hàng phản ánh camera mở lên bị đen bị từ tuần trước,PHAN_MEM,2
+1519,"khách mang máy tới, màn hình đen không thấy gì bị từ tuần trước",MAN_HINH,6
+1520,TÌNH TRẠNG: PIN SỤT NHANH CẢ KHI ĐỂ KHÔNG KHÁCH CHƯA TỪNG SỬA Ở ĐÂU,PIN,3
+1521,cam sac khong len gi,PIN,1
+1522,pin tụt từ tám mươi xuống hai mươi trong nửa giờ,SAC,4
+1523,khách báo máy treo logo khi khởi động khách chưa từng sửa ở đâu,PHAN_MEM,2
+1524,máy có hơi nước trong camera,NUOC_VAO,3
+1525,"khách mang máy tới, máy rơi vào bồn rửa khách chưa từng sửa ở đâu",NUOC_VAO,5
+1526,khách báo cổng sạc bị lỏng phải giữ mới vào bị từ tuần trước,PIN,5
+1527,man hinh den khong thay gi,MAN_HINH,3
+1528,"khách mang máy tới, chân cắm bị vênh đã thử khởi động lại không được",SAC,2
+1529,khách hàng phản ánh không đăng nhập được vào máy,PHAN_MEM,2
+1530,máy treo không tắt được mới bị 2 ngày nay,MAN_HINH,4
+1531,HÌNH BỊ NHOÈ KHI MỞ ỨNG DỤNG,MAN_HINH,3
+1532,kh nói wifi tự ngắt liên tục,KHAC,4
+1533,màn hình bị nứt góc dưới,MAN_HINH,5
+1534,hình bị nhoè khi mở ứng dụng,PHAN_MEM,3
+1535,bàn phím ảo không hiện lên,PHAN_MEM,2
+1536,khach bao man hinh bi chay muc loang da mang di sua mot lan,MAN_HINH,5
+1537,khách hàng phản ánh bàn phím ảo không hiện lên xảy ra sau khi rơi,PHAN_MEM,3
+1538,rơi vào bồn cầu đã lau khô,NUOC_VAO,6
+1539,máy có hơi nước trong camera,NUOC_VAO,6
+1540,khach hang phan anh kinh man hinh vo nhung van hien thi khach chua tung sua o dau,MAN_HINH,4
+1541,khách hàng phản ánh màn hình đứng không bấm được đã mang đi sửa một lần,MAN_HINH,4
+1542,"khách mang máy tới, màn hình sọc dọc nhiều đường xảy ra sau khi rơi",MAN_HINH,2
+1543,máy tự tắt khi còn ba mươi phần trăm đã mang đi sửa một lần,PIN,1
+1544,khach bao diem chet giua man hinh,MAN_HINH,4
+1545,khách hàng phản ánh sạc vào rất chậm mất cả đêm đã thử khởi động lại không được,SAC,3
+1546,khách hàng phản ánh máy chạy chậm sau khi cập nhật bị từ tuần trước,PHAN_MEM,3
+1547,màn hình bị chảy mực loang đã mang đi sửa một lần,MAN_HINH,3
+1548,không đăng nhập được vào máy,KHAC,3
+1549,"khách mang máy tới, máy treo logo khi khởi động khách chưa từng sửa ở đâu",PHAN_MEM,1
+1550,khách báo quên mật khẩu tài khoản xảy ra sau khi rơi,PHAN_MEM,6
+1551,kh nói pin phồng làm hở viền máy bị từ tuần trước,PIN,3
+1552,màn hình sọc dọc nhiều đường,MAN_HINH,6
+1553,khach hang phan anh quen mat khau tai khoan da thu khoi dong lai khong duoc,PHAN_MEM,2
+1554,pin tụt từ tám mươi xuống hai mươi trong nửa giờ,PIN,6
+1555,tình trạng: màn hình đứng không bấm được bị từ tuần trước,MAN_HINH,3
+1556,"khach mang may toi, kinh man hinh vo nhung van hien thi xay ra sau khi roi",MAN_HINH,2
+1557,pin chai chỉ dùng được hai tiếng,PIN,2
+1558,khách hàng phản ánh wifi tự ngắt liên tục mới bị 2 ngày nay,KHAC,6
+1559,"khách mang máy tới, máy chạy chậm sau khi cập nhật bị từ tuần trước",PHAN_MEM,5
+1560,"KHÁCH MANG MÁY TỚI, MÁY CÓ HƠI NƯỚC TRONG CAMERA KHÁCH CHƯA TỪNG SỬA Ở ĐÂU",KHAC,5
+1561,rơi vào bồn cầu đã lau khô mới bị 2 ngày nay,NUOC_VAO,6
+1562,wifi tự ngắt liên tục,KHAC,5
+1563,may treo khong tat duoc,MAN_HINH,4
+1564,cổng sạc bị lỏng phải giữ mới vào xảy ra sau khi rơi,SAC,4
+1565,kh noi may co hoi nuoc trong camera da mang di sua mot lan,NUOC_VAO,4
+1566,khách hàng phản ánh máy nóng bất thường khi dùng nhẹ,PIN,3
+1567,kh nói máy treo không tắt được máy còn bảo hành,MAN_HINH,4
+1568,khách báo camera mở lên bị đen khách chưa từng sửa ở đâu,PHAN_MEM,3
+1569,may treo khong tat duoc xay ra sau khi roi,MAN_HINH,6
+1570,SẠC ĐẦY NHƯNG RÚT RA LÀ TẮT,SAC,3
+1571,cổng sạc bị lỏng phải giữ mới vào,SAC,2
+1572,rung khong hoat dong,KHAC,2
+1573,màn hình bị chảy mực loang bị từ tuần trước,MAN_HINH,5
+1574,sạc vào rất chậm mất cả đêm,SAC,4
+1575,khách hàng phản ánh hình bị nhoè khi mở ứng dụng máy còn bảo hành,MAN_HINH,1
+1576,khách báo máy chạy chậm sau khi cập nhật khách chưa từng sửa ở đâu,PHAN_MEM,4
+1577,chân cắm bị vênh đã mang đi sửa một lần,SAC,1
+1578,tình trạng: pin sụt nhanh cả khi để không xảy ra sau khi rơi,PIN,2
+1579,tình trạng: cảm ứng không nhận ở nửa trên đã mang đi sửa một lần,MAN_HINH,3
+1580,khách hàng phản ánh màn hình đứng không bấm được bị từ tuần trước,MAN_HINH,2
+1581,"khách mang máy tới, cắm sạc không lên gì máy còn bảo hành",KHAC,5
+1582,kh nói pin chai chỉ dùng được hai tiếng máy còn bảo hành,PIN,5
+1583,kh nói máy treo logo khi khởi động khách chưa từng sửa ở đâu,PHAN_MEM,3
+1584,"KHÁCH MANG MÁY TỚI, MÀN HÌNH NHẤP NHÁY LIÊN TỤC MÁY CÒN BẢO HÀNH",MAN_HINH,3
+1585,máy rơi vào bồn rửa,NUOC_VAO,6
+1586,camera mo len bi den bi tu tuan truoc,PHAN_MEM,4
+1587,loa bi re sau khi may am,KHAC,2
+1588,pin tụt từ tám mươi xuống hai mươi trong nửa giờ,PIN,3
+1589,điện thoại dính nước mưa cả buổi máy còn bảo hành,KHAC,6
+1590,khách hàng phản ánh sạc vào rất chậm mất cả đêm,SAC,1
+1591,kh noi dien thoai dinh nuoc mua ca buoi da thu khoi dong lai khong duoc,NUOC_VAO,4
+1592,khách hàng phản ánh máy treo không tắt được xảy ra sau khi rơi,MAN_HINH,5
+1593,tình trạng: củ sạc nóng và có mùi khét bị từ tuần trước,SAC,6
+1594,khách báo không kết nối được tai nghe không dây khách chưa từng sửa ở đâu,KHAC,5
+1595,khách hàng phản ánh rung không hoạt động máy còn bảo hành,KHAC,4
+1596,"khach mang may toi, ban phim ao khong hien len khach chua tung sua o dau",PHAN_MEM,5
+1597,máy chỉ lên khi cắm sạc đã mang đi sửa một lần,PIN,5
+1598,kh nói chân cắm bị vênh mới bị 2 ngày nay,SAC,3
+1599,khách báo ứng dụng tự thoát liên tục khách chưa từng sửa ở đâu,PHAN_MEM,3
+1600,"khách mang máy tới, không đăng nhập được vào máy xảy ra sau khi rơi",PHAN_MEM,3
+1601,sạc vào rất chậm mất cả đêm xảy ra sau khi rơi,SAC,1
+1602,"khách mang máy tới, pin chai chỉ dùng được hai tiếng đã mang đi sửa một lần",PIN,5
+1603,khách báo loa ngoài rè không nghe rõ,KHAC,1
+1604,"khách mang máy tới, quên mật khẩu tài khoản xảy ra sau khi rơi",PHAN_MEM,3
+1605,tinh trang: cu sac nong va co mui khet moi bi 2 ngay nay,SAC,6
+1606,ứng dụng tự thoát liên tục,PHAN_MEM,3
+1607,tình trạng: wifi tự ngắt liên tục khách chưa từng sửa ở đâu,KHAC,5
+1608,pin phong lam ho vien may,PIN,6
+1609,may nong bat thuong khi dung nhe,PIN,3
+1610,sạc đầy nhưng rút ra là tắt,SAC,1
+1611,khách hàng phản ánh nước vào loa nghe ọc ọc mới bị 2 ngày nay,NUOC_VAO,4
+1612,cong sac bi long phai giu moi vao,SAC,4
+1613,"khách mang máy tới, máy không nhận thẻ nhớ đã thử khởi động lại không được",KHAC,3
+1614,KHÁCH HÀNG PHẢN ÁNH ĐỔ NƯỚC NGỌT VÀO BÀN PHÍM ĐÃ THỬ KHỞI ĐỘNG LẠI KHÔNG ĐƯỢC,NUOC_VAO,3
+1615,khach bao hinh bi nhoe khi mo ung dung moi bi 2 ngay nay,MAN_HINH,6
+1616,không kết nối được tai nghe không dây,KHAC,6
+1617,khách hàng phản ánh điện thoại dính nước mưa cả buổi khách chưa từng sửa ở đâu,NUOC_VAO,5
+1618,KH NÓI MÁY CHẠY CHẬM SAU KHI CẬP NHẬT MÁY CÒN BẢO HÀNH,PHAN_MEM,4
+1619,cổng sạc bị lỏng phải giữ mới vào,SAC,2
+1620,khach bao khong cai duoc ung dung bao loi khach chua tung sua o dau,PHAN_MEM,6
+1621,cổng sạc bị lỏng phải giữ mới vào bị từ tuần trước,SAC,6
+1622,cắm sạc không lên gì,PIN,1
+1623,kh nói sạc vào rất chậm mất cả đêm bị từ tuần trước,SAC,3
+1624,RƠI VÀO BỒN CẦU ĐÃ LAU KHÔ KHÁCH CHƯA TỪNG SỬA Ở ĐÂU,NUOC_VAO,6
+1625,tình trạng: máy nóng bất thường khi dùng nhẹ mới bị 2 ngày nay,PIN,3
+1626,pin sut nhanh ca khi de khong bi tu tuan truoc,PIN,6
+1627,kh nói không đăng nhập được vào máy,KHAC,5
+1628,kh nói cáp sạc chỉ vào khi cắm một chiều xảy ra sau khi rơi,SAC,2
+1629,máy có hơi nước trong camera,NUOC_VAO,1
+1630,"khách mang máy tới, máy treo logo khi khởi động khách chưa từng sửa ở đâu",PHAN_MEM,1
+1631,màn hình bị nứt góc dưới,MAN_HINH,1
+1632,hình bị nhoè khi mở ứng dụng đã thử khởi động lại không được,MAN_HINH,4
+1633,khách hàng phản ánh máy ngâm nước biển khi đi tắm máy còn bảo hành,NUOC_VAO,5
+1634,kh nói điện thoại dính nước mưa cả buổi mới bị 2 ngày nay,NUOC_VAO,4
+1635,pin tut tu tam muoi xuong hai muoi trong nua gio,PIN,4
+1636,pin sut nhanh ca khi de khong,PIN,2
+1637,máy không nhận sạc,PIN,6
+1638,khách báo camera mở lên bị đen đã thử khởi động lại không được,KHAC,2
+1639,khách báo máy có hơi nước trong camera,KHAC,1
+1640,kh nói pin chai chỉ dùng được hai tiếng xảy ra sau khi rơi,PIN,5
+1641,tình trạng: cổng sạc bị lỏng phải giữ mới vào đã mang đi sửa một lần,SAC,3
+1642,"khach mang may toi, pin sut nhanh ca khi de khong bi tu tuan truoc",SAC,5
+1643,tình trạng: loa bị rè sau khi máy ẩm mới bị 2 ngày nay,NUOC_VAO,5
+1644,"khách mang máy tới, rơi vào bồn cầu đã lau khô bị từ tuần trước",NUOC_VAO,2
+1645,máy chỉ lên khi cắm sạc xảy ra sau khi rơi,PIN,6
+1646,khách báo pin phồng làm hở viền máy xảy ra sau khi rơi,PIN,1
+1647,"khách mang máy tới, máy nóng bất thường khi dùng nhẹ đã thử khởi động lại không được",PIN,2
+1648,KHÔNG KẾT NỐI ĐƯỢC TAI NGHE KHÔNG DÂY,KHAC,2
+1649,khách hàng phản ánh không đăng nhập được vào máy máy còn bảo hành,KHAC,5
+1650,khách báo chân sạc gỉ xanh,SAC,3
+1651,kh nói không nhận sim xảy ra sau khi rơi,KHAC,6
+1652,khach hang phan anh khong dang nhap duoc vao may da thu khoi dong lai khong duoc,PHAN_MEM,4
+1653,MÁY TỰ TẮT KHI CÒN BA MƯƠI PHẦN TRĂM,PIN,5
+1654,khach bao may ngam nuoc bien khi di tam da mang di sua mot lan,NUOC_VAO,4
+1655,củ sạc nóng và có mùi khét,SAC,2
+1656,máy treo logo khi khởi động,PHAN_MEM,5
+1657,máy nóng bất thường khi dùng nhẹ,PIN,5
+1658,kh noi camera mo len bi den khach chua tung sua o dau,PHAN_MEM,2
+1659,không cài được ứng dụng báo lỗi,PHAN_MEM,5
+1660,tình trạng: điện thoại dính nước mưa cả buổi khách chưa từng sửa ở đâu,NUOC_VAO,5
+1661,kh nói loa bị rè sau khi máy ẩm đã thử khởi động lại không được,KHAC,5
+1662,kh nói camera mở lên bị đen bị từ tuần trước,PHAN_MEM,1
+1663,"KHÁCH MANG MÁY TỚI, MÁY TREO KHÔNG TẮT ĐƯỢC MÁY CÒN BẢO HÀNH",MAN_HINH,1
+1664,kh nói sạc vào rất chậm mất cả đêm đã mang đi sửa một lần,SAC,4
+1665,hình bị nhoè khi mở ứng dụng mới bị 2 ngày nay,PHAN_MEM,2
+1666,kh nói đổ nước ngọt vào bàn phím mới bị 2 ngày nay,NUOC_VAO,5
+1667,khách hàng phản ánh màn hình bị nứt góc dưới khách chưa từng sửa ở đâu,PHAN_MEM,5
+1668,khách báo máy có hơi nước trong camera đã thử khởi động lại không được,KHAC,4
+1669,kh nói loa bị rè sau khi máy ẩm,NUOC_VAO,4
+1670,kh nói ứng dụng tự thoát liên tục xảy ra sau khi rơi,PHAN_MEM,2
+1671,"khách mang máy tới, cổng sạc bị lỏng phải giữ mới vào khách chưa từng sửa ở đâu",SAC,2
+1672,khách báo wifi tự ngắt liên tục mới bị 2 ngày nay,KHAC,1
+1673,máy treo không tắt được máy còn bảo hành,MAN_HINH,4
+1674,khách báo camera mở lên bị đen,PIN,5
+1675,màn hình bị nứt góc dưới bị từ tuần trước,MAN_HINH,2
+1676,man hinh den khong thay gi,MAN_HINH,4
+1677,khách hàng phản ánh nút nguồn bị kẹt máy còn bảo hành,KHAC,4
+1678,kh nói máy không lên nguồn bị từ tuần trước,SAC,5
+1679,tình trạng: quên mật khẩu tài khoản xảy ra sau khi rơi,PHAN_MEM,2
+1680,khach bao mat tieng khi goi nhung loa ngoai van tot da thu khoi dong lai khong duoc,KHAC,1
+1681,cu sac nong va co mui khet da thu khoi dong lai khong duoc,SAC,2
+1682,máy không nhận thẻ nhớ,KHAC,5
+1683,CỔNG SẠC BỊ LỎNG PHẢI GIỮ MỚI VÀO,SAC,2
+1684,khách báo loa bị rè sau khi máy ẩm khách chưa từng sửa ở đâu,KHAC,4
+1685,khách hàng phản ánh hình bị nhoè khi mở ứng dụng,MAN_HINH,6
+1686,khach bao khong ket noi duoc tai nghe khong day moi bi 2 ngay nay,KHAC,1
+1687,pin chai chỉ dùng được hai tiếng xảy ra sau khi rơi,PIN,3
+1688,tình trạng: rơi vào bồn cầu đã lau khô,NUOC_VAO,6
+1689,tình trạng: máy có hơi nước trong camera đã mang đi sửa một lần,PIN,1
+1690,ứng dụng tự thoát liên tục,PHAN_MEM,3
+1691,KHÁCH BÁO MÁY CHẠY CHẬM SAU KHI CẬP NHẬT ĐÃ THỬ KHỞI ĐỘNG LẠI KHÔNG ĐƯỢC,PHAN_MEM,6
+1692,tình trạng: nút nguồn bị kẹt đã thử khởi động lại không được,KHAC,4
+1693,khach hang phan anh khong ket noi duoc tai nghe khong day xay ra sau khi roi,KHAC,3
+1694,kh nói bàn phím ảo không hiện lên mới bị 2 ngày nay,PHAN_MEM,3
+1695,kính màn hình vỡ nhưng vẫn hiển thị,MAN_HINH,5
+1696,không kết nối được tai nghe không dây,KHAC,1
+1697,kh noi loa bi re sau khi may am moi bi 2 ngay nay,KHAC,6
+1698,"khach mang may toi, man hinh dung khong bam duoc may con bao hanh",MAN_HINH,3
+1699,màn hình bị chảy mực loang,MAN_HINH,5
+1700,nút nguồn bị kẹt bị từ tuần trước,KHAC,4
+1701,màn hình đứng không bấm được,MAN_HINH,1
+1702,máy có hơi nước trong camera,KHAC,3
+1703,"khách mang máy tới, máy nóng bất thường khi dùng nhẹ mới bị 2 ngày nay",SAC,5
+1704,"KHÁCH MANG MÁY TỚI, MÀN HÌNH NHẤP NHÁY LIÊN TỤC MÁY CÒN BẢO HÀNH",MAN_HINH,2
+1705,kính màn hình vỡ nhưng vẫn hiển thị,MAN_HINH,1
+1706,khách báo màn hình bị chảy mực loang đã thử khởi động lại không được,MAN_HINH,4
+1707,khách hàng phản ánh loa bị rè sau khi máy ẩm đã mang đi sửa một lần,NUOC_VAO,5
+1708,màn hình đứng không bấm được,MAN_HINH,4
+1709,kh nói máy chạy chậm sau khi cập nhật đã thử khởi động lại không được,PHAN_MEM,6
+1710,khách báo màn hình bị nứt góc dưới khách chưa từng sửa ở đâu,MAN_HINH,1
+1711,máy có hơi nước trong camera,NUOC_VAO,1
+1712,khách hàng phản ánh máy không nhận sạc đã thử khởi động lại không được,SAC,2
+1713,khách hàng phản ánh hình bị nhoè khi mở ứng dụng mới bị 2 ngày nay,MAN_HINH,3
+1714,khách báo hình bị nhoè khi mở ứng dụng,PHAN_MEM,3
+1715,"khách mang máy tới, máy treo logo khi khởi động đã thử khởi động lại không được",MAN_HINH,1
+1716,màn hình nhấp nháy liên tục,MAN_HINH,4
+1717,kh nói cáp sạc chỉ vào khi cắm một chiều khách chưa từng sửa ở đâu,SAC,3
+1718,khách hàng phản ánh củ sạc nóng và có mùi khét đã mang đi sửa một lần,SAC,2
+1719,khay sim bị móp đã mang đi sửa một lần,KHAC,2
+1720,điện thoại dính nước mưa cả buổi,NUOC_VAO,2
+1721,bàn phím ảo không hiện lên đã mang đi sửa một lần,PHAN_MEM,5
+1722,tình trạng: camera mở lên bị đen đã mang đi sửa một lần,PHAN_MEM,5
+1723,"KHÁCH MANG MÁY TỚI, CHÂN CẮM BỊ VÊNH ĐÃ MANG ĐI SỬA MỘT LẦN",SAC,3
+1724,khách hàng phản ánh cảm ứng không nhận ở nửa trên mới bị 2 ngày nay,MAN_HINH,1
+1725,cáp sạc chỉ vào khi cắm một chiều,SAC,5
+1726,màn hình nhấp nháy liên tục,MAN_HINH,5
+1727,mất tiếng khi gọi nhưng loa ngoài vẫn tốt,KHAC,2
+1728,khách hàng phản ánh cổng sạc bị lỏng phải giữ mới vào khách chưa từng sửa ở đâu,SAC,1
+1729,khách hàng phản ánh cảm ứng không nhận ở nửa trên xảy ra sau khi rơi,MAN_HINH,1
+1730,khách hàng phản ánh cắm sạc không lên gì bị từ tuần trước,SAC,6
+1731,"khách mang máy tới, cắm sạc vào không thấy báo gì khách chưa từng sửa ở đâu",PIN,6
+1732,wifi tự ngắt liên tục,KHAC,3
+1733,quen mat khau tai khoan da thu khoi dong lai khong duoc,PHAN_MEM,5
+1734,tình trạng: loa bị rè sau khi máy ẩm đã mang đi sửa một lần,KHAC,1
+1735,khách hàng phản ánh điểm chết giữa màn hình,MAN_HINH,2
+1736,khach bao may co hoi nuoc trong camera may con bao hanh,NUOC_VAO,4
+1737,máy không nhận sạc khách chưa từng sửa ở đâu,SAC,6
+1738,khach bao sac day nhung rut ra la tat da thu khoi dong lai khong duoc,PIN,3
+1739,kh noi hinh bi nhoe khi mo ung dung da mang di sua mot lan,MAN_HINH,5
+1740,pin tụt từ tám mươi xuống hai mươi trong nửa giờ,PIN,2
+1741,kính màn hình vỡ nhưng vẫn hiển thị,MAN_HINH,5
+1742,khách báo rơi vào bồn cầu đã lau khô mới bị 2 ngày nay,NUOC_VAO,1
+1743,khách hàng phản ánh điểm chết giữa màn hình mới bị 2 ngày nay,MAN_HINH,2
+1744,tình trạng: máy treo không tắt được khách chưa từng sửa ở đâu,MAN_HINH,4
+1745,TÌNH TRẠNG: QUÊN MẬT KHẨU TÀI KHOẢN ĐÃ THỬ KHỞI ĐỘNG LẠI KHÔNG ĐƯỢC,PHAN_MEM,3
+1746,tình trạng: nước vào loa nghe ọc ọc khách chưa từng sửa ở đâu,KHAC,3
+1747,kh nói rung không hoạt động xảy ra sau khi rơi,SAC,6
+1748,"khách mang máy tới, máy nóng bất thường khi dùng nhẹ xảy ra sau khi rơi",PIN,2
+1749,kính màn hình vỡ nhưng vẫn hiển thị,MAN_HINH,3
+1750,tình trạng: wifi tự ngắt liên tục,KHAC,4
+1751,"khách mang máy tới, pin sụt nhanh cả khi để không",SAC,6
+1752,màn hình nhấp nháy liên tục,MAN_HINH,3
+1753,"khách mang máy tới, kính màn hình vỡ nhưng vẫn hiển thị đã thử khởi động lại không được",MAN_HINH,1
+1754,điện thoại dính nước mưa cả buổi khách chưa từng sửa ở đâu,NUOC_VAO,2
+1755,rung không hoạt động,KHAC,2
+1756,khách báo wifi tự ngắt liên tục mới bị 2 ngày nay,KHAC,6
+1757,tình trạng: cảm ứng không nhận ở nửa trên đã mang đi sửa một lần,MAN_HINH,4
+1758,sạc không vào điện,PIN,1
+1759,không đăng nhập được vào máy xảy ra sau khi rơi,PHAN_MEM,5
+1760,"khách mang máy tới, hết pin rất nhanh và sạc lâu xảy ra sau khi rơi",SAC,5
+1761,khach hang phan anh man hinh bi nut goc duoi da thu khoi dong lai khong duoc,PHAN_MEM,4
+1762,tinh trang: pin sut nhanh ca khi de khong khach chua tung sua o dau,PIN,5
+1763,"khách mang máy tới, không đăng nhập được vào máy khách chưa từng sửa ở đâu",KHAC,4
+1764,kh nói máy không nhận sạc bị từ tuần trước,SAC,4
+1765,củ sạc nóng và có mùi khét,SAC,5
+1766,tình trạng: cắm sạc vào không thấy báo gì mới bị 2 ngày nay,PIN,1
+1767,"khach mang may toi, may tu tat khi con ba muoi phan tram moi bi 2 ngay nay",PIN,5
+1768,"khách mang máy tới, cổng sạc bị lỏng phải giữ mới vào khách chưa từng sửa ở đâu",SAC,1
+1769,kh nói máy có hơi nước trong camera mới bị 2 ngày nay,NUOC_VAO,6
+1770,kh nói quên mật khẩu tài khoản khách chưa từng sửa ở đâu,PHAN_MEM,4
+1771,máy có hơi nước trong camera đã mang đi sửa một lần,KHAC,3
+1772,"khách mang máy tới, loa bị rè sau khi máy ẩm mới bị 2 ngày nay",NUOC_VAO,6
+1773,màn hình đứng không bấm được,MAN_HINH,5
+1774,pin tụt từ tám mươi xuống hai mươi trong nửa giờ xảy ra sau khi rơi,PIN,1
+1775,"khách mang máy tới, chân cắm bị vênh bị từ tuần trước",SAC,2
+1776,kh nói màn hình sọc dọc nhiều đường bị từ tuần trước,MAN_HINH,1
+1777,khách báo màn hình nhấp nháy liên tục khách chưa từng sửa ở đâu,MAN_HINH,5
+1778,cảm ứng không nhận ở nửa trên,MAN_HINH,4
+1779,cắm sạc không lên gì,PIN,4
+1780,"khách mang máy tới, cắm sạc vào không thấy báo gì bị từ tuần trước",SAC,6
+1781,"khách mang máy tới, bàn phím ảo không hiện lên mới bị 2 ngày nay",PHAN_MEM,4
+1782,khách hàng phản ánh nước vào loa nghe ọc ọc đã mang đi sửa một lần,NUOC_VAO,6
+1783,"khách mang máy tới, màn hình sọc dọc nhiều đường",MAN_HINH,1
+1784,khách hàng phản ánh máy nóng bất thường khi dùng nhẹ xảy ra sau khi rơi,PIN,2
+1785,khách hàng phản ánh máy không nhận thẻ nhớ khách chưa từng sửa ở đâu,KHAC,4
+1786,màn hình đứng không bấm được máy còn bảo hành,MAN_HINH,2
+1787,pin sụt nhanh cả khi để không máy còn bảo hành,PIN,6
+1788,màn hình đứng không bấm được,PHAN_MEM,3
+1789,khách hàng phản ánh pin tụt từ tám mươi xuống hai mươi trong nửa giờ máy còn bảo hành,PIN,5
+1790,điện thoại dính nước mưa cả buổi,NUOC_VAO,5
+1791,kh nói màn hình đứng không bấm được bị từ tuần trước,PHAN_MEM,4
+1792,kh nói khay sim bị móp khách chưa từng sửa ở đâu,KHAC,2
+1793,máy treo không tắt được,PHAN_MEM,4
+1794,pin sụt nhanh cả khi để không đã mang đi sửa một lần,PIN,1
+1795,khách hàng phản ánh máy chỉ lên khi cắm sạc mới bị 2 ngày nay,PIN,5
+1796,"khách mang máy tới, bàn phím ảo không hiện lên máy còn bảo hành",PHAN_MEM,5
+1797,pin sụt nhanh cả khi để không,PIN,3
+1798,khách báo mất tiếng khi gọi nhưng loa ngoài vẫn tốt xảy ra sau khi rơi,KHAC,1
+1799,không đăng nhập được vào máy,PHAN_MEM,1
+1800,tinh trang: chan sac gi xanh da thu khoi dong lai khong duoc,SAC,1
+1801,kh nói máy treo không tắt được đã mang đi sửa một lần,PHAN_MEM,1
+1802,sạc vào rất chậm mất cả đêm,SAC,4
+1803,tình trạng: cáp sạc chỉ vào khi cắm một chiều bị từ tuần trước,SAC,2
+1804,wifi tự ngắt liên tục,KHAC,1
+1805,kh nói máy có hơi nước trong camera bị từ tuần trước,KHAC,6
+1806,wifi tự ngắt liên tục,KHAC,4
+1807,máy không nhận thẻ nhớ,PHAN_MEM,4
+1808,kh nói củ sạc nóng và có mùi khét khách chưa từng sửa ở đâu,SAC,6
+1809,khách báo pin tụt từ tám mươi xuống hai mươi trong nửa giờ,PIN,1
+1810,củ sạc nóng và có mùi khét,SAC,4
+1811,khách báo máy treo không tắt được xảy ra sau khi rơi,MAN_HINH,6
+1812,tình trạng: không đăng nhập được vào máy đã thử khởi động lại không được,KHAC,2
+1813,không kết nối được tai nghe không dây,KHAC,3
+1814,khach hang phan anh man hinh den khong thay gi da mang di sua mot lan,MAN_HINH,2
+1815,khong dang nhap duoc vao may may con bao hanh,KHAC,1
+1816,máy rơi vào bồn rửa,NUOC_VAO,3
+1817,"khách mang máy tới, nước vào loa nghe ọc ọc máy còn bảo hành",NUOC_VAO,6
+1818,màn hình đứng không bấm được,MAN_HINH,2
+1819,máy không nhận thẻ nhớ bị từ tuần trước,KHAC,1
+1820,kh noi ung dung tu thoat lien tuc da mang di sua mot lan,PHAN_MEM,6
+1821,RUNG KHÔNG HOẠT ĐỘNG,PHAN_MEM,2
+1822,kh noi dien thoai dinh nuoc mua ca buoi moi bi 2 ngay nay,NUOC_VAO,1
+1823,"khách mang máy tới, màn hình đen không thấy gì xảy ra sau khi rơi",MAN_HINH,1
+1824,khách hàng phản ánh đổ nước ngọt vào bàn phím xảy ra sau khi rơi,NUOC_VAO,1
+1825,khách báo màn hình bị chảy mực loang đã mang đi sửa một lần,MAN_HINH,5
+1826,khong cai duoc ung dung bao loi,PHAN_MEM,5
+1827,màn hình đen không thấy gì xảy ra sau khi rơi,MAN_HINH,2
+1828,man hinh bi chay muc loang,MAN_HINH,1
+1829,tình trạng: máy chạy chậm sau khi cập nhật,PHAN_MEM,6
+1830,máy treo không tắt được khách chưa từng sửa ở đâu,PHAN_MEM,6
+1831,tình trạng: màn hình bị nứt góc dưới khách chưa từng sửa ở đâu,MAN_HINH,4
+1832,tình trạng: máy có hơi nước trong camera xảy ra sau khi rơi,KHAC,6
+1833,pin tụt từ tám mươi xuống hai mươi trong nửa giờ,PIN,1
+1834,máy chạy chậm sau khi cập nhật,PHAN_MEM,5
+1835,"khách mang máy tới, màn hình sọc dọc nhiều đường bị từ tuần trước",MAN_HINH,3
+1836,rung không hoạt động khách chưa từng sửa ở đâu,KHAC,5
+1837,khách báo máy không lên nguồn,PIN,4
+1838,khach hang phan anh may nong bat thuong khi dung nhe xay ra sau khi roi,PIN,1
+1839,khách hàng phản ánh bàn phím ảo không hiện lên mới bị 2 ngày nay,PHAN_MEM,1
+1840,khách hàng phản ánh màn hình bị nứt góc dưới đã mang đi sửa một lần,MAN_HINH,6
+1841,tình trạng: pin chai chỉ dùng được hai tiếng bị từ tuần trước,PIN,2
+1842,máy có hơi nước trong camera,KHAC,5
+1843,"khách mang máy tới, máy không nhận thẻ nhớ",KHAC,1
+1844,tình trạng: màn hình nhấp nháy liên tục xảy ra sau khi rơi,MAN_HINH,1
+1845,tình trạng: máy rơi vào bồn rửa mới bị 2 ngày nay,NUOC_VAO,3
+1846,"khach mang may toi, pin phong lam ho vien may khach chua tung sua o dau",PIN,1
+1847,máy nóng bất thường khi dùng nhẹ,PIN,2
+1848,"khách mang máy tới, máy nóng bất thường khi dùng nhẹ đã mang đi sửa một lần",PIN,3
+1849,củ sạc nóng và có mùi khét,SAC,1
+1850,khách báo cáp sạc chỉ vào khi cắm một chiều đã thử khởi động lại không được,SAC,3
+1851,tình trạng: bàn phím ảo không hiện lên khách chưa từng sửa ở đâu,MAN_HINH,2
+1852,cáp sạc chỉ vào khi cắm một chiều máy còn bảo hành,SAC,1
+1853,khách báo màn hình nhấp nháy liên tục đã mang đi sửa một lần,MAN_HINH,2
+1854,tình trạng: camera mở lên bị đen mới bị 2 ngày nay,PHAN_MEM,5
+1855,hình bị nhoè khi mở ứng dụng,PHAN_MEM,5
+1856,tình trạng: máy không lên nguồn mới bị 2 ngày nay,PIN,1
+1857,"khách mang máy tới, máy treo không tắt được bị từ tuần trước",MAN_HINH,2
+1858,kh nói sạc vào rất chậm mất cả đêm xảy ra sau khi rơi,SAC,1
+1859,mất tiếng khi gọi nhưng loa ngoài vẫn tốt,KHAC,2
+1860,kh nói màn hình đen không thấy gì đã mang đi sửa một lần,MAN_HINH,4
+1861,"khách mang máy tới, khay sim bị móp",KHAC,5
+1862,khách báo màn hình đứng không bấm được xảy ra sau khi rơi,MAN_HINH,2
+1863,máy treo logo khi khởi động,PHAN_MEM,6
+1864,"khách mang máy tới, loa bị rè sau khi máy ẩm khách chưa từng sửa ở đâu",NUOC_VAO,5
+1865,khách báo máy không lên nguồn khách chưa từng sửa ở đâu,SAC,4
+1866,kh nói máy không nhận thẻ nhớ đã mang đi sửa một lần,PHAN_MEM,2
+1867,khách báo sạc vào rất chậm mất cả đêm mới bị 2 ngày nay,SAC,6
+1868,tình trạng: máy tự tắt khi còn ba mươi phần trăm khách chưa từng sửa ở đâu,SAC,2
+1869,tình trạng: máy tự tắt khi còn ba mươi phần trăm,PIN,3
+1870,màn hình sọc dọc nhiều đường,MAN_HINH,2
+1871,kh nói máy có hơi nước trong camera xảy ra sau khi rơi,NUOC_VAO,4
+1872,"khách mang máy tới, máy nóng bất thường khi dùng nhẹ mới bị 2 ngày nay",PIN,6
+1873,mất tiếng khi gọi nhưng loa ngoài vẫn tốt,KHAC,1
+1874,"khách mang máy tới, máy không nhận thẻ nhớ",PHAN_MEM,6
+1875,màn hình nhấp nháy liên tục,MAN_HINH,3
+1876,khách hàng phản ánh pin phồng làm hở viền máy máy còn bảo hành,PIN,5
+1877,hình bị nhoè khi mở ứng dụng,MAN_HINH,2
+1878,kh nói máy có hơi nước trong camera,NUOC_VAO,1
+1879,kh nói máy không nhận thẻ nhớ khách chưa từng sửa ở đâu,PHAN_MEM,6
+1880,kh nói pin phồng làm hở viền máy máy còn bảo hành,PIN,2
+1881,màn hình đứng không bấm được,PHAN_MEM,1
+1882,tình trạng: chân sạc gỉ xanh mới bị 2 ngày nay,SAC,5
+1883,tình trạng: máy chỉ lên khi cắm sạc xảy ra sau khi rơi,PIN,3
+1884,wifi tự ngắt liên tục,KHAC,2
+1885,kh nói kính màn hình vỡ nhưng vẫn hiển thị bị từ tuần trước,MAN_HINH,5
+1886,"khách mang máy tới, màn hình sọc dọc nhiều đường",MAN_HINH,3
+1887,tình trạng: máy có hơi nước trong camera mới bị 2 ngày nay,NUOC_VAO,3
+1888,tình trạng: máy chạy chậm sau khi cập nhật máy còn bảo hành,PHAN_MEM,5
+1889,"khách mang máy tới, máy treo không tắt được bị từ tuần trước",MAN_HINH,4
+1890,chân cắm bị vênh,SAC,5
+1891,khách hàng phản ánh điểm chết giữa màn hình khách chưa từng sửa ở đâu,MAN_HINH,6
+1892,khách hàng phản ánh màn hình nhấp nháy liên tục xảy ra sau khi rơi,MAN_HINH,3
+1893,máy tự tắt khi còn ba mươi phần trăm,PIN,1
+1894,khách báo loa bị rè sau khi máy ẩm mới bị 2 ngày nay,NUOC_VAO,4
+1895,cổng sạc bị lỏng phải giữ mới vào,SAC,4
+1896,máy không nhận sạc,SAC,4
+1897,khách báo điện thoại dính nước mưa cả buổi xảy ra sau khi rơi,KHAC,3
+1898,khách hàng phản ánh không đăng nhập được vào máy đã thử khởi động lại không được,PHAN_MEM,3
+1899,khach bao pin chai chi dung duoc hai tieng may con bao hanh,PIN,2
+1900,kh nói pin sụt nhanh cả khi để không đã mang đi sửa một lần,PIN,1
+1901,kính màn hình vỡ nhưng vẫn hiển thị,MAN_HINH,4
+1902,"KHÁCH MANG MÁY TỚI, LOA NGOÀI RÈ KHÔNG NGHE RÕ KHÁCH CHƯA TỪNG SỬA Ở ĐÂU",KHAC,3
+1903,KH NÓI CAMERA MỞ LÊN BỊ ĐEN BỊ TỪ TUẦN TRƯỚC,PHAN_MEM,3
+1904,kh nói sạc không vào điện máy còn bảo hành,PIN,1
+1905,khay sim bị móp,KHAC,3
+1906,khách báo cắm sạc vào không thấy báo gì máy còn bảo hành,PIN,6
+1907,"khách mang máy tới, kính màn hình vỡ nhưng vẫn hiển thị khách chưa từng sửa ở đâu",MAN_HINH,6
+1908,khách báo loa bị rè sau khi máy ẩm khách chưa từng sửa ở đâu,NUOC_VAO,5
+1909,"KHÁCH MANG MÁY TỚI, PIN CHAI CHỈ DÙNG ĐƯỢC HAI TIẾNG BỊ TỪ TUẦN TRƯỚC",PIN,2
+1910,"khách mang máy tới, camera mở lên bị đen mới bị 2 ngày nay",PHAN_MEM,2
+1911,khách báo máy không nhận thẻ nhớ khách chưa từng sửa ở đâu,PHAN_MEM,5
+1912,tình trạng: máy không nhận thẻ nhớ khách chưa từng sửa ở đâu,KHAC,5
+1913,khách báo máy không nhận thẻ nhớ máy còn bảo hành,NUOC_VAO,2
+1914,kh nói hình bị nhoè khi mở ứng dụng máy còn bảo hành,MAN_HINH,5
+1915,máy treo logo khi khởi động bị từ tuần trước,PHAN_MEM,3
+1916,không kết nối được tai nghe không dây xảy ra sau khi rơi,KHAC,3
+1917,KHÁCH HÀNG PHẢN ÁNH WIFI TỰ NGẮT LIÊN TỤC BỊ TỪ TUẦN TRƯỚC,KHAC,1
+1918,khách báo máy có hơi nước trong camera máy còn bảo hành,NUOC_VAO,6
+1919,tinh trang: loa bi re sau khi may am da mang di sua mot lan,KHAC,4
+1920,khach hang phan anh chan cam bi venh da thu khoi dong lai khong duoc,SAC,6
+1921,kh nói không cài được ứng dụng báo lỗi máy còn bảo hành,PHAN_MEM,2
+1922,tình trạng: màn hình nhấp nháy liên tục,NUOC_VAO,3
+1923,nút nguồn bị kẹt,KHAC,4
+1924,"khách mang máy tới, không kết nối được tai nghe không dây đã thử khởi động lại không được",KHAC,1
+1925,khách hàng phản ánh kính màn hình vỡ nhưng vẫn hiển thị khách chưa từng sửa ở đâu,MAN_HINH,5
+1926,khách hàng phản ánh máy treo không tắt được mới bị 2 ngày nay,PHAN_MEM,4
+1927,khách báo hình bị nhoè khi mở ứng dụng đã thử khởi động lại không được,MAN_HINH,1
+1928,mất tiếng khi gọi nhưng loa ngoài vẫn tốt,KHAC,5
+1929,"khách mang máy tới, màn hình đen không thấy gì máy còn bảo hành",MAN_HINH,5
+1930,kh noi pin chai chi dung duoc hai tieng moi bi 2 ngay nay,PIN,1
+1931,tình trạng: màn hình đứng không bấm được đã mang đi sửa một lần,PHAN_MEM,6
+1932,kh nói pin tụt từ tám mươi xuống hai mươi trong nửa giờ đã thử khởi động lại không được,PIN,4
+1933,"khách mang máy tới, màn hình đứng không bấm được bị từ tuần trước",MAN_HINH,2
+1934,loa bị rè sau khi máy ẩm,NUOC_VAO,6
+1935,khách hàng phản ánh điểm chết giữa màn hình xảy ra sau khi rơi,MAN_HINH,1
+1936,khach hang phan anh man hinh bi nut goc duoi xay ra sau khi roi,MAN_HINH,3
+1937,nước vào loa nghe ọc ọc,NUOC_VAO,2
+1938,kính màn hình vỡ nhưng vẫn hiển thị,MAN_HINH,3
+1939,khách báo sạc đầy nhưng rút ra là tắt bị từ tuần trước,PIN,4
+1940,tình trạng: kính màn hình vỡ nhưng vẫn hiển thị xảy ra sau khi rơi,MAN_HINH,5
+1941,tình trạng: chân cắm bị vênh đã thử khởi động lại không được,SAC,5
+1942,kh nói máy có hơi nước trong camera mới bị 2 ngày nay,NUOC_VAO,3
+1943,kh nói sạc không vào điện,PIN,4
+1944,KHÁCH BÁO BÀN PHÍM ẢO KHÔNG HIỆN LÊN MÁY CÒN BẢO HÀNH,PHAN_MEM,6
+1945,sạc vào rất chậm mất cả đêm,SAC,2
+1946,khách báo ứng dụng tự thoát liên tục máy còn bảo hành,PHAN_MEM,5
+1947,tình trạng: không đăng nhập được vào máy xảy ra sau khi rơi,KHAC,4
+1948,tình trạng: máy tự tắt khi còn ba mươi phần trăm mới bị 2 ngày nay,PIN,5
+1949,máy có hơi nước trong camera bị từ tuần trước,KHAC,4
+1950,"khách mang máy tới, camera mở lên bị đen mới bị 2 ngày nay",PHAN_MEM,1
+1951,khách hàng phản ánh loa bị rè sau khi máy ẩm mới bị 2 ngày nay,NUOC_VAO,6
+1952,khách báo màn hình bị chảy mực loang xảy ra sau khi rơi,MAN_HINH,5
+1953,cáp sạc chỉ vào khi cắm một chiều,SAC,2
+1954,điểm chết giữa màn hình khách chưa từng sửa ở đâu,MAN_HINH,5
+1955,pin tụt từ tám mươi xuống hai mươi trong nửa giờ,PIN,6
+1956,khách báo điểm chết giữa màn hình đã mang đi sửa một lần,MAN_HINH,5
+1957,tình trạng: không nhận sim mới bị 2 ngày nay,KHAC,2
+1958,chân sạc gỉ xanh,SAC,2
+1959,máy không lên nguồn,PIN,3
+1960,kh nói đổ nước ngọt vào bàn phím mới bị 2 ngày nay,NUOC_VAO,1
+1961,quên mật khẩu tài khoản,PHAN_MEM,3
+1962,máy có hơi nước trong camera đã thử khởi động lại không được,KHAC,3
+1963,kh nói hình bị nhoè khi mở ứng dụng đã thử khởi động lại không được,MAN_HINH,2
+1964,"khach mang may toi, het pin rat nhanh va sac lau",PIN,5
+1965,tình trạng: máy không nhận thẻ nhớ xảy ra sau khi rơi,KHAC,5
+1966,quên mật khẩu tài khoản,PHAN_MEM,4
+1967,tình trạng: màn hình bị chảy mực loang mới bị 2 ngày nay,MAN_HINH,2
+1968,khách báo quên mật khẩu tài khoản máy còn bảo hành,PHAN_MEM,3
+1969,"khách mang máy tới, ứng dụng tự thoát liên tục máy còn bảo hành",PHAN_MEM,4
+1970,máy không lên nguồn,PIN,6
+1971,khách hàng phản ánh pin phồng làm hở viền máy khách chưa từng sửa ở đâu,PIN,2
+1972,kh nói không nhận sim đã mang đi sửa một lần,KHAC,3
+1973,màn hình bị chảy mực loang,MAN_HINH,5
+1974,kh nói máy treo không tắt được khách chưa từng sửa ở đâu,MAN_HINH,5
+1975,kh nói màn hình đứng không bấm được đã mang đi sửa một lần,MAN_HINH,6
+1976,tình trạng: máy rơi vào bồn rửa,NUOC_VAO,3
+1977,tinh trang: pin chai chi dung duoc hai tieng da thu khoi dong lai khong duoc,PIN,6
+1978,khách báo pin sụt nhanh cả khi để không,PIN,6
+1979,khách báo chân cắm bị vênh máy còn bảo hành,SAC,3
+1980,"khach mang may toi, may khong nhan sac da mang di sua mot lan",SAC,1
+1981,kh nói bàn phím ảo không hiện lên đã thử khởi động lại không được,PHAN_MEM,6
+1982,tinh trang: may chay cham sau khi cap nhat khach chua tung sua o dau,PHAN_MEM,1
+1983,pin chai chi dung duoc hai tieng,PIN,5
+1984,tình trạng: pin chai chỉ dùng được hai tiếng mới bị 2 ngày nay,PIN,3
+1985,khach hang phan anh cu sac nong va co mui khet may con bao hanh,SAC,6
+1986,khách báo màn hình nhấp nháy liên tục đã mang đi sửa một lần,MAN_HINH,3
+1987,tình trạng: máy có hơi nước trong camera xảy ra sau khi rơi,NUOC_VAO,2
+1988,tình trạng: pin tụt từ tám mươi xuống hai mươi trong nửa giờ đã thử khởi động lại không được,PIN,6
+1989,tình trạng: pin tụt từ tám mươi xuống hai mươi trong nửa giờ đã thử khởi động lại không được,PIN,2
+1990,máy treo logo khi khởi động đã thử khởi động lại không được,PHAN_MEM,1
+1991,khach hang phan anh pin phong lam ho vien may bi tu tuan truoc,PIN,3
+1992,củ sạc nóng và có mùi khét,SAC,1
+1993,kh nói mất tiếng khi gọi nhưng loa ngoài vẫn tốt xảy ra sau khi rơi,KHAC,1
+1994,kh noi cam sac vao khong thay bao gi khach chua tung sua o dau,PIN,4
+1995,loa bị rè sau khi máy ẩm,NUOC_VAO,2
+1996,tình trạng: điện thoại dính nước mưa cả buổi đã thử khởi động lại không được,NUOC_VAO,5
+1997,khách hàng phản ánh rơi vào bồn cầu đã lau khô khách chưa từng sửa ở đâu,NUOC_VAO,1
+1998,máy có hơi nước trong camera,NUOC_VAO,1
+1999,kh nói pin tụt từ tám mươi xuống hai mươi trong nửa giờ bị từ tuần trước,PIN,6
+2000,cu sac nong va co mui khet,SAC,4
+2001,khách hàng phản ánh củ sạc nóng và có mùi khét,SAC,4
+2002,"khách mang máy tới, máy không nhận sạc xảy ra sau khi rơi",SAC,1
+2003,sac vao rat cham mat ca dem,SAC,4
+2004,màn hình đứng không bấm được,MAN_HINH,2
+2005,khách hàng phản ánh máy không nhận thẻ nhớ xảy ra sau khi rơi,KHAC,2
+2006,CÁP SẠC CHỈ VÀO KHI CẮM MỘT CHIỀU XẢY RA SAU KHI RƠI,SAC,1
+2007,cổng sạc bị lỏng phải giữ mới vào,SAC,2
+2008,tình trạng: màn hình sọc dọc nhiều đường mới bị 2 ngày nay,MAN_HINH,6
+2009,kh nói màn hình đen không thấy gì đã mang đi sửa một lần,MAN_HINH,1
+2010,kh noi quen mat khau tai khoan may con bao hanh,PHAN_MEM,2
+2011,máy chỉ lên khi cắm sạc máy còn bảo hành,PIN,5
+2012,kh nói đổ nước ngọt vào bàn phím máy còn bảo hành,NUOC_VAO,2
+2013,kh nói máy có hơi nước trong camera máy còn bảo hành,NUOC_VAO,6
+2014,tình trạng: nước vào loa nghe ọc ọc khách chưa từng sửa ở đâu,NUOC_VAO,5
+2015,NƯỚC VÀO LOA NGHE ỌC ỌC,NUOC_VAO,5
+2016,tình trạng: màn hình bị chảy mực loang đã thử khởi động lại không được,MAN_HINH,6
+2017,khách báo pin tụt từ tám mươi xuống hai mươi trong nửa giờ đã thử khởi động lại không được,PIN,3
+2018,tình trạng: máy nóng bất thường khi dùng nhẹ máy còn bảo hành,PIN,2
+2019,kh nói máy treo không tắt được,MAN_HINH,6
+2020,pin phồng làm hở viền máy,PIN,3
+2021,pin chai chỉ dùng được hai tiếng,PIN,1
+2022,pin sụt nhanh cả khi để không,PIN,6
+2023,"khách mang máy tới, cảm ứng không nhận ở nửa trên khách chưa từng sửa ở đâu",PHAN_MEM,5
+2024,kh nói pin sụt nhanh cả khi để không,SAC,6
+2025,mất tiếng khi gọi nhưng loa ngoài vẫn tốt đã thử khởi động lại không được,KHAC,2
+2026,khach hang phan anh camera mo len bi den,PHAN_MEM,3
+2027,khách báo màn hình đứng không bấm được đã mang đi sửa một lần,MAN_HINH,2
+2028,khách báo cắm sạc không lên gì xảy ra sau khi rơi,SAC,1
+2029,khách báo pin tụt từ tám mươi xuống hai mươi trong nửa giờ mới bị 2 ngày nay,PIN,6
+2030,khách hàng phản ánh loa bị rè sau khi máy ẩm,NUOC_VAO,2
+2031,cáp sạc chỉ vào khi cắm một chiều,SAC,2
+2032,hình bị nhoè khi mở ứng dụng,MAN_HINH,6
+2033,rung không hoạt động bị từ tuần trước,KHAC,1
+2034,khách hàng phản ánh điểm chết giữa màn hình xảy ra sau khi rơi,PHAN_MEM,2
+2035,củ sạc nóng và có mùi khét đã thử khởi động lại không được,SAC,4
+2036,khách hàng phản ánh máy ngâm nước biển khi đi tắm khách chưa từng sửa ở đâu,NUOC_VAO,2
+2037,cảm ứng không nhận ở nửa trên,MAN_HINH,6
+2038,màn hình đứng không bấm được,PHAN_MEM,5
+2039,ĐIỆN THOẠI DÍNH NƯỚC MƯA CẢ BUỔI,NUOC_VAO,4
+2040,khách hàng phản ánh màn hình bị nứt góc dưới mới bị 2 ngày nay,MAN_HINH,6
+2041,khách báo camera mở lên bị đen xảy ra sau khi rơi,PHAN_MEM,4
+2042,tình trạng: điểm chết giữa màn hình đã thử khởi động lại không được,MAN_HINH,5
+2043,khay sim bị móp,PHAN_MEM,2
+2044,man hinh nhap nhay lien tuc,MAN_HINH,3
+2045,máy chỉ lên khi cắm sạc,SAC,2
+2046,"khách mang máy tới, cắm sạc vào không thấy báo gì đã mang đi sửa một lần",PIN,3
+2047,cảm ứng không nhận ở nửa trên,MAN_HINH,4
+2048,wifi tu ngat lien tuc,KHAC,4
+2049,không kết nối được tai nghe không dây,KHAC,5
+2050,màn hình bị chảy mực loang,MAN_HINH,1
+2051,"khach mang may toi, diem chet giua man hinh da mang di sua mot lan",MAN_HINH,5
+2052,tình trạng: điện thoại dính nước mưa cả buổi mới bị 2 ngày nay,NUOC_VAO,5
+2053,kh nói nước vào loa nghe ọc ọc đã thử khởi động lại không được,NUOC_VAO,4
+2054,khach hang phan anh pin chai chi dung duoc hai tieng bi tu tuan truoc,PIN,4
+2055,"khách mang máy tới, kính màn hình vỡ nhưng vẫn hiển thị máy còn bảo hành",MAN_HINH,1
+2056,cap sac chi vao khi cam mot chieu,SAC,4
+2057,tình trạng: cáp sạc chỉ vào khi cắm một chiều đã mang đi sửa một lần,SAC,1
+2058,tình trạng: camera mở lên bị đen bị từ tuần trước,PHAN_MEM,1
+2059,kh nói không kết nối được tai nghe không dây đã mang đi sửa một lần,NUOC_VAO,1
+2060,bàn phím ảo không hiện lên đã thử khởi động lại không được,PHAN_MEM,5
+2061,CỔNG SẠC BỊ LỎNG PHẢI GIỮ MỚI VÀO ĐÃ MANG ĐI SỬA MỘT LẦN,SAC,1
+2062,kh nói máy treo không tắt được khách chưa từng sửa ở đâu,MAN_HINH,1
+2063,kh nói pin phồng làm hở viền máy,PIN,2
+2064,màn hình bị chảy mực loang,MAN_HINH,1
+2065,khach bao man hinh den khong thay gi da mang di sua mot lan,MAN_HINH,6
+2066,khách hàng phản ánh không kết nối được tai nghe không dây khách chưa từng sửa ở đâu,KHAC,2
+2067,KHÁCH BÁO BÀN PHÍM ẢO KHÔNG HIỆN LÊN ĐÃ THỬ KHỞI ĐỘNG LẠI KHÔNG ĐƯỢC,PHAN_MEM,5
+2068,tình trạng: bàn phím ảo không hiện lên máy còn bảo hành,PHAN_MEM,2
+2069,khách hàng phản ánh hình bị nhoè khi mở ứng dụng đã thử khởi động lại không được,MAN_HINH,6
+2070,tình trạng: rung không hoạt động máy còn bảo hành,KHAC,1
+2071,chân cắm bị vênh,SAC,1
+2072,kh nói máy tự tắt khi còn ba mươi phần trăm,PIN,4
+2073,khách báo điểm chết giữa màn hình,MAN_HINH,5
+2074,điện thoại dính nước mưa cả buổi,NUOC_VAO,3
+2075,tình trạng: màn hình bị chảy mực loang khách chưa từng sửa ở đâu,MAN_HINH,4
+2076,màn hình bị nứt góc dưới xảy ra sau khi rơi,PHAN_MEM,1
+2077,mất tiếng khi gọi nhưng loa ngoài vẫn tốt,KHAC,5
+2078,tình trạng: khay sim bị móp bị từ tuần trước,KHAC,1
+2079,khách báo máy rơi vào bồn rửa máy còn bảo hành,NUOC_VAO,5
+2080,kh nói sạc không vào điện,PIN,1
+2081,camera mở lên bị đen,PHAN_MEM,3
+2082,mất tiếng khi gọi nhưng loa ngoài vẫn tốt,KHAC,6
+2083,tình trạng: pin sụt nhanh cả khi để không,PIN,4
+2084,tình trạng: không cài được ứng dụng báo lỗi đã thử khởi động lại không được,PHAN_MEM,1
+2085,khách báo rung không hoạt động mới bị 2 ngày nay,KHAC,3
+2086,kh nói máy treo không tắt được máy còn bảo hành,MAN_HINH,1
+2087,khách hàng phản ánh kính màn hình vỡ nhưng vẫn hiển thị đã mang đi sửa một lần,MAN_HINH,4
+2088,"khách mang máy tới, mất tiếng khi gọi nhưng loa ngoài vẫn tốt máy còn bảo hành",SAC,2
+2089,kh nói sạc vào rất chậm mất cả đêm mới bị 2 ngày nay,SAC,1
+2090,kh noi sac day nhung rut ra la tat bi tu tuan truoc,PIN,3
+2091,tình trạng: pin sụt nhanh cả khi để không,PIN,6
+2092,màn hình bị chảy mực loang,MAN_HINH,2
+2093,khách báo pin tụt từ tám mươi xuống hai mươi trong nửa giờ máy còn bảo hành,PIN,4
+2094,khách hàng phản ánh cắm sạc không lên gì máy còn bảo hành,PIN,5
+2095,kh nói máy treo logo khi khởi động,PHAN_MEM,2
+2096,"khách mang máy tới, hết pin rất nhanh và sạc lâu xảy ra sau khi rơi",SAC,2
+2097,kh noi dien thoai dinh nuoc mua ca buoi may con bao hanh,NUOC_VAO,5
+2098,khách hàng phản ánh màn hình bị nứt góc dưới,PHAN_MEM,1
+2099,tình trạng: điểm chết giữa màn hình đã mang đi sửa một lần,MAN_HINH,5
+2100,kh noi khong nhan sim may con bao hanh,KHAC,5
+2101,tình trạng: máy treo không tắt được,MAN_HINH,6
+2102,máy treo không tắt được đã thử khởi động lại không được,PHAN_MEM,2
+2103,khach hang phan anh may co hoi nuoc trong camera xay ra sau khi roi,KHAC,2
+2104,kh nói quên mật khẩu tài khoản đã mang đi sửa một lần,PHAN_MEM,3
+2105,sac vao rat cham mat ca dem,SAC,2
+2106,máy có hơi nước trong camera,NUOC_VAO,4
+2107,"khách mang máy tới, pin tụt từ tám mươi xuống hai mươi trong nửa giờ đã thử khởi động lại không được",SAC,4
+2108,bàn phím ảo không hiện lên,PHAN_MEM,5
+2109,máy không nhận thẻ nhớ,KHAC,1
+2110,kh nói màn hình bị nứt góc dưới,MAN_HINH,2
+2111,kh nói máy có hơi nước trong camera mới bị 2 ngày nay,NUOC_VAO,2
+2112,khach hang phan anh cam ung khong nhan o nua tren khach chua tung sua o dau,MAN_HINH,6
+2113,"khách mang máy tới, rơi vào bồn cầu đã lau khô xảy ra sau khi rơi",PIN,2
+2114,chân sạc gỉ xanh,SAC,5
+2115,kh noi loa ngoai re khong nghe ro moi bi 2 ngay nay,KHAC,1
+2116,khách báo loa bị rè sau khi máy ẩm khách chưa từng sửa ở đâu,KHAC,2
+2117,khách báo máy chỉ lên khi cắm sạc đã mang đi sửa một lần,SAC,6
+2118,kh nói màn hình bị chảy mực loang đã mang đi sửa một lần,MAN_HINH,3
+2119,"khách mang máy tới, kính màn hình vỡ nhưng vẫn hiển thị mới bị 2 ngày nay",MAN_HINH,6
+2120,kh nói bàn phím ảo không hiện lên bị từ tuần trước,PHAN_MEM,5
+2121,mất tiếng khi gọi nhưng loa ngoài vẫn tốt đã mang đi sửa một lần,KHAC,4
+2122,khách hàng phản ánh quên mật khẩu tài khoản đã mang đi sửa một lần,PHAN_MEM,6
+2123,khách báo máy rơi vào bồn rửa bị từ tuần trước,NUOC_VAO,6
+2124,khách hàng phản ánh máy treo không tắt được đã thử khởi động lại không được,PHAN_MEM,5
+2125,khách báo máy chỉ lên khi cắm sạc bị từ tuần trước,SAC,1
+2126,tình trạng: cáp sạc chỉ vào khi cắm một chiều xảy ra sau khi rơi,SAC,1
+2127,tình trạng: nước vào loa nghe ọc ọc xảy ra sau khi rơi,NUOC_VAO,5
+2128,tình trạng: chân cắm bị vênh bị từ tuần trước,SAC,3
+2129,rơi vào bồn cầu đã lau khô,SAC,5
+2130,tình trạng: màn hình bị chảy mực loang,MAN_HINH,3
+2131,máy không nhận thẻ nhớ máy còn bảo hành,PHAN_MEM,1
+2132,kh nói màn hình nhấp nháy liên tục xảy ra sau khi rơi,MAN_HINH,1
+2133,"khach mang may toi, chan cam bi venh moi bi 2 ngay nay",SAC,2
+2134,loa ngoài rè không nghe rõ,KHAC,5
+2135,tình trạng: máy treo logo khi khởi động máy còn bảo hành,PHAN_MEM,1
+2136,màn hình bị chảy mực loang,PHAN_MEM,3
+2137,cam sac khong len gi,PIN,4
+2138,"khách mang máy tới, pin chai chỉ dùng được hai tiếng",PIN,3
+2139,khách báo pin chai chỉ dùng được hai tiếng bị từ tuần trước,PIN,2
+2140,khách hàng phản ánh chân cắm bị vênh bị từ tuần trước,SAC,6
+2141,may nong bat thuong khi dung nhe,PIN,4
+2142,máy treo không tắt được đã thử khởi động lại không được,MAN_HINH,4
+2143,hình bị nhoè khi mở ứng dụng,MAN_HINH,2
+2144,khách báo cáp sạc chỉ vào khi cắm một chiều đã mang đi sửa một lần,SAC,2
+2145,khay sim bị móp máy còn bảo hành,KHAC,3
+2146,khách hàng phản ánh máy chỉ lên khi cắm sạc mới bị 2 ngày nay,PIN,4
+2147,tinh trang: khong dang nhap duoc vao may da mang di sua mot lan,KHAC,6
+2148,không nhận sim,KHAC,1
+2149,CỔNG SẠC BỊ LỎNG PHẢI GIỮ MỚI VÀO,SAC,6
+2150,máy rơi vào bồn rửa,NUOC_VAO,5
+2151,kh nói nút nguồn bị kẹt khách chưa từng sửa ở đâu,KHAC,3
+2152,màn hình đứng không bấm được,PHAN_MEM,3
+2153,khách hàng phản ánh hình bị nhoè khi mở ứng dụng bị từ tuần trước,MAN_HINH,5
+2154,"khách mang máy tới, sạc không vào điện đã mang đi sửa một lần",PIN,6
+2155,khách hàng phản ánh máy có hơi nước trong camera khách chưa từng sửa ở đâu,KHAC,5
+2156,kh noi khong ket noi duoc tai nghe khong day bi tu tuan truoc,KHAC,6
+2157,sạc không vào điện,SAC,2
+2158,tinh trang: cam ung khong nhan o nua tren xay ra sau khi roi,MAN_HINH,4
+2159,tình trạng: máy treo không tắt được mới bị 2 ngày nay,MAN_HINH,3
+2160,loa bị rè sau khi máy ẩm,KHAC,1
+2161,"khách mang máy tới, máy chạy chậm sau khi cập nhật khách chưa từng sửa ở đâu",PHAN_MEM,1
+2162,tình trạng: cắm sạc vào không thấy báo gì đã thử khởi động lại không được,SAC,1
+2163,khách hàng phản ánh pin tụt từ tám mươi xuống hai mươi trong nửa giờ máy còn bảo hành,PIN,4
+2164,pin chai chỉ dùng được hai tiếng,PIN,5
+2165,không nhận sim,KHAC,4
+2166,kh nói màn hình đứng không bấm được máy còn bảo hành,MAN_HINH,6
+2167,tình trạng: máy rơi vào bồn rửa mới bị 2 ngày nay,NUOC_VAO,2
+2168,khách báo pin chai chỉ dùng được hai tiếng khách chưa từng sửa ở đâu,PIN,4
+2169,kh nói nút nguồn bị kẹt bị từ tuần trước,KHAC,4
+2170,kh nói máy chỉ lên khi cắm sạc khách chưa từng sửa ở đâu,SAC,1
+2171,tinh trang: pin phong lam ho vien may khach chua tung sua o dau,PIN,5
+2172,kh nói màn hình sọc dọc nhiều đường mới bị 2 ngày nay,MAN_HINH,6
+2173,máy không lên nguồn,SAC,4
+2174,"khách mang máy tới, hình bị nhoè khi mở ứng dụng khách chưa từng sửa ở đâu",MAN_HINH,5
+2175,khach bao wifi tu ngat lien tuc moi bi 2 ngay nay,KHAC,6
+2176,pin sụt nhanh cả khi để không,PIN,3
+2177,tình trạng: cáp sạc chỉ vào khi cắm một chiều bị từ tuần trước,SAC,4
+2178,kh nói pin phồng làm hở viền máy bị từ tuần trước,PIN,1
+2179,tinh trang: ban phim ao khong hien len da mang di sua mot lan,PHAN_MEM,6
+2180,kh nói máy có hơi nước trong camera,NUOC_VAO,2
+2181,"khach mang may toi, may co hoi nuoc trong camera",NUOC_VAO,6
+2182,khach bao chan sac gi xanh may con bao hanh,SAC,5
+2183,"khách mang máy tới, điểm chết giữa màn hình bị từ tuần trước",MAN_HINH,5
+2184,không cài được ứng dụng báo lỗi,PHAN_MEM,3
+2185,khách báo pin chai chỉ dùng được hai tiếng đã mang đi sửa một lần,PIN,2
+2186,tình trạng: máy nóng bất thường khi dùng nhẹ mới bị 2 ngày nay,PIN,5
+2187,cảm ứng không nhận ở nửa trên,MAN_HINH,6
+2188,kh nói không nhận sim khách chưa từng sửa ở đâu,KHAC,3
+2189,KH NÓI MÁY CHỈ LÊN KHI CẮM SẠC MÁY CÒN BẢO HÀNH,SAC,2
+2190,khách hàng phản ánh kính màn hình vỡ nhưng vẫn hiển thị bị từ tuần trước,KHAC,6
+2191,kh nói loa ngoài rè không nghe rõ bị từ tuần trước,KHAC,4
+2192,rung không hoạt động xảy ra sau khi rơi,KHAC,4
+2193,không nhận sim,KHAC,3
+2194,tình trạng: máy rơi vào bồn rửa đã thử khởi động lại không được,NUOC_VAO,1
+2195,kh noi rung khong hoat dong may con bao hanh,KHAC,4
+2196,tình trạng: máy có hơi nước trong camera xảy ra sau khi rơi,KHAC,6
+2197,màn hình nhấp nháy liên tục,MAN_HINH,3
+2198,kh nói loa bị rè sau khi máy ẩm mới bị 2 ngày nay,KHAC,6
+2199,sạc vào rất chậm mất cả đêm,SAC,3
+2200,màn hình nhấp nháy liên tục,MAN_HINH,2
+2201,kh nói ứng dụng tự thoát liên tục,PHAN_MEM,3
+2202,khách hàng phản ánh loa ngoài rè không nghe rõ khách chưa từng sửa ở đâu,KHAC,2
+2203,khach bao may chay cham sau khi cap nhat da mang di sua mot lan,PHAN_MEM,2
+2204,kh nói pin phồng làm hở viền máy xảy ra sau khi rơi,PIN,1
+2205,tình trạng: màn hình sọc dọc nhiều đường,MAN_HINH,3
+2206,kh noi cam sac khong len gi may con bao hanh,PIN,4
+2207,pin tụt từ tám mươi xuống hai mươi trong nửa giờ,SAC,6
+2208,pin tụt từ tám mươi xuống hai mươi trong nửa giờ,PIN,3
+2209,mất tiếng khi gọi nhưng loa ngoài vẫn tốt,KHAC,2
+2210,khách hàng phản ánh không đăng nhập được vào máy đã thử khởi động lại không được,PHAN_MEM,6
+2211,khách báo màn hình bị nứt góc dưới xảy ra sau khi rơi,MAN_HINH,4
+2212,màn hình nhấp nháy liên tục,MAN_HINH,1
+2213,màn hình đứng không bấm được,PHAN_MEM,1
+2214,khách báo pin tụt từ tám mươi xuống hai mươi trong nửa giờ đã mang đi sửa một lần,PIN,1
+2215,khách báo đổ nước ngọt vào bàn phím đã mang đi sửa một lần,NUOC_VAO,5
+2216,KH NÓI CẢM ỨNG KHÔNG NHẬN Ở NỬA TRÊN MÁY CÒN BẢO HÀNH,MAN_HINH,6
+2217,"khách mang máy tới, ứng dụng tự thoát liên tục bị từ tuần trước",PHAN_MEM,6
+2218,"khách mang máy tới, máy nóng bất thường khi dùng nhẹ đã mang đi sửa một lần",PIN,5
+2219,màn hình bị chảy mực loang,MAN_HINH,2
+2220,khách hàng phản ánh điểm chết giữa màn hình đã thử khởi động lại không được,MAN_HINH,1
+2221,khách hàng phản ánh hình bị nhoè khi mở ứng dụng mới bị 2 ngày nay,PHAN_MEM,1
+2222,kh nói củ sạc nóng và có mùi khét máy còn bảo hành,SAC,5
+2223,khách báo camera mở lên bị đen,PHAN_MEM,2
+2224,tình trạng: máy không lên nguồn bị từ tuần trước,SAC,3
+2225,khách hàng phản ánh máy không nhận thẻ nhớ,KHAC,3
+2226,nút nguồn bị kẹt,KHAC,4
+2227,mất tiếng khi gọi nhưng loa ngoài vẫn tốt,NUOC_VAO,5
+2228,máy treo không tắt được khách chưa từng sửa ở đâu,PHAN_MEM,2
+2229,tình trạng: loa bị rè sau khi máy ẩm khách chưa từng sửa ở đâu,NUOC_VAO,2
+2230,tình trạng: pin chai chỉ dùng được hai tiếng máy còn bảo hành,PIN,4
+2231,"khách mang máy tới, màn hình đen không thấy gì bị từ tuần trước",MAN_HINH,3
+2232,kh noi man hinh dung khong bam duoc da mang di sua mot lan,PHAN_MEM,1
+2233,pin phong lam ho vien may,PIN,2
+2234,khách báo không kết nối được tai nghe không dây khách chưa từng sửa ở đâu,KHAC,3
+2235,tình trạng: màn hình bị nứt góc dưới bị từ tuần trước,MAN_HINH,4
+2236,tinh trang: loa ngoai re khong nghe ro moi bi 2 ngay nay,KHAC,3
+2237,máy nóng bất thường khi dùng nhẹ đã mang đi sửa một lần,PIN,1
+2238,khách hàng phản ánh máy chạy chậm sau khi cập nhật khách chưa từng sửa ở đâu,PHAN_MEM,5
+2239,kh nói điểm chết giữa màn hình,MAN_HINH,6
+2240,tình trạng: củ sạc nóng và có mùi khét khách chưa từng sửa ở đâu,SAC,2
+2241,máy chạy chậm sau khi cập nhật,PHAN_MEM,5
+2242,máy tự tắt khi còn ba mươi phần trăm,PIN,6
+2243,tinh trang: khong dang nhap duoc vao may da thu khoi dong lai khong duoc,PHAN_MEM,6
+2244,kh nói cảm ứng không nhận ở nửa trên khách chưa từng sửa ở đâu,MAN_HINH,1
+2245,"khách mang máy tới, loa bị rè sau khi máy ẩm đã mang đi sửa một lần",KHAC,4
+2246,khách hàng phản ánh máy ngâm nước biển khi đi tắm đã thử khởi động lại không được,NUOC_VAO,2
+2247,kh nói pin phồng làm hở viền máy đã thử khởi động lại không được,PIN,1
+2248,KH NÓI HÌNH BỊ NHOÈ KHI MỞ ỨNG DỤNG ĐÃ THỬ KHỞI ĐỘNG LẠI KHÔNG ĐƯỢC,MAN_HINH,6
+2249,máy nóng bất thường khi dùng nhẹ,PIN,6
+2250,"khách mang máy tới, pin phồng làm hở viền máy đã mang đi sửa một lần",PIN,6
+2251,khách báo rung không hoạt động mới bị 2 ngày nay,KHAC,3
+2252,khách báo đổ nước ngọt vào bàn phím máy còn bảo hành,NUOC_VAO,2
+2253,khách hàng phản ánh không đăng nhập được vào máy bị từ tuần trước,NUOC_VAO,6
+2254,kh nói nước vào loa nghe ọc ọc khách chưa từng sửa ở đâu,NUOC_VAO,6
+2255,khách hàng phản ánh hết pin rất nhanh và sạc lâu bị từ tuần trước,SAC,5
+2256,tình trạng: máy chạy chậm sau khi cập nhật đã mang đi sửa một lần,PHAN_MEM,6
+2257,khach hang phan anh cong sac bi long phai giu moi vao,PIN,4
+2258,máy tự tắt khi còn ba mươi phần trăm,PIN,3
+2259,rung không hoạt động bị từ tuần trước,KHAC,4
+2260,kh nói màn hình đen không thấy gì đã thử khởi động lại không được,MAN_HINH,5
+2261,tình trạng: cảm ứng không nhận ở nửa trên khách chưa từng sửa ở đâu,MAN_HINH,2
+2262,may chay cham sau khi cap nhat,PHAN_MEM,5
+2263,"khách mang máy tới, pin chai chỉ dùng được hai tiếng đã mang đi sửa một lần",PIN,2
+2264,tình trạng: mất tiếng khi gọi nhưng loa ngoài vẫn tốt máy còn bảo hành,KHAC,3
+2265,khách báo pin tụt từ tám mươi xuống hai mươi trong nửa giờ máy còn bảo hành,PIN,2
+2266,KH NÓI BÀN PHÍM ẢO KHÔNG HIỆN LÊN,PHAN_MEM,3
+2267,"khách mang máy tới, pin phồng làm hở viền máy mới bị 2 ngày nay",PIN,2
+2268,máy ngâm nước biển khi đi tắm đã thử khởi động lại không được,NUOC_VAO,6
+2269,kh nói cắm sạc không lên gì đã mang đi sửa một lần,SAC,2
+2270,tình trạng: màn hình bị chảy mực loang bị từ tuần trước,MAN_HINH,6
+2271,máy treo logo khi khởi động,KHAC,3
+2272,khách báo kính màn hình vỡ nhưng vẫn hiển thị máy còn bảo hành,MAN_HINH,5
+2273,chân cắm bị vênh đã mang đi sửa một lần,SAC,3
+2274,kh noi may co hoi nuoc trong camera bi tu tuan truoc,NUOC_VAO,5
+2275,tình trạng: màn hình bị chảy mực loang xảy ra sau khi rơi,MAN_HINH,5
+2276,tình trạng: pin tụt từ tám mươi xuống hai mươi trong nửa giờ xảy ra sau khi rơi,PIN,4
+2277,mat tieng khi goi nhung loa ngoai van tot,KHAC,6
+2278,tình trạng: màn hình đứng không bấm được máy còn bảo hành,MAN_HINH,3
+2279,đổ nước ngọt vào bàn phím,NUOC_VAO,5
+2280,khách báo không cài được ứng dụng báo lỗi đã thử khởi động lại không được,PHAN_MEM,4
+2281,pin tụt từ tám mươi xuống hai mươi trong nửa giờ,PIN,4
+2282,"khách mang máy tới, máy tự tắt khi còn ba mươi phần trăm khách chưa từng sửa ở đâu",PIN,5
+2283,"khách mang máy tới, không cài được ứng dụng báo lỗi bị từ tuần trước",PHAN_MEM,5
+2284,khách báo nước vào loa nghe ọc ọc máy còn bảo hành,NUOC_VAO,6
+2285,pin sut nhanh ca khi de khong moi bi 2 ngay nay,PIN,1
+2286,pin phồng làm hở viền máy,PIN,3
+2287,không đăng nhập được vào máy,PHAN_MEM,6
+2288,chan sac gi xanh,SAC,1
+2289,nút nguồn bị kẹt,MAN_HINH,2
+2290,máy nóng bất thường khi dùng nhẹ khách chưa từng sửa ở đâu,PIN,2
+2291,chân sạc gỉ xanh,SAC,6
+2292,camera mở lên bị đen,PHAN_MEM,5
+2293,tình trạng: mất tiếng khi gọi nhưng loa ngoài vẫn tốt máy còn bảo hành,KHAC,5
+2294,tình trạng: không đăng nhập được vào máy máy còn bảo hành,PHAN_MEM,1
+2295,pin sụt nhanh cả khi để không,PIN,5
+2296,khách báo màn hình sọc dọc nhiều đường bị từ tuần trước,PHAN_MEM,1
+2297,pin tut tu tam muoi xuong hai muoi trong nua gio,PIN,6
+2298,máy có hơi nước trong camera khách chưa từng sửa ở đâu,NUOC_VAO,4
+2299,MÀN HÌNH BỊ CHẢY MỰC LOANG,MAN_HINH,1
+2300,kh noi ban phim ao khong hien len may con bao hanh,PHAN_MEM,4
+2301,kh nói máy tự tắt khi còn ba mươi phần trăm,PIN,3
+2302,không đăng nhập được vào máy máy còn bảo hành,KHAC,2
+2303,máy treo không tắt được xảy ra sau khi rơi,PHAN_MEM,6
+2304,kh nói củ sạc nóng và có mùi khét xảy ra sau khi rơi,SAC,5
+2305,kh nói chân cắm bị vênh,SAC,4
+2306,khách báo máy tự tắt khi còn ba mươi phần trăm mới bị 2 ngày nay,PIN,5
+2307,kh nói pin chai chỉ dùng được hai tiếng,PIN,4
+2308,khách hàng phản ánh cảm ứng không nhận ở nửa trên khách chưa từng sửa ở đâu,MAN_HINH,4
+2309,khách hàng phản ánh máy có hơi nước trong camera đã thử khởi động lại không được,NUOC_VAO,6
+2310,"khách mang máy tới, ứng dụng tự thoát liên tục xảy ra sau khi rơi",PHAN_MEM,6
+2311,chân sạc gỉ xanh,SAC,3
+2312,may khong nhan the nho,KHAC,2
+2313,sạc không vào điện,PIN,6
+2314,khách báo máy tự tắt khi còn ba mươi phần trăm đã mang đi sửa một lần,PIN,6
+2315,khách báo củ sạc nóng và có mùi khét đã thử khởi động lại không được,SAC,1
+2316,pin tụt từ tám mươi xuống hai mươi trong nửa giờ đã mang đi sửa một lần,PIN,1
+2317,loa ngoài rè không nghe rõ xảy ra sau khi rơi,KHAC,3
+2318,máy có hơi nước trong camera bị từ tuần trước,KHAC,3
+2319,kh noi cap sac chi vao khi cam mot chieu bi tu tuan truoc,PIN,3
+2320,khách báo màn hình nhấp nháy liên tục đã thử khởi động lại không được,MAN_HINH,6
+2321,kh nói máy ngâm nước biển khi đi tắm mới bị 2 ngày nay,NUOC_VAO,6
+2322,"khách mang máy tới, pin phồng làm hở viền máy khách chưa từng sửa ở đâu",PIN,6
+2323,khách báo bàn phím ảo không hiện lên bị từ tuần trước,MAN_HINH,3
+2324,tình trạng: máy không nhận thẻ nhớ bị từ tuần trước,KHAC,2
+2325,khách báo đổ nước ngọt vào bàn phím đã mang đi sửa một lần,NUOC_VAO,2
+2326,tình trạng: pin sụt nhanh cả khi để không mới bị 2 ngày nay,PIN,6
+2327,khách hàng phản ánh ứng dụng tự thoát liên tục bị từ tuần trước,PHAN_MEM,6
+2328,"khách mang máy tới, loa bị rè sau khi máy ẩm khách chưa từng sửa ở đâu",NUOC_VAO,3
+2329,khách hàng phản ánh chân cắm bị vênh bị từ tuần trước,SAC,6
+2330,chan cam bi venh xay ra sau khi roi,SAC,4
+2331,kh nói hình bị nhoè khi mở ứng dụng máy còn bảo hành,PHAN_MEM,5
+2332,cổng sạc bị lỏng phải giữ mới vào,SAC,4
+2333,"khách mang máy tới, hình bị nhoè khi mở ứng dụng đã mang đi sửa một lần",MAN_HINH,6
+2334,may nong bat thuong khi dung nhe da thu khoi dong lai khong duoc,PIN,4
+2335,chân sạc gỉ xanh,SAC,3
+2336,tình trạng: máy treo không tắt được đã mang đi sửa một lần,MAN_HINH,3
+2337,khach bao sac day nhung rut ra la tat da thu khoi dong lai khong duoc,SAC,1
+2338,may chay cham sau khi cap nhat,PHAN_MEM,1
+2339,khách báo máy nóng bất thường khi dùng nhẹ,PIN,6
+2340,chân cắm bị vênh mới bị 2 ngày nay,SAC,4
+2341,không cài được ứng dụng báo lỗi,PHAN_MEM,3
+2342,khach hang phan anh chan sac gi xanh,SAC,6
+2343,khách hàng phản ánh không kết nối được tai nghe không dây đã mang đi sửa một lần,KHAC,3
+2344,máy treo không tắt được bị từ tuần trước,MAN_HINH,3
+2345,tinh trang: chan sac gi xanh xay ra sau khi roi,SAC,3
+2346,kh nói wifi tự ngắt liên tục mới bị 2 ngày nay,KHAC,1
+2347,"khách mang máy tới, hết pin rất nhanh và sạc lâu mới bị 2 ngày nay",SAC,5
+2348,kh nói bàn phím ảo không hiện lên đã thử khởi động lại không được,PHAN_MEM,2
+2349,tình trạng: hết pin rất nhanh và sạc lâu đã mang đi sửa một lần,PIN,6
+2350,tình trạng: máy có hơi nước trong camera xảy ra sau khi rơi,KHAC,2
+2351,khong dang nhap duoc vao may,PHAN_MEM,6
+2352,màn hình bị nứt góc dưới,MAN_HINH,3
+2353,"khách mang máy tới, cắm sạc không lên gì",SAC,6
+2354,KHÁCH BÁO CỔNG SẠC BỊ LỎNG PHẢI GIỮ MỚI VÀO ĐÃ MANG ĐI SỬA MỘT LẦN,SAC,1
+2355,"khách mang máy tới, máy ngâm nước biển khi đi tắm xảy ra sau khi rơi",NUOC_VAO,1
+2356,khách hàng phản ánh màn hình sọc dọc nhiều đường xảy ra sau khi rơi,MAN_HINH,6
+2357,khách báo không đăng nhập được vào máy bị từ tuần trước,KHAC,6
+2358,kh nói loa ngoài rè không nghe rõ xảy ra sau khi rơi,KHAC,1
+2359,kh nói cáp sạc chỉ vào khi cắm một chiều máy còn bảo hành,PIN,1
+2360,khách báo màn hình đen không thấy gì bị từ tuần trước,MAN_HINH,4
+2361,"khách mang máy tới, khay sim bị móp mới bị 2 ngày nay",KHAC,4
+2362,tinh trang: cong sac bi long phai giu moi vao bi tu tuan truoc,SAC,3
+2363,kh nói rung không hoạt động bị từ tuần trước,KHAC,1
+2364,KH NÓI MÁY TỰ TẮT KHI CÒN BA MƯƠI PHẦN TRĂM BỊ TỪ TUẦN TRƯỚC,PIN,1
+2365,khách hàng phản ánh màn hình đứng không bấm được xảy ra sau khi rơi,PHAN_MEM,3
+2366,kh nói máy tự tắt khi còn ba mươi phần trăm bị từ tuần trước,PIN,1
+2367,khách báo điểm chết giữa màn hình bị từ tuần trước,MAN_HINH,5
+2368,khách hàng phản ánh máy treo không tắt được khách chưa từng sửa ở đâu,MAN_HINH,4
+2369,"khách mang máy tới, máy chỉ lên khi cắm sạc đã mang đi sửa một lần",PIN,6
+2370,"khách mang máy tới, rung không hoạt động máy còn bảo hành",KHAC,3
+2371,khách hàng phản ánh rung không hoạt động máy còn bảo hành,KHAC,2
+2372,tình trạng: quên mật khẩu tài khoản đã thử khởi động lại không được,PHAN_MEM,1
+2373,tình trạng: màn hình bị chảy mực loang đã thử khởi động lại không được,MAN_HINH,2
+2374,khách báo pin phồng làm hở viền máy khách chưa từng sửa ở đâu,PIN,6
+2375,may tu tat khi con ba muoi phan tram,PIN,5
+2376,tinh trang: loa ngoai re khong nghe ro da thu khoi dong lai khong duoc,KHAC,4
+2377,cổng sạc bị lỏng phải giữ mới vào,SAC,5
+2378,kh nói hình bị nhoè khi mở ứng dụng máy còn bảo hành,MAN_HINH,3
+2379,khách báo sạc đầy nhưng rút ra là tắt xảy ra sau khi rơi,MAN_HINH,1
+2380,kh nói chân sạc gỉ xanh đã thử khởi động lại không được,SAC,1
+2381,điểm chết giữa màn hình,MAN_HINH,3
+2382,khách báo sạc không vào điện đã mang đi sửa một lần,SAC,1
+2383,khach hang phan anh loa bi re sau khi may am da mang di sua mot lan,NUOC_VAO,5
+2384,tình trạng: wifi tự ngắt liên tục máy còn bảo hành,KHAC,3
+2385,khách báo wifi tự ngắt liên tục bị từ tuần trước,KHAC,3
+2386,kh noi may tu tat khi con ba muoi phan tram da thu khoi dong lai khong duoc,PIN,4
+2387,tình trạng: màn hình sọc dọc nhiều đường máy còn bảo hành,MAN_HINH,2
+2388,bàn phím ảo không hiện lên,PHAN_MEM,4
+2389,màn hình bị chảy mực loang,MAN_HINH,3
+2390,khach hang phan anh may ngam nuoc bien khi di tam khach chua tung sua o dau,NUOC_VAO,4
+2391,kh nói hình bị nhoè khi mở ứng dụng bị từ tuần trước,MAN_HINH,5
+2392,bàn phím ảo không hiện lên đã thử khởi động lại không được,PHAN_MEM,4
+2393,may ngam nuoc bien khi di tam,KHAC,2
+2394,cổng sạc bị lỏng phải giữ mới vào,SAC,2
+2395,chân sạc gỉ xanh,SAC,6
+2396,kh nói cắm sạc vào không thấy báo gì đã thử khởi động lại không được,PIN,3
+2397,tinh trang: may treo logo khi khoi dong khach chua tung sua o dau,PHAN_MEM,3
+2398,kh nói máy treo logo khi khởi động máy còn bảo hành,PHAN_MEM,4
+2399,rơi vào bồn cầu đã lau khô máy còn bảo hành,KHAC,5
+2400,tình trạng: điểm chết giữa màn hình,MAN_HINH,5

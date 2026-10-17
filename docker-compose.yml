@@ -1,0 +1,14 @@
+services:
+
+  model:
+    build: .
+    environment:
+      MODEL_PATH: ${MODEL_PATH:-artifacts/model_v1.joblib}
+      NGUONG_TIN_CAY: ${NGUONG_TIN_CAY:-0.45}
+      NGUONG_TIN_CAY_MO_TA_NGAN: ${NGUONG_TIN_CAY_MO_TA_NGAN:-0.60}
+      LOG_LEVEL: ${LOG_LEVEL:-INFO}
+    ports:
+      - "${MODEL_PORT:-8080}:8080"
+    # Bao cao chi so ghi ra ngoai de nguoi dung doc duoc
+    volumes:
+      - ./reports:/app/reports
