@@ -1,122 +1,217 @@
-# Prototype mẫu — Track AI: Phân loại tự động mô tả sự cố
+# Mekong AI – Phân loại tự động mô tả sự cố
 
-Repo **mẫu** của học phần Chuyên đề tốt nghiệp 1 (Khoa CNTT, Trường Đại học Văn Lang).
-Ví dụ tham chiếu cho mức độ và cấu trúc mà Bài tập 2 và Bài tập 3 yêu cầu —
-**không phải bài mẫu để sinh viên sao chép**. Luồng nghiệp vụ: L10 — gợi ý nhóm
-lỗi khi nhân viên tiếp nhận nhập mô tả sự cố (case study Smart CRM – Mekong Mobile).
+Dự án thuộc học phần **Chuyên đề tốt nghiệp 1 – Khoa Công nghệ thông tin, Trường Đại học Văn Lang**.
 
-## Hệ thống làm được gì
+- **Track:** AI
+- **Case study:** Smart CRM – Mekong Mobile
+- **Mục tiêu:** Hỗ trợ nhân viên tiếp nhận phân loại nhóm sự cố dựa trên mô tả lỗi của thiết bị.
+- **Phạm vi:** Xây dựng quy trình xử lý dữ liệu, huấn luyện mô hình phân loại văn bản, đánh giá kết quả và hỗ trợ dự đoán.
 
-- Huấn luyện mô hình phân loại mô tả sự cố thành sáu nhóm lỗi: `MAN_HINH`, `PIN`,
-  `SAC`, `PHAN_MEM`, `NUOC_VAO`, `KHAC`.
-- **Chia dữ liệu TRƯỚC** khi học tham số — mọi bộ biến đổi chỉ `fit` trên tập train.
-- So sánh **hai mô hình cơ sở** và **hai mô hình thật**; chọn mô hình trên tập
-  validation, đo tập test **đúng một lần**.
-- Báo cáo chỉ số **tách theo từng nhãn**, confusion matrix, và **chênh lệch giữa
-  các nhóm** (đo thiên lệch).
-- Đóng gói mô hình thành dịch vụ dự đoán FastAPI, trả về top 3 kèm độ tin cậy và
-  cờ **cần người xem lại**.
+## 1. Mục tiêu và chức năng
 
-## Ba nguyên tắc được kiểm chứng bằng test
+Dự án hướng đến các chức năng sau:
 
-| Nguyên tắc | Test kiểm nó |
-|---|---|
-| Không rò rỉ dữ liệu | `tests/test_no_leakage.py` — thí nghiệm có đối chứng hai chiều (RR-03) **và** kiểm trên chính tệp mô hình sẽ triển khai (RR-06). Xem BUG-05, BUG-06 trong `docs/bug-log.md` để biết vì sao phải làm cả hai |
-| Tái lập được | `tests/test_tai_lap.py` — hai lần huấn luyện cùng hạt giống cho `metrics.json` giống hệt |
-| Tập test dùng một lần | `src/models/train.py` — hàm `do_lan_cuoi` có bộ đếm, gọi lần thứ hai sẽ ném lỗi |
+- Đọc dữ liệu mô tả sự cố từ tệp CSV.
+- Kiểm tra dữ liệu, xử lý bản ghi thiếu thông tin và thống kê phân bố nhãn.
+- Khám phá dữ liệu bằng thống kê mô tả và biểu đồ.
+- Chia dữ liệu thành tập huấn luyện, xác thực và kiểm thử trước khi học tham số.
+- Huấn luyện và đánh giá mô hình phân loại văn bản.
+- Lưu kết quả đánh giá vào tệp báo cáo để phục vụ việc theo dõi và so sánh.
+- Hỗ trợ xây dựng dịch vụ dự đoán qua FastAPI nếu cấu hình triển khai được bật.
 
-## Yêu cầu môi trường
+Các kết quả đánh giá cần được xác nhận bằng cách chạy chương trình thực tế trước khi đưa vào báo cáo chính thức.
 
-- Docker Engine 24 trở lên và Docker Compose v2, **hoặc** Python 3.11 trở lên.
-- Cổng 8080 còn trống (đổi bằng `MODEL_PORT`).
+## 2. Yêu cầu môi trường
 
-## Chạy — hai lệnh
+- Python 3.11 trở lên.
+- Git để quản lý mã nguồn.
+- Các thư viện được khai báo trong `requirements.txt`.
+- Matplotlib phục vụ trực quan hóa dữ liệu.
+- Nếu chạy dịch vụ API, cần cài đặt các thư viện và cấu hình tương ứng trong dự án.
 
-```bash
-cp .env.example .env
-docker compose up -d --build
-```
+### Cài đặt môi trường
 
-Ảnh Docker **tự huấn luyện mô hình khi dựng** (`RUN python -m src.models.train`),
-nên gói đóng gói tự đủ: người khác clone về là chạy được, không cần tệp mô hình.
-
-## Chạy không dùng Docker
+Mở Terminal hoặc CMD tại thư mục dự án:
 
 ```bash
-pip install -r requirements.txt
-python -m src.models.train --config configs/train.yaml   # sinh artifacts + reports
-uvicorn src.serve.app:app --port 8080
+python -m venv .venv
 ```
 
-## Kiểm tra hệ thống đã chạy đúng
+Kích hoạt môi trường trên Windows:
+
+```cmd
+.venv\Scripts\activate
+```
+
+Cài đặt thư viện:
 
 ```bash
-# 1. Dịch vụ mô hình phải "healthy"
-docker compose ps
-curl -s http://localhost:8080/health
-#    Kết quả mong đợi: {"status":"ok","phien_ban_mo_hinh":"...","so_nhan":6}
-
-# 2. Dự đoán với một mô tả THẬT
-curl -s -X POST http://localhost:8080/du-doan \
-  -H 'Content-Type: application/json' \
-  -d '{"mo_ta":"May sac khong vao dien, cam sac khong len bao gi"}'
-#    Kết quả mong đợi: JSON có top_3, do_tin_cay, can_nguoi_xem_lai, phien_ban_mo_hinh
-
-# 3. Dữ liệu vào không hợp lệ phải bị TỪ CHỐI, không làm sập dịch vụ
-curl -s -o /dev/null -w "%{http_code}\n" -X POST http://localhost:8080/du-doan \
-  -H 'Content-Type: application/json' -d '{"mo_ta":"abc"}'
-#    Kết quả mong đợi: 422
-
-# 4. Đọc báo cáo chỉ số
-cat reports/metrics.json | python -m json.tool | head -40
+python -m pip install -r requirements.txt
 ```
 
-## Phép thử TÁI LẬP ĐƯỢC — mục kiểm chứng quan trọng nhất
+## 3. Cấu trúc dự án
+
+```text
+mekong-ai-phanloai/
+├── configs/
+│   └── train.yaml
+├── data/
+│   └── mau/
+│       ├── issue_descriptions.csv
+│       └── gen_mau.py
+├── docs/
+│   ├── ai-disclosure.md
+│   ├── bug-log.md
+│   ├── checklist-bao-mat.md
+│   ├── deployment-guide.md
+│   ├── model-card.md
+│   ├── test-plan.md
+│   ├── test-report.md
+│   └── thay-doi-thiet-ke.md
+├── notebooks/
+│   └── 01_eda.md
+├── reports/
+│   └── metrics.json
+├── src/
+│   ├── data/
+│   │   ├── load.py
+│   │   ├── split.py
+│   │   └── eda.py
+│   ├── features/
+│   │   └── text.py
+│   ├── models/
+│   │   ├── baseline.py
+│   │   └── train.py
+│   ├── serve/
+│   │   └── app.py
+│   ├── config.py
+│   └── evaluate.py
+├── tests/
+├── .env.example
+├── .gitignore
+├── requirements.txt
+└── README.md
+```
+
+Cấu trúc trên thể hiện các thành phần chính của dự án. Khi cập nhật README, cần đối chiếu với các tệp thực tế trong repository và bổ sung những tệp còn thiếu.
+
+## 4. Phân tích dữ liệu EDA
+
+EDA (Exploratory Data Analysis) được thực hiện nhằm hiểu đặc điểm của dữ liệu trước khi huấn luyện mô hình.
+
+Chạy chương trình phân tích dữ liệu:
+
+```bash
+python -m src.data.eda
+```
+
+Chương trình thống kê:
+
+- Số lượng dòng và cột.
+- Số bản ghi trùng lặp.
+- Số lượng và tỷ lệ của từng nhãn.
+- Thống kê độ dài mô tả sự cố.
+- Tỷ lệ mô tả ngắn hơn 10 từ.
+- Biểu đồ phân bố nhãn được lưu tại `docs/eda-phan-bo-nhan.png`.
+
+**Lưu ý về sản phẩm nộp:** Tệp `notebooks/01_eda.md` là tài liệu Markdown, không phải Jupyter Notebook. Nếu đề bài yêu cầu notebook EDA có thống kê mô tả và biểu đồ, cần tạo thêm `notebooks/01_eda.ipynb` và chạy các ô lệnh để thể hiện kết quả phân tích.
+
+## 5. Huấn luyện và đánh giá mô hình
+
+Tệp cấu hình huấn luyện:
+
+```text
+configs/train.yaml
+```
+
+Chạy huấn luyện theo cấu hình:
 
 ```bash
 python -m src.models.train --config configs/train.yaml
-cp reports/metrics.json /tmp/lan1.json
-
-python -m src.models.train --config configs/train.yaml
-diff /tmp/lan1.json reports/metrics.json && echo "TAI LAP DUOC: hai lan giong het"
 ```
 
-## Chạy bộ kiểm thử
+Sau khi chạy thành công, kiểm tra các kết quả đầu ra được cấu hình trong dự án, bao gồm:
+
+- Mô hình đã huấn luyện.
+- Báo cáo chỉ số đánh giá.
+- Các chỉ số phục vụ việc so sánh và lựa chọn mô hình.
+
+Tệp báo cáo mặc định được khai báo trong cấu hình là:
+
+```text
+reports/metrics.json
+```
+
+Cần kiểm tra kết quả thực tế sau khi chạy; không sử dụng số liệu giả định để thay thế kết quả đánh giá.
+
+## 6. Kiểm thử
+
+Chạy bộ kiểm thử bằng lệnh:
 
 ```bash
-pip install -r requirements.txt
 pytest -q
 ```
 
-## Cấu trúc thư mục
+Nếu các bài kiểm thử thất bại, cần xem thông báo lỗi, xác định nguyên nhân và sửa trước khi kết luận hệ thống hoạt động đúng.
 
-```
-notebooks/01_eda.md   KHAM PHA du lieu — KHONG phai san pham nop
-src/data/load.py      Nap du lieu tho
-src/data/split.py     CHIA du lieu — lam TRUOC moi bien doi hoc tham so
-src/features/text.py  Lam sach van ban (GIU dau tieng Viet), vector hoa
-src/models/baseline.py  Hai mo hinh co so BAT BUOC de so sanh
-src/models/train.py     Huan luyen, chon mo hinh, do lan cuoi
-src/evaluate.py         Confusion matrix, chi so theo nhan, do thien lech
-src/serve/app.py        Dich vu du doan FastAPI
-configs/train.yaml      Sieu tham so va HAT GIONG ngau nhien
-artifacts/              Mo hinh da luu — KHONG commit (xem .gitignore)
-reports/metrics.json    Ket qua do, sinh tu dong
-```
+Các nội dung cần kiểm tra gồm:
 
-**Notebook không phải sản phẩm nộp.** `notebooks/01_eda.md` là ghi chép khám phá
-dữ liệu. Mục kiểm chứng của Bài tập 2 là `python -m src.models.train` chạy được
-bằng một lệnh và sinh ra `reports/metrics.json`.
+- Quy trình xử lý và chia dữ liệu.
+- Tính nhất quán của quá trình huấn luyện.
+- Các chức năng xử lý văn bản.
+- Khả năng hoạt động của dịch vụ dự đoán nếu được triển khai.
 
-## Tài liệu
+Chỉ ghi số lượng test thành công sau khi có kết quả chạy thực tế.
+
+## 7. Trạng thái hiện tại
+
+Các phần đã được bổ sung vào repository:
+
+- [x] Khởi tạo cấu trúc dự án và quản lý mã nguồn bằng Git.
+- [x] Tạo tệp ghi nhận thay đổi thiết kế tại `docs/thay-doi-thiet-ke.md`.
+- [x] Bổ sung chương trình EDA tại `src/data/eda.py`.
+- [x] Tạo biểu đồ phân bố nhãn tại `docs/eda-phan-bo-nhan.png`.
+- [x] Bổ sung thư viện Matplotlib vào `requirements.txt`.
+
+Các phần cần kiểm tra hoặc hoàn thiện trước khi nộp:
+
+- [ ] Chạy lại chương trình EDA và xác nhận kết quả.
+- [ ] Tạo Jupyter Notebook `notebooks/01_eda.ipynb` có thống kê mô tả, biểu đồ và nhận xét.
+- [ ] Chạy huấn luyện mô hình và xác nhận báo cáo được sinh thành công.
+- [ ] Chạy `pytest -q` và ghi nhận kết quả.
+- [ ] Kiểm tra `.gitignore` và `.env.example`, bảo đảm không đưa khóa bí mật hoặc tệp mô hình lớn lên GitHub.
+- [ ] Kiểm tra các thay đổi đã được commit và push lên GitHub.
+- [ ] Cập nhật trạng thái sau khi hoàn tất các bước kiểm thử.
+
+## 8. Nhật ký thay đổi thiết kế
+
+Tệp `docs/thay-doi-thiet-ke.md` ghi nhận những thay đổi so với thiết kế ban đầu, lý do kỹ thuật và các thành phần bị ảnh hưởng.
+
+Nội dung này giúp theo dõi quá trình phát triển và giải thích những quyết định thiết kế trong dự án.
+
+## 9. Tài liệu dự án
 
 | Tệp | Nội dung |
 |---|---|
-| `docs/test-plan.md` | Test Plan rút gọn 4 mục |
-| `docs/test-report.md` | 16 test case đã chạy, đủ 8 cột |
-| `docs/bug-log.md` | 3 bug đã sửa, mỗi bug 7 dòng |
-| `docs/deployment-guide.md` | Deployment Guide 5 mục |
-| `docs/checklist-bao-mat.md` | Checklist bảo mật 7 mục đã tự đánh giá |
-| `docs/model-card.md` | Model card 10 mục — thành phần 6 của BT3 cho track AI |
-| `docs/thay-doi-thiet-ke.md` | Nhật ký thay đổi so với thiết kế ban đầu |
-| `docs/ai-disclosure.md` | Bảng khai báo sử dụng công cụ AI |
+| `docs/thay-doi-thiet-ke.md` | Nhật ký thay đổi thiết kế |
+| `docs/ai-disclosure.md` | Khai báo sử dụng công cụ AI |
+| `docs/test-plan.md` | Kế hoạch kiểm thử |
+| `docs/test-report.md` | Báo cáo kiểm thử |
+| `docs/bug-log.md` | Nhật ký lỗi và cách xử lý |
+| `docs/model-card.md` | Thông tin và giới hạn của mô hình |
+| `docs/deployment-guide.md` | Hướng dẫn triển khai |
+| `docs/checklist-bao-mat.md` | Danh sách kiểm tra bảo mật |
+
+## 10. Quản lý mã nguồn
+
+Dự án được quản lý bằng Git và lưu trữ trên GitHub.
+
+Các thay đổi nên được ghi nhận bằng commit có nội dung rõ ràng theo Conventional Commits, chẳng hạn:
+
+```bash
+git add README.md
+git commit -m "docs: update environment and project status"
+git push origin master
+```
+
+Repository: https://github.com/lethuan141/mekong-ai-phanloai
