@@ -193,9 +193,9 @@ hợp lý hơn dù kém 0,031, vì trọng số của nó đọc được trực
 
 ---
 
-## 8. Thiên lệch đã đo
+## ## 8. Thiên lệch đã đo
 
-Đo trên tập test, **hai** cách nhóm, ngưỡng cảnh báo 0,15.
+Đo trên tập test, sử dụng **hai cách phân nhóm**, với ngưỡng cảnh báo chênh lệch F1 macro là 0,15.
 
 ### Cách nhóm 1 — theo độ dài mô tả
 
@@ -205,9 +205,7 @@ hợp lý hơn dù kém 0,031, vì trọng số của nó đọc được trực
 | Dài (≥ 10 từ) | 254 | 0,8329 |
 | **Chênh lệch** | | **0,0142** |
 
-**Kết luận:** dưới ngưỡng 0,15. Chênh lệch nhỏ và theo chiều dự đoán được (mô tả
-ngắn kém hơn). Vẫn áp dụng biện pháp giảm thiểu ở mục 9 vì chiều của chênh lệch
-là chiều gây hại.
+**Kết luận:** Chênh lệch dưới ngưỡng cảnh báo 0,15. Nhóm mô tả ngắn có kết quả thấp hơn nhóm mô tả dài, phù hợp với hạn chế về lượng thông tin trong câu mô tả. Tuy nhiên, cần tiếp tục theo dõi vì khoảng 30% dữ liệu có mô tả dưới 10 từ.
 
 ### Cách nhóm 2 — theo trung tâm bảo hành (`center_id`)
 
@@ -220,6 +218,22 @@ là chiều gây hại.
 | 5 | 53 | 0,7847 |
 | 6 | 67 | 0,8052 |
 | **Chênh lệch (2 so với 1)** | | **0,1602** |
+
+**Cảnh báo:** Chênh lệch 0,1602 vượt ngưỡng cảnh báo 0,15.
+
+Tuy nhiên, trong `data/mau/gen_mau.py`, `center_id` được gán ngẫu nhiên và không được dùng làm đặc trưng đầu vào của mô hình. Mỗi nhóm trong tập test chỉ có 51–72 mẫu, nên kết quả F1 macro có thể dao động đáng kể. Vì vậy, **chưa đủ bằng chứng để kết luận mô hình có thiên lệch thực sự theo trung tâm**. Chênh lệch quan sát được có thể xuất phát từ biến động lấy mẫu, nhưng cần kiểm chứng thêm thay vì mặc định đó là nguyên nhân duy nhất.
+
+### Biện pháp giảm thiểu và kế hoạch theo dõi
+
+Các biện pháp dưới đây là **kế hoạch đề xuất, chưa được triển khai và kiểm chứng trên dữ liệu thực tế**:
+
+1. **Không sử dụng `center_id` làm đặc trưng đầu vào.** Tiếp tục chỉ sử dụng trường này để phân nhóm và đánh giá kết quả, không dùng chỉ số của các nhóm nhỏ để đưa ra quyết định bất lợi đối với trung tâm hoặc nhân viên.
+2. **Bổ sung dữ liệu đại diện cho từng trung tâm.** Hướng tới tối thiểu 200 mẫu đánh giá cho mỗi nhóm trước khi đưa ra kết luận chắc chắn hơn. Đây là mục tiêu đề xuất, không phải ngưỡng bảo đảm thống kê.
+3. **Đánh giá độ ổn định của chỉ số.** Sử dụng khoảng tin cậy bootstrap để đánh giá mức độ bất định của F1 macro theo từng trung tâm, thay vì chỉ dựa vào một giá trị đo duy nhất.
+4. **Theo dõi sau mỗi phiên bản mô hình.** Ghi nhận F1 macro theo từng trung tâm và theo độ dài mô tả. Nếu chênh lệch tiếp tục vượt 0,15, cần kiểm tra chất lượng dữ liệu, cách gán nhãn và sự khác biệt trong quy trình tiếp nhận trước khi xem xét điều chỉnh mô hình.
+5. **Kiểm chứng trước khi triển khai thực tế.** Thực hiện đánh giá trên dữ liệu thật đã được gán nhãn, bảo đảm dữ liệu đại diện cho các trung tâm và cập nhật kết quả vào Model Card.
+
+**Bài học chung:** Chênh lệch giữa các nhóm là tín hiệu cần điều tra, không tự động chứng minh có thiên lệch. Báo cáo cần nêu rõ số lượng mẫu, giới hạn của phép đo và kế hoạch kiểm chứng để tránh đưa ra kết luận vượt quá bằng chứng hiện có.
 
 **Chênh lệch 0,1602 VƯỢT ngưỡng cảnh báo 0,15.** Nhưng đây là chỗ phải trung thực:
 
