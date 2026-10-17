@@ -12,3 +12,4 @@ artifacts/*
 # Bao cao chi so LA tep van ban nho, doc duoc -> NEN commit
 !reports/metrics.json
 .DS_Store
+.ipynb_checkpoints/
